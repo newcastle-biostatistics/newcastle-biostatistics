@@ -1,0 +1,25 @@
+TY  - JOUR
+AB  - We describe and compare two methods for the group sequential design of two-arm experiments with Poisson distributed data, which are based on a normal approximation and exact calculations respectively. A framework to determine near-optimal stopping boundaries is also presented. Using this framework, for a considered example, we demonstrate that a group sequential design could reduce the expected sample size under the null hypothesis by as much as 44% compared to a fixed sample approach. We conclude with a discussion of the advantages and disadvantages of the two presented procedures.
+AU  - Grayling, Michael J
+AU  - Wason, James M S
+AU  - Mander, Adrian P
+DA  - 2019/17/06
+DO  - 10.1080/03610926.2019.1628273
+J1  - Commun Stat Theory
+JA  - Commun Stat Theory
+JF  - Communications in Statistics - Theory and Methods
+JO  - Communications in Statistics - Theory and Methods
+KW  - Adaptive design
+KW  - Exact
+KW  - Interim analysis
+KW  - Optimal
+KW  - Skellam
+KW  - Two-stage
+L2  - https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1628273
+PB  - Taylor & Francis
+SN  - 0361-0926
+T1  - Exact group sequential designs for two-arm experiments with Poisson distributed outcome variables
+TI  - Exact group sequential designs for two-arm experiments with Poisson distributed outcome variables
+UR  - https://doi.org/10.1080/03610926.2019.1628273
+ER  - 
+

@@ -1,0 +1,32 @@
+TY  - JOUR
+AB  - In a group sequential clinical trial, accumulated data are analyzed at numerous time points to allow early decisions about a hypothesis of interest. These designs have historically been recommended for their ethical, administrative, and economic benefits. In this article, we first discuss a collection of new commands for computing the stopping boundaries and required group size of various classical group sequential designs, assuming a normally distributed outcome variable. Then, we demonstrate how the performance of several designs can be compared graphically.
+AU  - Grayling, Michael J
+AU  - Wason, James MS
+AU  - Mander, Adrian P
+DA  - 2018/06/01
+DO  - 10.1177/1536867X1801800208
+EP  - 431
+IS  - 2
+J1  - Stata J
+JA  - Stata J
+JF  - The Stata Journal
+JO  - The Stata Journal
+KW  - st0529
+KW  - doubletriangular
+KW  - haybittlepeto
+KW  - innerwedge
+KW  - powerfamily
+KW  - triangularKW  - wangtsiatis
+KW  - clinical trial design
+KW  - group sequential
+L2  - https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800208
+PB  - SAGE Publications
+PY  - 2018
+SN  - 1536-8734
+SP  - 416
+T1  - Group sequential clinical trial designs for normally distributed outcome variables
+TI  - Group sequential clinical trial designs for normally distributed outcome variables
+UR  - https://doi.org/10.1177/1536867X1801800208
+VL  - 18
+Y1  - 2018/06/01
+ER  - 

@@ -1,0 +1,15 @@
+%0 Journal Article
+%A Grayling, Michael J
+%A Wason, James MS
+%A Mander, Adrian P
+%D 2018
+%J The Stata Journal
+%K st0529, doubletriangular, haybittlepeto, innerwedge, powerfamily, triangular, wangtsiatis, Clinical trial design, Group sequential
+%N 2
+%P 416-431
+%R 10.1177/1536867X1801800208
+%T Group sequential clinical trial designs for normally distributed outcome variables
+%U https://doi.org/10.1177/1536867X1801800208
+%V 18
+%X In a group sequential clinical trial, accumulated data are analyzed at numerous time points to allow early decisions about a hypothesis of interest. These designs have historically been recommended for their ethical, administrative, and economic benefits. In this article, we first discuss a collection of new commands for computing the stopping boundaries and required group size of various classical group sequential designs, assuming a normally distributed outcome variable. Then, we demonstrate how the performance of several designs can be compared graphically.
+%@ 1536-8734

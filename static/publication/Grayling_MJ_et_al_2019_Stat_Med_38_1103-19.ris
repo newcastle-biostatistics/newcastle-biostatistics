@@ -1,0 +1,30 @@
+TY  - JOUR
+AB  - Numerous publications have now addressed the principles of designing, analyzing, and reporting the results of stepped-wedge cluster randomized trials. In contrast, there is little research available pertaining to the design and analysis of multiarm stepped-wedge cluster randomized trials, utilized to evaluate the effectiveness of multiple experimental interventions. In this paper, we address this by explaining how the required sample size in these multiarm trials can be ascertained when data are to be analyzed using a linear mixed model. We then go on to describe how the design of such trials can be optimized to balance between minimizing the cost of the trial and minimizing some function of the covariance matrix of the treatment effect estimates. Using a recently commenced trial that will evaluate the effectiveness of sensor monitoring in an occupational therapy rehabilitation program for older persons after hip fracture as an example, we demonstrate that our designs could reduce the number of observations required for a fixed power level by up to 58%. Consequently, when logistical constraints permit the utilization of any one of a range of possible multiarm stepped-wedge cluster randomized trial designs, researchers should consider employing our approach to optimize their trials efficiency.
+AU  - Grayling, Michael J
+AU  - Mander, Adrian P
+AU  - Wason, James MS
+DA  - 2019/03/30
+DO  - 10.1002/sim.8022
+EP  - 1119
+IS  - 7
+J1  - Stat Med
+JA  - Stat Med
+JF  - Statistics in Medicine
+JO  - Statistics in Medicine
+KW  - Admissible design
+KW  - Cluster randomized trial
+KW  - Multiple comparisons
+KW  - Optimal design
+KW  - Stepped-wedge
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8022
+PB  - John Wiley & Sons, Ltd
+PY  - 2019
+SN  - 1097-0258
+SP  - 1103
+T1  - Admissible multiarm stepped-wedge cluster randomized trial designs
+TI  - Admissible multiarm stepped-wedge cluster randomized trial designs
+U1  - 30402914[pmid]
+UR  - https://doi.org/10.1002/sim.8022
+VL  - 38
+Y1  - 2019/03/30
+ER  - 

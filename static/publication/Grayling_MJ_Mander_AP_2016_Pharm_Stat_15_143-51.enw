@@ -1,0 +1,14 @@
+%0 Journal Article
+%A Grayling, Michael J
+%A Mander, Adrian P
+%D 2016
+%J Pharmaceutical Statistics
+%K Phase II clinical trial design, Single-arm, Randomised two-arm, Optimal development plans
+%N 2
+%P 143-151
+%R 10.1002/pst.1726
+%T Do single-arm trials have a role in drug development plans incorporating randomised trials?
+%U https://doi.org/10.1002/pst.1726
+%V 15
+%X Often, single-arm trials are used in phase II to gather the first evidence of an oncological drug's efficacy, with drug activity determined through tumour response using the RECIST criterion. Provided the null hypothesis of ‘insufficient drug activity’ is rejected, the next step could be a randomised two-arm trial. However, single-arm trials may provide a biased treatment effect because of patient selection, and thus, this development plan may not be an efficient use of resources. Therefore, we compare the performance of development plans consisting of single-arm trials followed by randomised two-arm trials with stand-alone single-stage or group sequential randomised two-arm trials. Through this, we are able to investigate the utility of single-arm trials and determine the most efficient drug development plans, setting our work in the context of a published single-arm non-small-cell lung cancer trial. Reference priors, reflecting the opinions of ‘sceptical’ and ‘enthusiastic’ investigators, are used to quantify and guide the suitability of single-arm trials in this setting. We observe that the explored development plans incorporating single-arm trials are often non-optimal. Moreover, even the most pessimistic reference priors have a considerable probability in favour of alternative plans. Analysis suggests expected sample size savings of up to 25% could have been made, and the issues associated with single-arm trials avoided, for the non-small-cell lung cancer treatment through direct progression to a group sequential randomised two-arm trial. Careful consideration should thus be given to the use of single-arm trials in oncological drug development when a randomised trial will follow.
+%@ 1539-1612

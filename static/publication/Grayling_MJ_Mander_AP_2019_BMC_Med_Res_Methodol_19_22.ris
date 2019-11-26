@@ -1,0 +1,29 @@
+TY  - JOUR
+AB  - BACKGROUND: Gehan's two-stage design was historically the design of choice for phase II oncology trials. One of the reasons it is less frequently used today is that it does not allow for a formal test of treatment efficacy, and therefore does not control conventional type-I and type-II error-rates. METHODS: We describe how recently developed methodology for flexible two-stage single-arm trials can be used to incorporate the hypothesis test commonly associated with phase II trials in to Gehan's design. We additionally detail how this hypothesis test can be optimised in order to maximise its power, and describe how the second stage sample sizes can be chosen to more readily provide the operating characteristics that were originally envisioned by Gehan. Finally, we contrast our modified Gehan designs to Simon's designs, based on two examples motivated by real clinical trials. RESULTS: Gehan's original designs are often greatly under- or over-powered when compared to type-II error-rates typically used in phase II. However, we demonstrate that the control parameters of his design can be chosen to resolve this problem. With this, though, the modified Gehan designs have operating characteristics similar to the more familiar Simon designs. CONCLUSIONS: The trial design settings in which Gehan's design will be preferable over Simon's designs are likely limited. Provided the second stage sample sizes are chosen carefully, however, one scenario of potential utility is when the trial's primary goal is to ascertain the treatment response rate to a certain precision.
+AU  - Grayling, Michael J
+AU  - Mander, Adrian P
+DA  - 2019/01/28
+DO  - 10.1186/s12874-019-0659-2
+J1  - BMC Med Res Methodol
+JA  - BMC Med Res Methodol
+JF  - BMC Medical Research Methodology
+JO  - BMC Medical Research Methodology
+KW  - Adaptive
+KW  - Binary
+KW  - Group sequential
+KW  - One-sample
+KW  - Phase II
+KW  - Single-arm
+L2  - https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0659-2
+PB  - BioMed Central
+PY  - 2019
+SN  - 1471-2288
+SP  - 22
+T1  - Re-formulating Gehan's design as a flexible two-stage single-arm trial
+TI  - Re-formulating Gehan's design as a flexible two-stage single-arm trial
+U1  - 30691398[pmid]
+U2  - PMC6350340[pmcid]
+UR  - https://doi.org/10.1186/s12874-019-0659-2
+VL  - 19
+Y1  - 2019/01/28
+ER  - 

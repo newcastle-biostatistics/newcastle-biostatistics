@@ -1,0 +1,15 @@
+%0 Journal Article
+%A Grayling, Michael J
+%A Wason, James MS
+%A Mander, Adrian P
+%D 2017
+%J Clinical Trials
+%K Stepped wedge, Cluster randomised trial, Group sequential, Interim analyses, Error spending
+%N 5
+%P 507-517
+%R 10.1177/1740774517716937
+%T Group sequential designs for stepped-wedge cluster randomised trials
+%U https://doi.org/10.1177/1740774517716937
+%V 14
+%X Background/Aims: The stepped-wedge cluster randomised trial design has received substantial attention in recent years. Although various extensions to the original design have been proposed, no guidance is available on the design of stepped-wedge cluster randomised trials with interim analyses. In an individually randomised trial setting, group sequential methods can provide notable efficiency gains and ethical benefits. We address this by discussing how established group sequential methodology can be adapted for stepped-wedge designs. Methods: Utilising the error spending approach to group sequential trial design, we detail the assumptions required for the determination of stepped-wedge cluster randomised trials with interim analyses. We consider early stopping for efficacy, futility, or efficacy and futility. We describe first how this can be done for any specified linear mixed model for data analysis. We then focus on one particular commonly utilised model and, using a recently completed stepped-wedge cluster randomised trial, compare the performance of several designs with interim analyses to the classical stepped-wedge design. Finally, the performance of a quantile substitution procedure for dealing with the case of unknown variance is explored. Results: We demonstrate that the incorporation of early stopping in stepped-wedge cluster randomised trial designs could reduce the expected sample size under the null and alternative hypotheses by up to 31% and 22%, respectively, with no cost to the trial’s type-I and type-II error rates. The use of restricted error maximum likelihood estimation was found to be more important than quantile substitution for controlling the type-I error rate. Conclusion: The addition of interim analyses into stepped-wedge cluster randomised trials could help guard against time-consuming trials conducted on poor performing treatments and also help expedite the implementation of efficacious treatments. In future, trialists should consider incorporating early stopping of some kind into stepped-wedge cluster randomised trials according to the needs of the particular trial.
+%@ 1740-7745

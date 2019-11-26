@@ -1,0 +1,12 @@
+%0 Journal Article
+%A Grayling, Michael J
+%D 2014
+%J The R Journal
+%N 2
+%P 43-51
+%R 10.32614/RJ-2014-023
+%T phaseR: An R package for phase plane analysis of autonomous ODE systems
+%U https://doi.org/10.32614/RJ-2014-023
+%V 6
+%X When modelling physical systems, analysts will frequently be confronted by differential equations which cannot be solved analytically. In this instance, numerical integration will usually be the only way forward. However, for autonomous systems of ordinary differential equations (ODEs) in one or two dimensions, it is possible to employ an instructive qualitative analysis foregoing this requirement, using so-called phase plane methods. Moreover, this qualitative analysis can even prove to be highly useful for systems that can be solved analytically, or will be solved numerically anyway. The package phaseR allows the user to perform such phase plane analyses: determining the stability of any equilibrium points easily, and producing informative plots.
+%@ 2073-4859

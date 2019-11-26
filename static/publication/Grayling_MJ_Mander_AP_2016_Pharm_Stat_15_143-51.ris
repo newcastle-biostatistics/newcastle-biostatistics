@@ -1,0 +1,29 @@
+TY  - JOUR
+AB  - Often, single-arm trials are used in phase II to gather the first evidence of an oncological drug's efficacy, with drug activity determined through tumour response using the RECIST criterion. Provided the null hypothesis of 'insufficient drug activity' is rejected, the next step could be a randomised two-arm trial. However, single-arm trials may provide a biased treatment effect because of patient selection, and thus, this development plan may not be an efficient use of resources. Therefore, we compare the performance of development plans consisting of single-arm trials followed by randomised two-arm trials with stand-alone single-stage or group sequential randomised two-arm trials. Through this, we are able to investigate the utility of single-arm trials and determine the most efficient drug development plans, setting our work in the context of a published single-arm non-small-cell lung cancer trial. Reference priors, reflecting the opinions of 'sceptical' and 'enthusiastic' investigators, are used to quantify and guide the suitability of single-arm trials in this setting. We observe that the explored development plans incorporating single-arm trials are often non-optimal. Moreover, even the most pessimistic reference priors have a considerable probability in favour of alternative plans. Analysis suggests expected sample size savings of up to 25% could have been made, and the issues associated with single-arm trials avoided, for the non-small-cell lung cancer treatment through direct progression to a group sequential randomised two-arm trial. Careful consideration should thus be given to the use of single-arm trials in oncological drug development when a randomised trial will follow.
+AU  - Grayling, Michael J
+AU  - Mander, Adrian P
+DA  - 2016/03/01
+DO  - 10.1002/pst.1726
+EP  - 151
+IS  - 2
+J1  - Pharm Stat
+JA  - Pharm Stat
+JF  - Pharmaceutical Statistics
+JO  - Pharmaceutical Statistics
+KW  - Phase II clinical trial design
+KW  - Single-arm
+KW  - Randomised two-arm
+KW  - Optimal development plans
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1726
+PB  - John Wiley & Sons, Ltd
+PY  - 2016
+SN  - 1539-1612
+SP  - 143
+T1  - Do single-arm trials have a role in drug development plans incorporating randomised trials?
+TI  - Do single-arm trials have a role in drug development plans incorporating randomised trials?
+U1  - 26609689[pmid]
+U2  - PMC4855632[pmcid]
+UR  - https://doi.org/10.1002/pst.1726
+VL  - 15
+Y1  - 2016/03/01
+ER  - 

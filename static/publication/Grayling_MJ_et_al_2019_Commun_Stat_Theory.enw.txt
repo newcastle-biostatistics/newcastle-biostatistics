@@ -1,0 +1,12 @@
+%0 Journal Article
+%A Grayling, Michael J
+%A Wason, James MS
+%A Mander, Adrian P
+%D 2019
+%J Communications in Statistics - Theory and Methods
+%K Adaptive design, Exact, Interim analysis, Optimal, Skellam, Two-stage
+%R 10.1080/03610926.2019.1628273
+%T Exact group sequential designs for two-arm experiments with Poisson distributed outcome variables
+%U https://doi.org/10.1080/03610926.2019.1628273
+%X We describe and compare two methods for the group sequential design of two-arm experiments with Poisson distributed data, which are based on a normal approximation and exact calculations respectively. A framework to determine near-optimal stopping boundaries is also presented. Using this framework, for a considered example, we demonstrate that a group sequential design could reduce the expected sample size under the null hypothesis by as much as 44% compared to a fixed sample approach. We conclude with a discussion of the advantages and disadvantages of the two presented procedures.
+%@ 0361-0926

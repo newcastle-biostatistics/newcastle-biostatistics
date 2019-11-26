@@ -1,0 +1,31 @@
+TY  - JOUR
+AB  - The ability to accurately estimate the sample size required by a stepped-wedge (SW) cluster randomized trial (CRT) routinely depends upon the specification of several nuisance parameters. If these parameters are misspecified, the trial could be overpowered, leading to increased cost, or underpowered, enhancing the likelihood of a false negative. We address this issue here for cross-sectional SW-CRTs, analyzed with a particular linear-mixed model, by proposing methods for blinded and unblinded sample size reestimation (SSRE). First, blinded estimators for the variance parameters of a SW-CRT analyzed using the Hussey and Hughes model are derived. Following this, procedures for blinded and unblinded SSRE after any time period in a SW-CRT are detailed. The performance of these procedures is then examined and contrasted using two example trial design scenarios. We find that if the two key variance parameters were underspecified by 50%, the SSRE procedures were able to increase power over the conventional SW-CRT design by up to 41%, resulting in an empirical power above the desired level. Thus, though there are practical issues to consider, the performance of the procedures means researchers should consider incorporating SSRE in to future SW-CRTs.
+AU  - Grayling, Michael J
+AU  - Mander, Adrian P
+AU  - Wason, James MS
+DA  - 2018/09/01
+DO  - 10.1002/bimj.201700125
+EP  - 916
+IS  - 5
+J1  - Biom J
+JA  - Biom J
+JF  - Biometrical Journal
+JO  - Biometrical Journal
+KW  - Blinded
+KW  - Cluster randomized trial
+KW  - Internal pilot
+KW  - Sample size re-estimation
+KW  - Stepped-wedge
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700125
+PB  - John Wiley & Sons, Ltd
+PY  - 2018
+SN  - 1521-4036
+SP  - 903
+T1  - Blinded and unblinded sample size reestimation procedures for stepped-wedge cluster randomized trials
+TI  - Blinded and unblinded sample size reestimation procedures for stepped-wedge cluster randomized trials
+U1  - 30073685[pmid]
+U2  - PMC6175439[pmcid]
+UR  - https://doi.org/10.1002/bimj.201700125
+VL  - 60
+Y1  - 2018/09/01
+ER  - 

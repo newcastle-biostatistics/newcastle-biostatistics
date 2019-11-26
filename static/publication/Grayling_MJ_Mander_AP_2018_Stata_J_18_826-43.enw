@@ -1,0 +1,14 @@
+%0 Journal Article
+%A Grayling, Michael J
+%A Mander, Adrian P
+%D 2018
+%J The Stata Journal
+%K st0542, mvnormalden, pmvnormal, invmvnormal, rmvnormal, mvtden, mvt, invmvt, rmvt, tmvnormalden, tmvnormal, invtmvnormal, rtmvnormal, tmvtden, tmvt, invtmvt, rtmvt, Multivariate normal, Multivariate t, Truncated distribution
+%N 4
+%P 826-843
+%R 10.1177/1536867X1801800405
+%T Calculations involving the multivariate normal and multivariate t distributions with and without truncation
+%U https://doi.org/10.1177/1536867X1801800405
+%V 18
+%X In this article, we present a set of commands and Mata functions to evaluate different distributional quantities of the multivariate normal distribution and a particular type of noncentral multivariate t distribution. Specifically, their densities, distribution functions, equicoordinate quantiles, and pseudo–random vectors can be computed efficiently, in either the absence or the presence of variable truncation.
+%@ 1536-8734

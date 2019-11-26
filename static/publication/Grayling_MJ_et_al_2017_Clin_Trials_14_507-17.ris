@@ -1,0 +1,31 @@
+TY  - JOUR
+AB  - Background/Aims:The stepped-wedge cluster randomised trial design has received substantial attention in recent years. Although various extensions to the original design have been proposed, no guidance is available on the design of stepped-wedge cluster randomised trials with interim analyses. In an individually randomised trial setting, group sequential methods can provide notable efficiency gains and ethical benefits. We address this by discussing how established group sequential methodology can be adapted for stepped-wedge designs.Methods:Utilising the error spending approach to group sequential trial design, we detail the assumptions required for the determination of stepped-wedge cluster randomised trials with interim analyses. We consider early stopping for efficacy, futility, or efficacy and futility. We describe first how this can be done for any specified linear mixed model for data analysis. We then focus on one particular commonly utilised model and, using a recently completed stepped-wedge cluster randomised trial, compare the performance of several designs with interim analyses to the classical stepped-wedge design. Finally, the performance of a quantile substitution procedure for dealing with the case of unknown variance is explored.Results:We demonstrate that the incorporation of early stopping in stepped-wedge cluster randomised trial designs could reduce the expected sample size under the null and alternative hypotheses by up to 31% and 22%, respectively, with no cost to the trial?s type-I and type-II error rates. The use of restricted error maximum likelihood estimation was found to be more important than quantile substitution for controlling the type-I error rate.Conclusion:The addition of interim analyses into stepped-wedge cluster randomised trials could help guard against time-consuming trials conducted on poor performing treatments and also help expedite the implementation of efficacious treatments. In future, trialists should consider incorporating early stopping of some kind into stepped-wedge cluster randomised trials according to the needs of the particular trial.
+AU  - Grayling, Michael J
+AU  - Wason, James MS
+AU  - Mander, Adrian P
+DA  - 2017/06/27
+DO  - 10.1177/1740774517716937
+EP  - 517
+IS  - 5
+J1  - Clin Trials
+JA  - Clin Trials
+JF  - Clinical Trials
+JO  - Clinical Trials
+KW  - Stepped wedge
+KW  - Cluster randomised trial
+KW  - Group sequential
+KW  - Interim analyses
+KW  - Error spending
+L2  - https://journals.sagepub.com/doi/full/10.1177/1740774517716937
+PB  - SAGE Publications
+PY  - 2017
+SN  - 1740-7745
+SP  - 507
+T1  - Group sequential designs for stepped-wedge cluster randomised trials
+TI  - Group sequential designs for stepped-wedge cluster randomised trials
+U1  - 28653550[pmid]
+U2  - PMC5632563[pmcid]
+UR  - https://doi.org/10.1177/1740774517716937
+VL  - 14
+Y1  - 2017/06/27
+ER  - 

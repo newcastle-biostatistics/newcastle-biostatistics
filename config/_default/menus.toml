@@ -5,27 +5,141 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "People"
+  identifier = "people"
+  url = "/people/"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Theophile Bigirumurame"
+  parent = "people"
+  url = "/people/theophile_bigirumurame/"
+  weight = 21
+
+[[main]]
+  name = "Andy Bryant"
+  parent = "people"
+  url = "/people/andy_bryant/"
+  weight = 22
+
+[[main]]
+  name = "Thomas Chadwick"
+  parent = "people"
+  url = "/people/thomas_chadwick/"
+  weight = 23
+
+[[main]]
+  name = "Svetlana Cherlin"
+  parent = "people"
+  url = "/people/svetlana_cherlin/"
+  weight = 24
+
+[[main]]
+  name = "Mike Cole"
+  parent = "people"
+  url = "/people/mike_cole/"
+  weight = 25
+
+[[main]]
+  name = "Holly Fisher"
+  parent = "people"
+  url = "/people/holly_fisher/"
+  weight = 26
+
+[[main]]
+  name = "Tony Fouweather"
+  parent = "people"
+  url = "/people/tony_fouweather/"
+  weight = 27
+
+[[main]]
+  name = "Michael Grayling"
+  parent = "people"
+  url = "/people/michael_grayling/"
+  weight = 28
+
+[[main]]
+  name = "Denise Howel"
+  parent = "people"
+  url = "/people/denise_howel/"
+  weight = 29
+
+[[main]]
+  name = "Valentina Mamasoula"
+  parent = "people"
+  url = "/people/valentina_mamasoula/"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "John Matthews"
+  parent = "people"
+  url = "/people/john_matthews/"
+  weight = 31
+
+[[main]]
+  name = "Helen Mossop"
+  parent = "people"
+  url = "/people/helen_mossop/"
+  weight = 32
+
+[[main]]
+  name = "Vicky Ryan"
+  parent = "people"
+  url = "/people/vicky_ryan/"
+  weight = 33
+
+[[main]]
+  name = "Dawn Teare"
+  parent = "people"
+  url = "/people/dawn_teare/"
+  weight = 34
+
+[[main]]
+  name = "James Wason"
+  parent = "people"
+  url = "/people/james_wason/"
+  weight = 35
+
+[[main]]
+  name = "Nina Wilson"
+  parent = "people"
+  url = "/people/nina_wilson/"
+  weight = 36
+
+[[main]]
+  name = "Haiyan Zheng"
+  parent = "people"
+  url = "/people/haiyan_zheng/"
+  weight = 37
+
+[[main]]
+  name = "Methodology research"
+  url = "/methodology_research/"
+  weight = 38
+
+[[main]]
+  name = "Projects"
+  identifier = "projects"
+  url = "/projects/"
   weight = 40
 
 [[main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 50
+
+[[main]]
+  name = "News"
+  url = "/news/"
+  weight = 55
+
+[[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/contact/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

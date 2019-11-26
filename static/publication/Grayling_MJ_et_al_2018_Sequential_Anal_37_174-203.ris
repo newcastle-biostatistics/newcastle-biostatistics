@@ -1,0 +1,30 @@
+TY  - JOUR
+AB  - Crossover designs are an extremely useful tool to investigators, and group sequential methods have proven highly proficient at improving the efficiency of parallel group trials. Yet, group sequential methods and crossover designs have rarely been paired together. One possible explanation for this could be the absence of a formal proof of how to strongly control the familywise error rate in the case when multiple comparisons will be made. Here, we provide this proof, valid for any number of initial experimental treatments and any number of stages, when results are analyzed using a linear mixed model. We then establish formulae for the expected sample size and expected number of observations of such a trial, given any choice of stopping boundaries. Finally, utilizing the four-treatment, four-period TOMADO trial as an example, we demonstrate that group sequential methods in this setting could have reduced the trials expected number of observations under the global null hypothesis by over 33%.
+AU  - Grayling, Michael J
+AU  - Wason, James MS
+AU  - Mander, Adrian P
+DA  - 2018/04/03
+DO  - 10.1080/07474946.2018.1466528
+EP  - 203
+IS  - 2
+J1  - Sequential Anal
+JA  - Sequential Anal
+JF  - Sequential Analysis
+JO  - Sequential Analysis
+KW  - Clinical trial
+KW  - CrossoverKW  - Familywise error rate
+KW  - Group sequential
+KW  - Linear mixed model
+L2  - https://www.tandfonline.com/doi/full/10.1080/07474946.2018.1466528
+PB  - Taylor & Francis
+PY  - 2018
+SN  - 1532-4176
+SP  - 174
+T1  - Group sequential crossover trial designs with strong control of the familywise error rate
+TI  - Group sequential crossover trial designs with strong control of the familywise error rate
+U1  - 30393467[pmid]
+U2  - PMC6199128[pmcid]
+UR  - https://doi.org/10.1080/07474946.2018.1466528
+VL  - 37
+Y1  - 2018/04/03
+ER  - 
