@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Grayling
+name: Michael J Grayling
 
 # Username (this should match the folder name)
 authors:
