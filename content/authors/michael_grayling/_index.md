@@ -52,7 +52,7 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pgr528.html
-user_groups: ["Members"]
+user_groups: ["Members", "Visitors"]
 superuser: false
 ---
 
