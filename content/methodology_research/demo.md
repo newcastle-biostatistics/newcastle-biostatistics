@@ -29,3 +29,12 @@ The methodology group develops, disseminates and implements new statistical meth
 - Using historical data
 
 If you are interested in discussing a study that may require novel methods, please contact [James Wason](/people/james_wason/).
+
+### Members
+
+- [Dr Svetlana Cherlin](/people/svetlana_cherlin/)
+- [Dr Michael Grayling](/people/michael_grayling/)
+- [Prof John Matthews](/people/john_matthews/)
+- [Prof Dawn Teare](/people/dawn_teare/)
+- [Prof James Wason](/people/james_wason/)
+- [Dr Haiyan Zheng](/people/haiyan_zheng/)
