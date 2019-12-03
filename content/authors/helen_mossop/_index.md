@@ -5,7 +5,7 @@ email: "helen.mossopa@ncl.ac.uk"
 name: Helen Mossop
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/helenmossop.html#background"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/haiyanzheng.html"
 role: Biostatistician
 social:
 - icon: envelope

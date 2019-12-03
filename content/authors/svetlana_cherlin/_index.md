@@ -5,7 +5,7 @@ email: "svetlana.cherlin@ncl.ac.uk"
 name: Svetlana Cherlin
 organizations:
 - name: Newcastle Clinical Trials Unit
-  url: "https://www.ncl.ac.uk/nctu/staff/profile/svetlanacherlin.html#publications"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/svetlanacherlin.html"
 role: Sir Bobby Robson Foundation Cancer Trials Design Team Biostatistician
 social:
 - icon: envelope
@@ -18,4 +18,4 @@ superuser: false
 ### Contact
 
 - __Email:__ [svetlana.cherlin@ncl.ac.uk](mailto:svetlana.cherlin@ncl.ac.uk)
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

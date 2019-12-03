@@ -19,7 +19,7 @@ email: "denise.howel@ncl.ac.uk"
 name: Denise Howel
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/denisehowel.html#background"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/denisehowel.html"
 role: Senior Lecturer in Epidemiological Statistics
 social:
 - icon: envelope

@@ -4,8 +4,8 @@ authors:
 email: "vicky.ryana@ncl.ac.uk"
 name: Vicky Ryan
 organizations:
-- name: Institute of Health & Society
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/vickyryan.html"
+- name: Population Health Sciences Institute
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/vickyryan.html"
 role: Senior Biostatistician
 social:
 - icon: envelope
@@ -18,4 +18,4 @@ superuser: false
 
 - __Email:__ [vicky.ryan@ncl.ac.uk](mailto:vicky.ryan@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3676
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

@@ -4,8 +4,8 @@ authors:
 email: james.wason@ncl.ac.uk
 name: James Wason
 organizations:
-- name: Institute of Health & Society
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/jameswason.html"
+- name: Population Health Sciences Institute
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/jameswason.html"
 role: Professor of Biostatistics
 user_groups: ["Members"]
 social:
@@ -49,4 +49,4 @@ __Scopus:__ [Click here](https://www.scopus.com/authid/detail.uri?authorId=35313
 
 - __Email:__ [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

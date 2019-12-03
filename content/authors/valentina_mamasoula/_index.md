@@ -4,8 +4,8 @@ authors:
 email: "valentina.mamasoula@ncl.ac.uk"
 name: Valentina Mamasoula
 organizations:
-- name: Institute of Health & Society
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/valentinamamasoula.html#publications"
+- name: Population Health Sciences Institute
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/valentinamamasoula.html"
 role: Biostatistician
 social:
 - icon: envelope
@@ -17,4 +17,4 @@ superuser: false
 ### Contact
 
 - __Email:__ [valentina.mamasoula@ncl.ac.uk](mailto:valentina.mamasoula@ncl.ac.uk)
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

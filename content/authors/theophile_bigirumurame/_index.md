@@ -4,8 +4,7 @@ authors:
 email: "theophile.bigirumurame@ncl.ac.uk"
 name: Theophile Bigirumurame
 organizations:
-- name: Institute of Health & Society
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/theophilebigirumurame.html#research"
+- name: Population Health Sciences Institute
 role: Biostatistician
 social:
 - icon: envelope
@@ -27,4 +26,4 @@ My research interests lie within the field of statistics, and include:
 
 - __Email:__ [theophile.bigirumurame@ncl.ac.uk](mailto:theophile.bigirumurame@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 6776
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

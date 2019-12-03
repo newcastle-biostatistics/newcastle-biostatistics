@@ -4,7 +4,8 @@ authors:
 email: haiyan.zheng@ncl.ac.uk
 name: Haiyan Zheng
 organizations:
-- name: Institute of Health & Society
+- name: Population Health Sciences Institute
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/haiyanzheng.html"
 role: Research Associate (Statistician)
 social:
 - icon: envelope
@@ -57,4 +58,4 @@ I have been invited to deliver several tutorials on
 
 - __Email:__ [haiyan.zheng@ncl.ac.uk](mailto:haiyan.zheng@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 5006
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK

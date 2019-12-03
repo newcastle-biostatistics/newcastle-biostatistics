@@ -5,7 +5,7 @@ email: "holly.fisher@ncl.ac.uk"
 name: Holly Fisher
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/ihs/staff/profile/hollyfisher.html"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/hollyfisher.html"
 role: Biostatistician (Research Associate)
 social:
 - icon: envelope

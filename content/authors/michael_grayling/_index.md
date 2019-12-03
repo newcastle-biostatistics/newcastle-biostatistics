@@ -21,7 +21,8 @@ education:
 email: "michael.grayling@ncl.ac.uk"
 name: Michael Grayling
 organizations:
-- name: Institute of Health & Society
+- name: Population Health Sciences Institute
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/michaelgrayling.html"
 role: Newcastle University Research Fellow
 social:
 - icon: envelope
@@ -65,4 +66,4 @@ I have been in Newcastle since November 2018. Prior to this I was a Statistician
 
 - __Email:__ [michael.grayling@ncl.ac.uk](mailto:michael.grayling@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ Institute of Health & Society, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
