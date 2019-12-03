@@ -9,8 +9,8 @@ image:
   caption: ""
   focal_point: ""
 projects: []
-subtitle: Methodology for improving the efficiency of clinical trials
-summary: Methodology for improving the efficiency of clinical trials
+subtitle: Deadline 11th December 2019
+summary: Deadline 11th December 2019
 tags: []
 title: Two funded PhD positions
 ---

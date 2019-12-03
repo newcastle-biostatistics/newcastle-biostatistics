@@ -9,8 +9,8 @@ image:
   caption: ""
   focal_point: ""
 projects: []
-subtitle: Precision medicine clinical trials
-summary: Precision medicine clinical trials
+subtitle: Deadline 6th January 2020
+summary: Deadline 6th January 2020
 tags: []
 title: Senior Research Associate/Research Associate position
 ---
