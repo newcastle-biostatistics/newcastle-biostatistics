@@ -15,7 +15,7 @@ tags: []
 title: Senior Research Associate/Research Associate position
 ---
 
-An opportunity is available for a statistician to work with [James Wason]((/people/james_wason/) in the PHSI-BRG.
+An opportunity is available for a statistician to work with [James Wason](/people/james_wason/) in the PHSI-BRG.
 This position will involve working on a mix of methodological research related to precision medicine clinical trials and to work on funded clinical trials using innovative design and analysis approaches.
 
 This role is part of a sizeable expansion of the PHSI-BRG, including new academic positions, research positions, and PhD studentships that will be advertised in late 2019.
@@ -26,7 +26,7 @@ There will be opportunities to be involved in the supervision of PhD students an
 To be appointable as Senior Research Associate, you will have some postdoctoral experience with impressive research outputs.
 You will show ability to work independently and excellent promise to develop your own area of research as an independent investigator.
 
-Informal enquiries may be made to [James Wason]((/people/james_wason/) via e-mail to james.wason@newcastle.ac.uk.
+Informal enquiries may be made to [James Wason](/people/james_wason/) via e-mail to james.wason@newcastle.ac.uk.
 
 The post is available for 3 years.
 The start date is flexible but ideally would be early 2020.
