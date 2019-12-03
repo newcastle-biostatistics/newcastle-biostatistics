@@ -21,7 +21,7 @@ social:
 superuser: true
 ---
 
-The Population Health Sciences Institute Biostatistics Research Group (PHSI-BRG) consists of 17 statisticians with a variety of backgrounds, experience and expertise. 
+The Population Health Sciences Institute Biostatistics Research Group (PHSI-BRG) consists of 19 statisticians with a variety of backgrounds, experience and expertise. 
 
 The PHSI-BRG provides statistical expertise to a large portfolio of clinical trials and observational studies, working closely with the and the [NIHR Research Design Service](https://rds-ne.nihr.ac.uk/).
 
