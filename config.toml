@@ -16,7 +16,7 @@ baseurl = "https://www.newcastle-biostatistics.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-153870237-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
