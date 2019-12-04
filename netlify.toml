@@ -1,8 +1,10 @@
 [build]
   command = "hugo --gc --minify -b $URL"
+  # base    = "./"
   publish = "public"
 
 [build.environment]
+  HUGO_THEME = "academic"
   HUGO_VERSION = "0.58.3"
   HUGO_ENABLEGITINFO = "true"
 
