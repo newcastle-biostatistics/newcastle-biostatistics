@@ -26,7 +26,7 @@ There will be opportunities to be involved in the supervision of PhD students an
 To be appointable as Senior Research Associate, you will have some postdoctoral experience with impressive research outputs.
 You will show ability to work independently and excellent promise to develop your own area of research as an independent investigator.
 
-Informal enquiries may be made to [James Wason](/people/james_wason/) via e-mail to james.wason@@newcastle.ac.uk.
+Informal enquiries may be made to [James Wason](/people/james_wason/) via e-mail to [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk).
 
 The post is available for 3 years.
 The start date is flexible but ideally would be early 2020.
