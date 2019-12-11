@@ -10,9 +10,12 @@ title = "Adaptive designs"
   padding = ["20px", "0", "20px", "0"]
 +++
 
-### Costing Adaptive Trials (CAT)
+The methodology group works on a number of projects relating to adaptive clinical trial designs.
+One recently funded such project is *Costing Adaptive Trials*.
 
-*Developing best practice costing guidance for CTUs supporting adaptive trials*
+### Costing Adaptive Trials
+
+*CAT: Developing best practice costing guidance for CTUs supporting adaptive trials*
 
 ##### Background
 
