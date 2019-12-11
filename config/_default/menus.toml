@@ -118,16 +118,19 @@
 
 [[main]]
   name = "Methodology research"
+  identifier = "methodology_research"
   url = "/methodology_research/"
   weight = 40
 
 [[main]]
   name = "Methodology research"
+  parent = "methodology_research"
   url = "/methodology_research/overview/"
   weight = 41
 
 [[main]]
   name = "Methodology research"
+  parent = "methodology_research"
   url = "/methodology_research/adaptive_designs/"
   weight = 42
 
