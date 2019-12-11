@@ -119,28 +119,38 @@
 [[main]]
   name = "Methodology research"
   url = "/methodology_research/"
-  weight = 38
+  weight = 40
+
+[[main]]
+  name = "Methodology research"
+  url = "/methodology_research/overview/"
+  weight = 41
+
+[[main]]
+  name = "Methodology research"
+  url = "/methodology_research/adaptive_designs/"
+  weight = 42
 
 [[main]]
   name = "Projects"
   identifier = "projects"
   url = "/projects/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Publications"
   url = "/publications/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "News"
   url = "/news/"
-  weight = 55
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "/contact/"
-  weight = 60
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
