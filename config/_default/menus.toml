@@ -123,13 +123,13 @@
   weight = 40
 
 [[main]]
-  name = "Methodology research"
+  name = "Overview"
   parent = "methodology_research"
   url = "/methodology_research/overview/"
   weight = 41
 
 [[main]]
-  name = "Methodology research"
+  name = "Adaptive designs"
   parent = "methodology_research"
   url = "/methodology_research/adaptive_designs/"
   weight = 42

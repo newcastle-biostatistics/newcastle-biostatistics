@@ -14,7 +14,7 @@ title = "Adaptive designs"
 
 *Developing best practice costing guidance for CTUs supporting adaptive trials*
 
-#### Background
+##### Background
 
 There is a growing focus on increasing the efficiency of clinical trials.
 A methodological approach that can address this is Adaptive Designs (ADs).
@@ -22,7 +22,7 @@ An AD allows the opportunity for information gathered during the trial to be use
 ADs have been increasingly used, including multiple examples funded by The NIHR and supported by UK Clinical Trials Units (CTUs).
 Despite guidance available on ADs, a key outstanding issue is understanding better what funding and personnel resources are required to successfully conduct an adaptive trial and how these compare to traditional trial designs.
 
-#### Objectives
+##### Objectives
 
 This project has the following objectives:
 
@@ -31,7 +31,7 @@ This project has the following objectives:
 3. To determine best-practice guidance on a costing model for ADs.
 4. To prioritise future methodological research that improve the cost-effectiveness of ADs.
 
-#### Research plan
+##### Research plan
 
 We will ask interested CTUs to cost the resources they would request for supporting five mock trial scenarios.
 For each scenario an adaptive design is specified and the closest analogous non-adaptive design.
