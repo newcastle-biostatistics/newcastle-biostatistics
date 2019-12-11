@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 1
-title = "Methodology research"
+title = "Overview"
 [design]
   columns = "1"
 [design.spacing]
