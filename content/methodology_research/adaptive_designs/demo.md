@@ -17,7 +17,7 @@ One recently funded such project is *Costing Adaptive Trials*.
 
 *CAT: Developing best practice costing guidance for CTUs supporting adaptive trials*
 
-![CAT](/static/img/costing_adaptive_trials.png)
+![CAT](/img/costing_adaptive_trials.png)
 
 ##### Background
 
