@@ -17,6 +17,8 @@ One recently funded such project is *Costing Adaptive Trials*.
 
 *CAT: Developing best practice costing guidance for CTUs supporting adaptive trials*
 
+![CAT](/static/img/costing_adaptive_trials.png)
+
 ##### Background
 
 There is a growing focus on increasing the efficiency of clinical trials.
