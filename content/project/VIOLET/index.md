@@ -13,7 +13,7 @@ url_video = ""
   preview_only = true
 +++
 
-A study that aims to develop an adapted training package, and then perform a pilot trial to investigate whether a full-scale randomised controlled trial of this intervention is feasible
+A study that aims to develop an adapted training package, and then perform a pilot trial to investigate whether a full-scale randomised controlled trial of this intervention is feasible.
 
 https://www.northumbria.ac.uk/about-us/news-events/news/2015/06/can-exercise-help-older-people-with-vision-problems-avoid-falls/
 

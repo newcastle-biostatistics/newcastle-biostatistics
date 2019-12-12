@@ -21,4 +21,4 @@ PBC patients also experience important symptoms such as fatigue, itch and concen
 
 The goal of UK-PBC is to understand why some patients with PBC do not respond to current treatments, to help identify better treatments, to demonstrate that those treatments help patients with PBC and ultimately improve clinical care across the UK for people with PBC.
 
-*UK-PBC is funded by a grant from the Medical Research Council*.
+*UK-PBC is funded by a grant from the Medical Research Council.*

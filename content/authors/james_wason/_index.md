@@ -26,8 +26,8 @@ superuser: false
 I am a statistician with interests in methods for improving the design and analysis of clinical trials.
 As well as working in methodology development I have a great interest in collaborating on real trials to apply new methods in practice.
 
-I have been in Newcastle since July 2017.
-I currently retain a part-time position in the MRC Biostatistics Unit, University of Cambridge.
+I have been at [Newcastle University](https://www.ncl.ac.uk/) since July 2017.
+I currently retain a part-time position in the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
 
 ### Areas of expertise
 
@@ -49,4 +49,4 @@ __Scopus:__ [Click here](https://www.scopus.com/authid/detail.uri?authorId=35313
 
 - __Email:__ [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Baddiley-Clark Building](https://www.ncl.ac.uk/tour/academic/baddiley-clark/), Richardson Road, Newcastle upon Tyne NE2 4AX, UK

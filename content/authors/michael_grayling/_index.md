@@ -58,12 +58,14 @@ superuser: false
 
 ## Background
 
-I am Newcastle University Research Fellow in Biostatistics, interested in methodology for improving the design and analysis of clinical trials. As well as working on developing methodology, I am also interested in collaborating on real trials.
+I am a [Newcastle University Research Fellow](https://www.ncl.ac.uk/medicalsciences/research/career-development/fellowship/#overview) in Biostatistics, interested in methodology for improving the design and analysis of clinical trials.
+As well as working on developing methodology, I am also interested in collaborating on real trials.
 
-I have been in Newcastle since November 2018. Prior to this I was a Statistician at the MRC Biostatistics Unit, University of Cambridge.
+I have been at [Newcastle University](https://www.ncl.ac.uk/) since November 2018.
+Prior to this I was a Statistician at the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
 
 ### Contact
 
 - __Email:__ [michael.grayling@ncl.ac.uk](mailto:michael.grayling@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ Population Health Sciences Institute, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Baddiley-Clark Building](https://www.ncl.ac.uk/tour/academic/baddiley-clark/), Richardson Road, Newcastle upon Tyne NE2 4AX, UK

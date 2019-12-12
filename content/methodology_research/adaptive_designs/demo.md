@@ -15,7 +15,7 @@ One recently funded such project is *Costing Adaptive Trials*.
 
 ### Costing Adaptive Trials
 
-*CAT: Developing best practice costing guidance for CTUs supporting adaptive trials*
+*Developing best practice costing guidance for CTUs supporting adaptive trials*
 
 ![CAT](/img/costing_adaptive_trials.png)
 
@@ -24,7 +24,7 @@ One recently funded such project is *Costing Adaptive Trials*.
 There is a growing focus on increasing the efficiency of clinical trials.
 A methodological approach that can address this is Adaptive Designs (ADs).
 An AD allows the opportunity for information gathered during the trial to be used to make modifications, in a statistically robust way, to help reach valid conclusions.
-ADs have been increasingly used, including multiple examples funded by The NIHR and supported by UK Clinical Trials Units (CTUs).
+ADs have been increasingly used, including multiple examples funded by the [NIHR](https://www.nihr.ac.uk/) and supported by [UK Clinical Trials Units](https://www.ukcrc-ctu.org.uk/) (CTUs).
 Despite guidance available on ADs, a key outstanding issue is understanding better what funding and personnel resources are required to successfully conduct an adaptive trial and how these compare to traditional trial designs.
 
 ##### Objectives
@@ -40,7 +40,7 @@ This project has the following objectives:
 
 We will ask interested CTUs to cost the resources they would request for supporting five mock trial scenarios.
 For each scenario an adaptive design is specified and the closest analogous non-adaptive design.
-Two of the scenarios represent more advanced trial designs that may not be widely used – CTUs may choose not to cost these if they feel their CTU would not support such a trial. 
+Two of the scenarios represent more advanced trial designs that may not be widely used -- CTUs may choose not to cost these if they feel their CTU would not support such a trial. 
 
 Qualitative research (telephone interviews) will then explore the costings provided with the CTU staff who performed the costing.
 Results from the actual costing and the qualitative interviews will form the basis of best-practice guidance on the appropriate level of resources to include for adaptive trials.
