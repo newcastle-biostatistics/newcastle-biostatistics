@@ -27,6 +27,6 @@ The PHSI-BRG provides statistical expertise to a large [portfolio](/projects/) o
 
 PHSI-BRG members are independent and experienced researchers who are capable of providing statistical expertise at all stages of research projects from design, grant application, and data collection through to analysis/reporting of results.
 The group work according to [MHRA](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) good clinical practice at the highest standard.
-The PHSI-BRG's model is to collaborate with investigators from project conception to ensure high quality proposals that have the best chance of successful funding.
+The PHSI-BRGs model is to collaborate with investigators from project conception to ensure high quality proposals that have the best chance of successful funding.
 
-As well as supporting real clinical trials, the PHSI-BRG has a newly established and growing [methodology research](/methodology_research/) group.
+As well as supporting real clinical trials, the PHSI-BRG has a newly established and growing [methodology research](/methodology_research/overview/) group.
