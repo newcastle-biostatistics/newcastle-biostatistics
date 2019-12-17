@@ -6,12 +6,12 @@ Methods: Using national birth statistics from 2 continents, we assessed the evid
 Results: We confirm that seasonality in birth rate is ubiquitous and subject to highly significant regional and temporal variations. In the context of this variation we show that birth rates observed in typical case collections are highly likely to deviate significantly from those obtained by the simple unweighted averaging of national statistics. The significant correlations between birth rates and both place (latitude) and time (year of birth) that characterize the general population indicate that the apparent seasonal patterns for month of birth suggested to be specific for multiple sclerosis (increased in the spring and reduced in the winter) are expected by chance alone.
 
 Interpretation: In the absence of adequate control for confounding factors, such as year and place of birth, our analyses indicate that the previous claims for association of multiple sclerosis with month of birth are probably false positives."""
-authors = ["Barnaby Fiddes", "james_wason", "Anu Kemppinen", "Maria Ban", "Alastair Compston", "Stephen Sawcer"]
-date = 2013-06-01
+authors = ["Fiddes B", "Wason J", "Kemppinen A", "Ban M", "Compston A", "Sawcer S"]
+date = 2013-07-18
 doi = "10.1002/ana.23925"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*Annals of Neurology* 2013; __73__(6)__:__714–720"
 publication_short = "*Ann Neurol* 2013; __73:__714–20"
 publication_types = ["2"]

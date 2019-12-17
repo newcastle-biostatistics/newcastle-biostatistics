@@ -6,12 +6,12 @@ Methods/Design: The trial is being conducted at 10 sites across the UK. Seven hu
 Discussion: The START trial is a pragmatic national trial of sufficient size to evaluate multisystemic therapy, to inform policymakers, service commissioners, professionals, service users and their families about its potential in the UK. It will also provide data on the clinical and cost-effectiveness of usual services provided to youth with serious antisocial behaviour problems.
 
 Trial Registration: ISRCTN77132214."""
-authors = ["Peter Fonagy", "Stephen Butler", "Ian Goodyer", "David Cottrell", "Stephen Scott", "Stephen Pilling", "Ivan Eisler", "Peter Fuggle", "Abdullah Kraam", "Sarah Byford", "james_wason", "Rachel Haley"]
+authors = ["Fonagy P", "Butler S", "Goodyer I", "Cottrell D", "Scott S", "Pilling S", "Eisler I", "Fuggle P", "Kraam A", "Byford S", "Wason J", "Haley R"]
 date = 2013-08-20
 doi = "10.1186/1745-6215-14-265"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*Trials* 2013; __14:__265"
 publication_short = "*Trials* 2013; __14:__265"
 publication_types = ["2"]
@@ -19,4 +19,3 @@ summary = "*Trials* 2013; __14:__265"
 tags = ["Wason"]
 title = "Evaluation of multisystemic therapy pilot services in the Systemic Therapy for At Risk Teens (START) trial: Study protocol for a randomised controlled trial"
 +++
-

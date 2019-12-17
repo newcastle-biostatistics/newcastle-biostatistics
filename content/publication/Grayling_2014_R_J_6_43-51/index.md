@@ -5,7 +5,7 @@ date = "2014-12-01"
 doi = "10.32614/RJ-2014-023"
 featured = false
 highlight = true
-links = [{name = ".enw", url = "publication/Grayling_2014_R_J_6_43-51.enw"}, {name = ".ris", url = "publication/Grayling_2014_R_J_6_43-51.ris"}]
+links = [{name = ".bib", url = "publication/Grayling_2014_R_J_6_43-51.bib"}, {name = ".enw", url = "publication/Grayling_2014_R_J_6_43-51.enw"}, {name = ".ris", url = "publication/Grayling_2014_R_J_6_43-51.ris"}]
 math = true
 publication = "*The R Journal* 2014; __6__(2)__:__43-51"
 publication_short = "*R J* 2014; __6:__43-51"

@@ -6,12 +6,12 @@ Methods/Design: Eighty participants and their families recruited from five Londo
 Discussion: The STEPS-B feasibility trial aims to inform policymakers, commissioners of services and professionals about the potential for implementing MST-PSB as an intervention for adolescents showing problem sexual behaviour. Should MST-PSB show potential, STEPS-B will determine what would be necessary to implement the programme more fully and at a scale that would warrant a full trial.
 
 Trial Registration: ISRCTN28441235 (registered 25 January 2012)."""
-authors = ["Peter Fonagy", "Stephen Butler", "Geoffrey Baruch", "Sarah Byford", "Michael C Seto", "james_wason", "Charles Wells", "Jessie Greisbach", "Rachel Ellison", "Elizabeth Simes"]
+authors = ["Fonagy P", "Butler S", "Baruch G", "Byford S", "Seto MC", "Wason J", "Wells C", "Greisbach J", "Ellison R", "Simes E"]
 date = 2015-11-02
 doi = "10.1186/s13063-015-1017-2"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*Trials* 2015; __16:__492"
 publication_short = "*Trials* 2015; __16:__492"
 publication_types = ["2"]
@@ -19,4 +19,3 @@ summary = "*Trials* 2015; __16:__492"
 tags = ["Wason"]
 title = "Evaluation of multisystemic therapy pilot services in Services for Teens Engaging in Problem Sexual Behaviour (STEPS-B): Study protocol for a randomized controlled trial"
 +++
-

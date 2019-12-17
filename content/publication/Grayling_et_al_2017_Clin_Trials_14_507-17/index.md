@@ -6,12 +6,12 @@ Methods: Utilising the error spending approach to group sequential trial design,
 Results: We demonstrate that the incorporation of early stopping in stepped-wedge cluster randomised trial designs could reduce the expected sample size under the null and alternative hypotheses by up to 31% and 22%, respectively, with no cost to the trial's type-I and type-II error rates. The use of restricted error maximum likelihood estimation was found to be more important than quantile substitution for controlling the type-I error rate.
 
 Conclusion: The addition of interim analyses into stepped-wedge cluster randomised trials could help guard against time-consuming trials conducted on poor performing treatments and also help expedite the implementation of efficacious treatments. In future, trialists should consider incorporating early stopping of some kind into stepped-wedge cluster randomised trials according to the needs of the particular trial."""
-authors = ["michael_grayling", "james_wason", "Adrian Mander"]
+authors = ["Grayling MJ", "Wason JMS", "Mander AP"]
 date = "2017-10-01"
 doi = "10.1177/1740774517716937"
 featured = false
 highlight = true
-links = [{name = ".bib", url = "publication/Grayling_MJ_et_al_2017_Clin_Trials_14_507-17.bib"}, {name = ".enw", url = "publication/Grayling_MJ_et_al_2017_Clin_Trials_14_507-17.enw"}, {name = ".ris", url = "publication/Grayling_MJ_et_al_2017_Clin_Trials_14_507-17.ris"}]
+links = [{name = ".bib", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.ris"}]
 math = true
 publication = "*Clinical Trials* 2017; __14__(5)__:__501-517"
 publication_short = "*Clin Trials* 2017; __14:__501-17"
@@ -19,12 +19,4 @@ publication_types = ["2"]
 summary = "*Clinical Trials* 2017; __14__(5)__:__501-517"
 tags = ["Grayling", "Wason"]
 title = "Group sequential designs for stepped-wedge cluster randomised trials"
-url_code = ""
-url_dataset = ""
-url_pdf = ""
-url_poster = ""
-url_project = ""
-url_slides = ""
-url_source = ""
-url_video = ""
 +++

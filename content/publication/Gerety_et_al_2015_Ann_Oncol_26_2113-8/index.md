@@ -6,12 +6,12 @@ Patients and Methods: An adaptive two-stage trial design was utilized, which was
 Results: Seventy-seven lesions were diagnosed as malignant: 100% were identified by (18)F-NaF PET/CT, 46% by CT and 29% by bone scintigraphy/SPECT. Standard-of-care imaging with CT and bone scintigraphy identified 65% of the metastases reported by (18)F-NaF PET/CT. On an individual patient basis, (18)F-NaF PET/CT detected more RCC metastases than (99m)Tc-MDP bone scintigraphy/SPECT or CT alone (P = 0.007). The metabolic volumes, mean and maximum standardized uptake values (SUV mean and SUV max) of the malignant lesions were significantly greater than those of the benign lesions (P < 0.001).
 
 Conclusions: (18)F-NaF PET/CT is significantly more sensitive at detecting RCC skeletal metastases than conventional bone scintigraphy or CT. The detection of occult bone metastases could greatly alter patient management, particularly in the context when standard-of-care imaging is negative for skeletal metastases."""
-authors = ["E L Gerety", "E M Lawrence", "james_wason", "H Yan", "S Hilborne", "J Buscombe", "H K Cheow", "A S Shaw", "N Bird", "K Fife", "S Heard", "D J Lomas", "A Matakidou", "D Soloviev", "T Eisen", "F A Gallagher"]
+authors = ["Gerety EL", "Lawrence EM", "Wason J", "Yan H", "Hilborne S", "Buscombe J", "Cheow HK", "Shaw AS", "Bird N", "Fife K", "Heard S", "Lomas DJ", "Matakidou A", "Soloviev D", "Eisen T", "Gallagher FA"]
 date = 2015-10-01
 doi = "10.1093/annonc/mdv289"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*Annals of Oncology* 2015; __26__(10)__:__2113-2118"
 publication_short = "*Ann Oncol* 2015; __26:__2113-8"
 publication_types = ["2"]
@@ -19,4 +19,3 @@ summary = "*Annals of Oncology* 2015; __26__(10)__:__2113-2118"
 tags = ["Wason"]
 title = "Prospective study evaluating the relative sensitivity of 18F-NaF PET/CT for detecting skeletal metastases from renal cell carcinoma in comparison to multidetector CT and 99mTc-MDP bone scintigraphy, using an adaptive trial design"
 +++
-

@@ -6,25 +6,17 @@ Methods: We describe how recently developed methodology for flexible two-stage s
 Results: Gehan's original designs are often greatly under- or over-powered when compared to type-II error-rates typically used in phase II. However, we demonstrate that the control parameters of his design can be chosen to resolve this problem. With this, though, the modified Gehan designs have operating characteristics similar to the more familiar Simon designs.
 
 Conclusions: The trial design settings in which Gehan's design will be preferable over Simon's designs are likely limited. Provided the second stage sample sizes are chosen carefully, however, one scenario of potential utility is when the trial's primary goal is to ascertain the treatment response rate to a certain precision."""
-authors = ["michael_grayling", "Adrian Mander"]
-tags = ["Grayling"]
-date = "2019-01-01"
+authors = ["Grayling MJ", "Mander AP"]
+date = "2019-01-28"
 doi = "10.1186/s12874-019-0659-2"
 featured = false
+highlight = true
+links = [{name = ".bib", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.bib"}, {name = ".enw", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.enw"}, {name = ".ris", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.ris"}]
+math = true
 publication = "*BMC Medical Research Methodology* 2019; __19:__22"
 publication_short = "*BMC Med Res Methodol* 2019; __19:__22"
 publication_types = ["2"]
 summary = "*BMC Medical Research Methodology* 2019; __19:__22"
+tags = ["Grayling"]
 title = "Re-formulating Gehan's design as a flexible two-stage single-arm trial"
-url_code = ""
-url_dataset = ""
-url_pdf = ""
-url_poster = ""
-url_project = ""
-url_slides = ""
-url_source = ""
-url_video = ""
-math = true
-highlight = true
-links = [{name = ".bib", url = "publication/Grayling_MJ_Mander_AP_2019_BMC_Med_Res_Methodol_19_22.bib"}, {name = ".enw", url = "publication/Grayling_MJ_Mander_AP_2019_BMC_Med_Res_Methodol_19_22.enw"}, {name = ".ris", url = "publication/Grayling_MJ_Mander_AP_2019_BMC_Med_Res_Methodol_19_22.ris"}]
 +++

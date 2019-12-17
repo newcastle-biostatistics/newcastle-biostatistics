@@ -8,12 +8,12 @@ Findings: Between Feb 4, 2010, and Sept 1, 2012, 1076 families were referred to 
 Interpretation: The findings do not support that multisystemic therapy should be used over management as usual as the intervention of choice for adolescents with moderate-to-severe antisocial behaviour.
 
 Funding: Department for Children, Schools and Families, Department of Health."""
-authors = ["Peter Fonagy", "Stephen Butler", "David Cottrell", "Stephen Scott", "Stephen Pilling", "Ivan Eisler", "Peter Fuggle", "Abdullah Kraam", "Sarah Byford", "james_wason", "Rachel Ellison", "Elizabeth Simes", "Poushali Ganguli", "Elizabeth Allison", "Ian M Goodyer"]
+authors = ["Fonagy P", "Butler S", "Cottrell D", "Scott S", "Pilling S", "Eisler I", "Fuggle P", "Kraam A", "Byford S", "Wason J", "Ellison R", "Simes E", "Ganguli P", "Allison E", "Goodyer IM"]
 date = 2018-02-01
 doi = "10.1016/S2215-0366(18)30001-4"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*Lancet Psychiatry* 2018; __5__(2)__:__119-133"
 publication_short = "*Lancet Psychiatry* 2018; __5:__119-33"
 publication_types = ["2"]
@@ -21,4 +21,3 @@ summary = "*Lancet Psychiatry* 2018; __5__(2)__:__119-133"
 tags = ["Wason"]
 title = "Multisystemic therapy versus management as usual in the treatment of adolescent antisocial behaviour (START): A pragmatic, randomised controlled, superiority trial"
 +++
-
