@@ -11,6 +11,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:vicky.ryan@ncl.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PtQzqy8AAAAJ&hl=en&oi=ao
 superuser: false
 ---
 
