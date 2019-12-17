@@ -3,7 +3,7 @@ abstract = """Background: The mortality rate associated with elective aortic ane
 
 Methods: This was a multicentre, prospective audit of 177 hospitals throughout the UK and Ireland. Data were collected by questionnaire to include all patients undergoing elective or urgent surgery for infrarenal abdominal aortic aneurysm or aortoiliac occlusive disease over 4 months.
 
-Results: Nine hundred and thirty-three patients were recruited into the audit. The overall mortality rate was 7˙3 per cent. Factors increasing the risk of death by up to fivefold included age over 74 years, urgent surgery, operation for occlusive disease, limited exercise capacity, a history of severe angina or cardiac failure, the presence of ventricular ectopics and abnormalities suggesting ischaemic heart disease on electrocardiography.
+Results: Nine hundred and thirty-three patients were recruited into the audit. The overall mortality rate was 7.3 per cent. Factors increasing the risk of death by up to fivefold included age over 74 years, urgent surgery, operation for occlusive disease, limited exercise capacity, a history of severe angina or cardiac failure, the presence of ventricular ectopics and abnormalities suggesting ischaemic heart disease on electrocardiography.
 
 Conclusion: Although the in-hospital mortality rate was similar to previously published figures, the rate increased considerably when commonly encountered risk factors were present."""
 authors = ["Bayly PJM", "Matthews JN", "Dobson PM", "Price ML", "Thomas DG"]

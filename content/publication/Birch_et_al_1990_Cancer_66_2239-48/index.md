@@ -12,4 +12,3 @@ publication_types = ["2"]
 summary = "*Cancer* 1990; __66__(10)__:__2239-2248"
 title = "Cancer in the families of children with soft tissue sarcoma"
 +++
-

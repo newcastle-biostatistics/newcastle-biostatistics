@@ -13,4 +13,3 @@ summary = "*Journal of Clinical Oncology* 1990; __8__(4)__:__583-590"
 tags = ["Teare"]
 title = "Identification of factors associated with high breast cancer risk in the mothers of children with soft tissue sarcoma"
 +++
-

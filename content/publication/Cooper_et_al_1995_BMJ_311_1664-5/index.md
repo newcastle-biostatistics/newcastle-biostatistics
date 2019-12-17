@@ -10,12 +10,12 @@ Main outcome measures: Changes in energy expenditure, substrate use, heart rate,
 Results: Energy expenditure was raised slightly (0.21 kJ/day) during the "exciting" film. Individual responses varied greatly.
 
 Conclusion: Watching different types of video seems to have little effect on resting metabolic rate."""
-authors = ["B G Cooper", "john_matthews", "K G M M Alberti"]
+authors = ["Cooper BG", "Matthews JN", "Alberti KG"]
 date = 1995-12-23
 doi = "10.1136/bmj.311.7021.1664"
 featured = false
-math = true
 highlight = true
+math = true
 publication = "*BMJ* 1995; __311__(7021)__:__1664-1665"
 publication_short = "*BMJ* 1995; __311:__1664-5"
 publication_types = ["2"]
