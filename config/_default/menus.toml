@@ -63,58 +63,64 @@
   weight = 28
 
 [[main]]
+  name = "Shaun Hiu"
+  parent = "people"
+  url = "/people/shaun_hiu/"
+  weight = 29
+
+[[main]]
   name = "Denise Howel"
   parent = "people"
   url = "/people/denise_howel/"
-  weight = 29
+  weight = 30
 
 [[main]]
   name = "Valentina Mamasoula"
   parent = "people"
   url = "/people/valentina_mamasoula/"
-  weight = 30
+  weight = 31
 
 [[main]]
   name = "John Matthews"
   parent = "people"
   url = "/people/john_matthews/"
-  weight = 31
+  weight = 32
 
 [[main]]
   name = "Helen Mossop"
   parent = "people"
   url = "/people/helen_mossop/"
-  weight = 32
+  weight = 33
 
 [[main]]
   name = "Vicky Ryan"
   parent = "people"
   url = "/people/vicky_ryan/"
-  weight = 33
+  weight = 34
 
 [[main]]
   name = "Dawn Teare"
   parent = "people"
   url = "/people/dawn_teare/"
-  weight = 34
+  weight = 35
 
 [[main]]
   name = "James Wason"
   parent = "people"
   url = "/people/james_wason/"
-  weight = 35
+  weight = 36
 
 [[main]]
   name = "Nina Wilson"
   parent = "people"
   url = "/people/nina_wilson/"
-  weight = 36
+  weight = 37
 
 [[main]]
   name = "Haiyan Zheng"
   parent = "people"
   url = "/people/haiyan_zheng/"
-  weight = 37
+  weight = 38
 
 [[main]]
   name = "Methodology research"
