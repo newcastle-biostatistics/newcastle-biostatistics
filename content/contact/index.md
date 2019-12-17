@@ -1,4 +1,4 @@
 +++
-title: "Contact"
-type: "widget_page"
+title = "Contact"
+type = "widget_page"
 +++
