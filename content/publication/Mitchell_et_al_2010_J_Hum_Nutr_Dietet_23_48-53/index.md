@@ -16,6 +16,6 @@ publication = "*Journal of Human Nutrition and Dietetics* 2010; 23(1):48-53"
 publication_short = "*J Hum Nutr Diet* 2010; 23:48-53"
 publication_types = ["2"]
 summary = "*Journal of Human Nutrition and Dietetics* 2010; 23(1):48-53"
-tags = ["Wason"]
+tags = ["Matthews"]
 title = "Reliability of the School Food Checklist for in-school audits and photograph analysis of children's packed lunches"
 +++

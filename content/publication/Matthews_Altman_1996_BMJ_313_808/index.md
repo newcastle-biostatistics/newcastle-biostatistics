@@ -10,7 +10,7 @@ publication = "*BMJ* 1996; 313:808"
 publication_short = "*BMJ* 1996; 313:808"
 publication_types = ["2"]
 summary = "*BMJ* 1996; 313:808"
-tags = ["Wason"]
+tags = ["Matthews"]
 title = "Statistics Notes: Interaction 2: Compare effect sizes not P values"
 +++
 

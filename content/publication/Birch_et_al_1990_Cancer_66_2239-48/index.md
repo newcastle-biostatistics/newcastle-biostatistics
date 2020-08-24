@@ -10,5 +10,6 @@ publication = "*Cancer* 1990; 66(10):2239-2248"
 publication_short = "*Cancer* 1990; 66:2239-48"
 publication_types = ["2"]
 summary = "*Cancer* 1990; 66(10):2239-2248"
+tags = ["Teare"]
 title = "Cancer in the families of children with soft tissue sarcoma"
 +++

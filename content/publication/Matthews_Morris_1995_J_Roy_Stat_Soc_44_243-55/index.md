@@ -10,7 +10,7 @@ publication = "*Journal of the Royal Statistical Society: Series C (Applied Stat
 publication_short = "*J R Stat Soc C - Appl* 1995; 44:243-55"
 publication_types = ["2"]
 summary = "*Journal of the Royal Statistical Society: Series C (Applied Statistics)* 1995; 44(2):243-255"
-tags = ["Wason"]
+tags = ["Matthews"]
 title = "An application of Bradley-Terry-Type models to the measurement of pain"
 +++
 

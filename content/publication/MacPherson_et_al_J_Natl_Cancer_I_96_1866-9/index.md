@@ -10,6 +10,6 @@ publication = "*JNCI: Journal of the National Cancer Institute* 2004; 96(24):186
 publication_short = "*JNCI: J Natl Cancer Inst* 2004; 96:1866-9"
 publication_types = ["2"]
 summary = "*JNCI: Journal of the National Cancer Institute* 2004; 96(24):1866-1869"
-tags = ["Wason"]
+tags = ["Teare"]
 title = "Association of a common variant of the CASP8 gene with reduced risk of breast cancer"
 +++
