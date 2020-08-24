@@ -6,17 +6,16 @@ METHOD: A pragmatic, non-inferiority, randomised controlled trial will compare O
 ETHICS AND DISSEMINATION: The trial received ethical approval from North East and York Research Ethics Committee (Reference: 17/NE/0012). Dissemination plans include publications in peer-reviewed journals, presentations in relevant research conferences, local research symposia and seminars for children and their families, and for professionals and service managers.
 
 TRIAL REGISTRATION NUMBER: ISRCTN19883421;Pre-results."""
-authors = ["Barry D Wright", "Cindy Cooper", "Alexander J Scott", "Lucy Tindall", "Shehzad Ali", "Penny Bee", "Katie Biggs", "Trilby Breckman", "Thompson E Davis III", "Lina Gega", "Rebecca Julie Hargate", "Ellen Lee", "Karina Lovell", "David Marshall", "Dean McMillan", "M Dawn Teare", "Jonathan Wilson"]
+authors = ["Wright BD", "Cooper C", "Scott AJ", "Tindall L", "Ali S", "Bee P", "Biggs K", "Breckman T", "Davis TE III", "Gega L", "Hargate RJ", "Lee E", "Lovell K", "Marshall D", "McMillan D", "Teare MD", "Wilson J"]
 date = 2018-08-17
 doi = "10.1136/bmjopen-2018-025031"
 featured = false
 math = true
 highlight = true
-publication = "*BMJ Open* 2018; __8__(8)__:__e025031"
-publication_short = "*BMJ Open* 2018; __8__(8)__:__e025031"
+publication = "*BMJ Open* 2018; 8(8):e025031"
+publication_short = "*BMJ Open* 2018; 8(8):e025031"
 publication_types = ["2"]
-summary = "*BMJ Open* 2018; __8__(8)__:__e025031"
+summary = "*BMJ Open* 2018; 8(8):e025031"
 tags = ["Teare"]
 title = "Clinical and cost-effectiveness of one-session treatment (OST) versus multisession cognitive-behavioural therapy (CBT) for specific phobias in children: Protocol for a non-inferiority randomised controlled trial"
 +++
-

@@ -8,16 +8,16 @@ Methods: Linkage analysis of microsatellite markers at chromosome 2q14 was under
 Results: Two-point LOD scores at chromosome 2q14 markers encompassing the DHMNVP gene were negative in both families.
 
 Conclusions: These results suggest that at least one further gene predisposing to distal muscular weakness in association with vocal cord paralysis is likely to exist, and that dHMN-VII and HMSN-IIC are unlikely to be allelic disorders. Analyses of further HMSN-IIC families are required to confirm this."""
-authors = ["M McEntagart", "M Dunstan", "C Bell", "E Boltshauser", "M Donaghy", "P S Harper", "N Williams", "dawn_teare", "N Rahman"]
+authors = ["McEntagart M", "Dunstan M", "Bell C", "Boltshauser E", "Donaghy M", "Harper PS", "Williams N", "Teare MD", "Rahman N"]
 date = 2002-12-01
 doi = "10.1136/jnnp.73.6.762"
 featured = false
 math = true
 highlight = true
-publication = "*Journal of Neurology, Neurosurgery & Psychiatry* 2002; __73__(6)__:__762-765"
-publication_short = "*J Neurol Neurosurg Psychiatry* 2002; __73:__762-5"
+publication = "*Journal of Neurology, Neurosurgery & Psychiatry* 2002; 73(6):762-765"
+publication_short = "*J Neurol Neurosurg Psychiatry* 2002; 73:762-5"
 publication_types = ["2"]
-summary = "*Journal of Neurology, Neurosurgery & Psychiatry* 2002; __73__(6)__:__762-765"
+summary = "*Journal of Neurology, Neurosurgery & Psychiatry* 2002; 73(6):762-765"
 tags = ["Teare"]
 title = "Clinical and genetic heterogeneity in peroneal muscular atrophy associated with vocal cord weakness"
 +++

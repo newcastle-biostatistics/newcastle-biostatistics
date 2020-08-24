@@ -8,16 +8,16 @@ RESULTS: Multiple instrumental variable analysis incorporating six SNPs showed a
 CONCLUSIONS: Our findings suggest a causal relationship between elevated platelet count and increased risk of lung cancer and provide evidence of possible antiplatelet interventions for lung cancer prevention.
 
 IMPACT: These findings provide a better understanding of lung cancer etiology and potential evidence for antiplatelet interventions for lung cancer prevention."""
-authors = ["Ying Zhu", "Yongyue Wei", "Ruyang Zhang", "Xuesi Dong", "Sipeng Shen", "Yang Zhao", "Jianling Bai", "Demetrius Albanes", "Neil E Caporaso", "Maria Teresa Landi", "Bin Zhu", "Stephen J Chanock", "Fangyi Gu", "Stephen Lam", "Ming-Sound Tsao", "Frances A Shepherd", "Adonina Tardon", "Ana Fernandez-Somoano", "Guillermo Fernandez-Tardon", "Chu Chen", "Matthew J Barnett", "Jennifer Doherty", "Stig E Bojesen", "Mattias Johansson", "Paul Brennan", "James D McKay", "Robert Carreras-Torres", "Thomas Muley", "Angela Risch", "Heunz-Erich Wichmann", "Heike Bickeboeller", "Albert Rosenberger", "Gad Rennert", "Walid Saliba", "Susanne M Arnold", "John K Field", "Michael P A Davies", "Michael W Marcus", "Xifeng Wu", "Yuanqing Ye", "Loic Le Marchand", "Lynne R Wilkens", "Olle Melander", "Jonas Manjer", "Hans Brunnström", "Rayjean J Hung", "Geoffrey Liu", "Yonathan Brhane", "Linda Kachuri", "Angeline S Andrew", "Eric J Duell", "Lambertus A Kiemeney", "Erik H F M van der Heijden", "Aage Haugen", "Shanbeh Zienolddiny", "Vidar Skaug", "Kjell Grankvist", "Mikael Johansson", "Penella J Woll", "Angela Cox", "Fiona Taylor", "Dawn M Teare", "Philip Lazarus", "Matthew B Schabath", "Melinda C Aldrich", "Richard S Houlston", "John McLaughlin", "Victoria L Stevens", "Hongbing Shen", "Zhibin Hu", "Juncheng Dai", "Christopher I Amos", "Younghun Han", "Dakai Zhu", "Gary E Goodman", "Feng Chen", "David C Christiani"]
+authors = ["Zhu Y", "Wei Y", "Zhang R", "Dong X", "Shen S", "Zhao Y", "Bai J", "Albanes D", "Caporaso NE", "Landi MT", "Zhu B", "Chanock SJ", "Gu F", "Lam S", "Tsao M-S", "Shepherd FA", "Tardon A", "Fernandez-Somoano A", "Fernandez-Tardon G", "Chen C", "Barnett MJ", "Doherty J", "Bojesen SE", "Johansson M", "Brennan P", "McKay JD", "Carreras-Torres R", "Muley T", "Risch A", "Wichmann H-E", "Bickeboeller H", "Rosenberger A", "Rennert G", "Saliba W", "Arnold SM", "Field JK", "Davies MPA", "Marcus MW", "Wu X", "Ye Y", "Le Marchand L", "Wilkens LR", "Melander O", "Manjer J", "Brunnström H", "Hung RJ", "Liu G", "Brhane Y", "Kachuri L", "Andrew AS", "Duell EJ", "Kiemeney LA", "van der Heijden EHFM", "Haugen A", "Zienolddiny S", "Skaug V", "Grankvist K", "Johansson M", "Woll PJ", "Cox A", "Taylor F", "Teare DM", "Lazarus P", "Schabath MB", "Aldrich MC", "Houlston RS", "McLaughlin J", "Stevens VL", "Shen H", "Hu Z", "Dai J", "Amos CI", "Han Y", "Zhu D", "Goodman GE", "Chen F", "David C Christiani"]
 date = 2019-05-01
 doi = "10.1158/1055-9965.EPI-18-0356"
 featured = false
 math = true
 highlight = true
-publication = "*Cancer Epidemiology and Prevention Biomarkers* 2019; __28__(5)__:__935-942"
-publication_short = "*Cancer Epidemiol Biomarkers Prev* 2019; __28:__935-42"
+publication = "*Cancer Epidemiology and Prevention Biomarkers* 2019; 28(5):935-942"
+publication_short = "*Cancer Epidemiol Biomarkers Prev* 2019; 28:935-42"
 publication_types = ["2"]
-summary = "*Cancer Epidemiology and Prevention Biomarkers* 2019; __28__(5)__:__935-942"
+summary = "*Cancer Epidemiology and Prevention Biomarkers* 2019; 28(5):935-942"
 tags = ["Teare"]
 title = "Elevated platelet count appears to be causally associated with increased risk of lung cancer: A Mendelian randomization analysis"
 +++
