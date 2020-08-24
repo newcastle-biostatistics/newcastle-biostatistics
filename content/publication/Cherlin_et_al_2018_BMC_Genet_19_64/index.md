@@ -6,10 +6,10 @@ doi = "10.1186/s12863-018-0652-5"
 featured = false
 highlight = true
 math = true
-publication = "*BMC Genetics* 2018; __19:__64"
-publication_short = "*BMC Genet* 2018; __19:__64"
+publication = "*BMC Genetics* 2018; 19:64"
+publication_short = "*BMC Genet* 2018; 19:64"
 publication_types = ["2"]
-summary = "*BMC Genetics* 2018; __19:__64"
+summary = "*BMC Genetics* 2018; 19:64"
 tags = ["Cherlin"]
 title = "Detecting responses to treatment with fenofibrate in pedigrees"
 +++

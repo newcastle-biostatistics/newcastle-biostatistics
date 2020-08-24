@@ -6,10 +6,10 @@ doi = "10.1086/301749"
 featured = false
 highlight = true
 math = true
-publication = "*American Journal of Human Genetics* 1998; __62__(3)__:__676-689"
-publication_short = "*Am J Hum Genet* 1998; __62:__676-89"
+publication = "*American Journal of Human Genetics* 1998; 62(3):676-689"
+publication_short = "*Am J Hum Genet* 1998; 62:676-89"
 publication_types = ["2"]
-summary = "*American Journal of Human Genetics* 1998; __62__(3)__:__676-689"
+summary = "*American Journal of Human Genetics* 1998; 62(3):676-689"
 tags = ["Teare"]
 title = "Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families"
 +++

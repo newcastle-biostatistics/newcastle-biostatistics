@@ -16,10 +16,10 @@ doi = "10.1136/bmj.311.7021.1664"
 featured = false
 highlight = true
 math = true
-publication = "*BMJ* 1995; __311__(7021)__:__1664-1665"
-publication_short = "*BMJ* 1995; __311:__1664-5"
+publication = "*BMJ* 1995; 311(7021):1664-1665"
+publication_short = "*BMJ* 1995; 311:1664-5"
 publication_types = ["2"]
-summary = "*BMJ* 1995; __311__(7021)__:__1664-1665"
+summary = "*BMJ* 1995; 311(7021):1664-1665"
 tags = ["Matthews"]
 title = "Resting energy expenditure, substrate use, and video tapes"
 +++

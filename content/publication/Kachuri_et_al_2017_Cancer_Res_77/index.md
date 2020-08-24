@@ -6,16 +6,16 @@ Methods: We investigated 3 standardized (mean=0, standard deviation=1) LF metric
 Results were filtered to retain independent variants (R2<0.2) associated with each LF phenotype (p<5×10-8). The following IVs were developed: FEV1 (n=28 variants, 0.72% of variation explained), FVC (n=44, 1.08%), and FEV1/FVC (n=45, 1.85%). Odds ratios (OR) for each IV and lung cancer were estimated for 18,686 cases 15,190 controls (>80% European ancestry) from 23 studies. Effect estimates were combined using maximum-likelihood MR models to estimate causal ORs. MR results indicate that genetic scores associated with improved airflow are unrelated to lung cancer risk: FEV1 (OR=1.00, 95% CI: 0.96-1.03, p=0.86), FVC (OR=1.00, 0.97-1.03, p=0.93) and FEV1/FVC (OR=1.00, 0.91-1.10, p=0.95). The null association observed for the genetic determinants of FEV1, FVC and FEV1/FVC was not modified by tumor histology or smoking status.
 
 Conclusions: LF is a robust predictor of lung cancer risk, however, our findings do not support the existence of causal pathways that are independent of obstructive lung disease or smoking. This apparent lack of a causal relationship should be interpreted with caution since pleiotropic effects of LF loci cannot be ruled out."""
-authors = ["Linda Kachuri", "Mattias Johansson", "Paul Brennan", "Phillip Haycock", "Geoffrey Liu", "Maria Teresa Landi", "David C Christiani", "Neil E Caporaso", "Xifeng Wu", "Melinda C Aldrich", "Demetrius Albanes", "Adonina Tardon", "Gad Rennert", "Chu Chen", "Gary E Goodman", "Jennifer A Doherty", "Heike Bickeboller", "dawn_teare", "Lambertus A Kiemeney", "Stig E Bojesen", "John K Field", "Aage Haugen", "Stephen Lam", "Loic Le Marchand", "Matthew B Schabath", "Angeline S Andrew", "Jonas Manjer", "Philip Lazarus", "Susanne M Arnold", "Valerie Gaborieau", "Richard Martin", "Caroline Relton", "George Davey Smith", "Christopher I Amos", "James D McKay", "Rayjean J Hung"]
+authors = ["Kachuri L", "Johansson M", "Brennan P", "Haycock P", "Liu G", "Landi MT", "Christiani DC", "Caporaso NE", "Wu X", "Aldrich MC", "Albanes D", "Tardon A", "Rennert G", "Chen C", "Goodman GE", "Doherty JA", "Bickeboller H", "Teare D", "Kiemeney LA", "Bojesen SE", "Field JK", "Haugen A", "Lam S", "Le Marchand L", "Schabath MB", "Andrew AS", "Manjer J", "Lazarus P", "Arnold SM", "Gaborieau V", "Martin R", "Relton C", "Davey Smith G", "Amos CI", "McKay JD", "Hung RJ"]
 date = 2017-01-01
 doi = "10.1158/1538-7445.AM2017-2292"
 featured = false
 math = true
 highlight = true
-publication = "*Cancer Research* 2017; __77__(13 Suppl)__:__Abstract nr 2292"
+publication = "*Cancer Research* 2017; 77(13 Suppl):Abstract nr 2292"
 publication_types = ["2"]
-publication_short = "*Cancer Res* 2017; __77:__Abstract nr 2292"
-summary = "*Cancer Research* 2017; __77__(13 Suppl)__:__Abstract nr 2292"
+publication_short = "*Cancer Res* 2017; 77:Abstract nr 2292"
+summary = "*Cancer Research* 2017; 77(13 Suppl):Abstract nr 2292"
 tags = ["Teare"]
 title = "Abstract 2292: Lung function and lung cancer risk: A Mendelian randomization study of UK Biobank cohort and the International Lung Cancer Consortium"
 +++

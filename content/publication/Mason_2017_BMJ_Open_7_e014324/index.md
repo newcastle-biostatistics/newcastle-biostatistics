@@ -14,25 +14,16 @@ Results: Clinical data available for 3534/3566 patients (99.1%), median age 79 y
 Conclusions: In alert warfarinised patients following head injury, the presence of symptoms is associated with greater risk of adverse outcome. Those with GCS=15 and no symptoms are a substantial group and have a low risk of adverse outcome.
 
 Trial registration number: NCT02461498."""
-authors = ["Suzanne Mason", "Maxine Kuczawski", "dawn_teare", "Matt Stevenson", "Steve Goodacre", "Shammi Ramlakhan", "Francis Morris", "Joanne Rothwell"]
-tags = ["Teare"]
-date = "2017-01-01"
+authors = ["Mason S", "Kuczawski M", "Teare MD", "Stevenson M", "Goodacre S", "Ramlakhan S", "Morris F", "Rothwell J"]
+date = "2017-01-13"
 doi = "10.1136/bmjopen-2016-014324"
 featured = true
-publication = "*BMJ Open* 2017; __7:__e014324"
-publication_short = "*BMJ Open* 2017; __7:__e014324"
-publication_types = ["2"]
-projects = []
-summary = "*BMJ Open* 2017; __7:__e014324"
-title = "AHEAD Study: An observational study of the management of anticoagulated patients who suffer head injury"
-url_code = ""
-url_dataset = ""
-url_pdf = ""
-url_poster = ""
-url_project = ""
-url_slides = ""
-url_source = ""
-url_video = ""
 math = true
 highlight = true
+publication = "*BMJ Open* 2017; 7:e014324"
+publication_short = "*BMJ Open* 2017; 7:e014324"
+publication_types = ["2"]
+summary = "*BMJ Open* 2017; 7:e014324"
+tags = ["Teare"]
+title = "AHEAD Study: An observational study of the management of anticoagulated patients who suffer head injury"
 +++

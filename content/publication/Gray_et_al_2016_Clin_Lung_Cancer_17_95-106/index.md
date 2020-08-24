@@ -6,10 +6,10 @@ doi = "10.1016/j.cllc.2015.11.007"
 featured = false
 highlight = true
 math = true
-publication = "*Clinical Lung Cancer* 2016; __17__(2)__:__95-106"
-publication_short = "*Clin Lung Cancer* 2016; __17:__95-106"
+publication = "*Clinical Lung Cancer* 2016; 17(2):95-106"
+publication_short = "*Clin Lung Cancer* 2016; 17:95-106"
 publication_types = ["2"]
-summary = "*Clinical Lung Cancer* 2016; __17__(2)__:__95-106"
+summary = "*Clinical Lung Cancer* 2016; 17(2):95-106"
 tags = ["Teare"]
 title = "Risk prediction models for lung cancer: A systematic review"
 +++

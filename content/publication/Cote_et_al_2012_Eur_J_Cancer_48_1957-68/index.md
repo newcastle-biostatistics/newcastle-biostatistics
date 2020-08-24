@@ -10,10 +10,10 @@ doi = "10.1016/j.ejca.2012.01.038"
 featured = false
 highlight = true
 math = true
-publication = "*European Journal of Cancer* 2012; __48__(13)__:__1957-1968"
-publication_short = "*Eur J Cancer* 2012; __48:__1957-68"
+publication = "*European Journal of Cancer* 2012; 48(13):1957-1968"
+publication_short = "*Eur J Cancer* 2012; 48:1957-68"
 publication_types = ["2"]
-summary = "*European Journal of Cancer* 2012; __48__(13)__:__1957-1968"
+summary = "*European Journal of Cancer* 2012; 48(13):1957-1968"
 tags = ["Teare"]
 title = "Increased risk of lung cancer in individuals with a family history of the disease: A pooled analysis from the International Lung Cancer Consortium"
 +++

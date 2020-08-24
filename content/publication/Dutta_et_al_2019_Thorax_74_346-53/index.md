@@ -13,10 +13,10 @@ featured = false
 highlight = true
 math = true
 projects = ["PPIPF"]
-publication = "*Thorax* 2019; __74__(4)__:__346-353"
-publication_short = "*Thorax* 2019; __74:__346-53"
+publication = "*Thorax* 2019; 74(4):346-353"
+publication_short = "*Thorax* 2019; 74:346-53"
 publication_types = ["2"]
-summary = "*Thorax* 2019; __74__(4)__:__346-353"
+summary = "*Thorax* 2019; 74(4):346-353"
 tags = ["Mossop", "Ryan"]
 title = "Randomised, double-blind, placebo-controlled pilot trial of omeprazole in idiopathic pulmonary fibrosis"
 +++

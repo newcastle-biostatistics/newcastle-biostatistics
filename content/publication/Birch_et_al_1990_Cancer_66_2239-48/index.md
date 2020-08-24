@@ -6,9 +6,9 @@ doi = "10.1002/1097-0142(19901115)66:10<2239::AID-CNCR2820661034>3.0.CO;2-Q"
 featured = false
 highlight = true
 math = true
-publication = "*Cancer* 1990; __66__(10)__:__2239-2248"
-publication_short = "*Cancer* 1990; __66:__2239-48"
+publication = "*Cancer* 1990; 66(10):2239-2248"
+publication_short = "*Cancer* 1990; 66:2239-48"
 publication_types = ["2"]
-summary = "*Cancer* 1990; __66__(10)__:__2239-2248"
+summary = "*Cancer* 1990; 66(10):2239-2248"
 title = "Cancer in the families of children with soft tissue sarcoma"
 +++

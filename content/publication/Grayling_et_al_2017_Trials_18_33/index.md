@@ -13,10 +13,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2017_Trials_18_33.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2017_Trials_18_33.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2017_Trials_18_33.ris"}]
 math = true
-publication = "*Trials* 2017; __18:__33"
-publication_short = "*Trials* 2017; __18:__33"
+publication = "*Trials* 2017; 18:33"
+publication_short = "*Trials* 2017; 18:33"
 publication_types = ["2"]
-summary = "*Trials* 2017; __18:__33"
+summary = "*Trials* 2017; 18:33"
 tags = ["Grayling", "Wason"]
 title = "Stepped wedge cluster randomized controlled trial designs: A review of reporting quality and design features"
 +++

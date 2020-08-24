@@ -12,10 +12,10 @@ doi = "10.1186/s13063-015-1017-2"
 featured = false
 highlight = true
 math = true
-publication = "*Trials* 2015; __16:__492"
-publication_short = "*Trials* 2015; __16:__492"
+publication = "*Trials* 2015; 16:492"
+publication_short = "*Trials* 2015; 16:492"
 publication_types = ["2"]
-summary = "*Trials* 2015; __16:__492"
+summary = "*Trials* 2015; 16:492"
 tags = ["Wason"]
 title = "Evaluation of multisystemic therapy pilot services in Services for Teens Engaging in Problem Sexual Behaviour (STEPS-B): Study protocol for a randomized controlled trial"
 +++

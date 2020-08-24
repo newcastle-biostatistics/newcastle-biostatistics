@@ -6,10 +6,10 @@ doi = "10.1093/molbev/msx294"
 featured = false
 highlight = true
 math = true
-publication = "*Molecular Biology and Evolution* 2018; __35__(4)__:__984-1002"
-publication_short = "*Mol Biol Evol* 2018; __35:__984-1002"
+publication = "*Molecular Biology and Evolution* 2018; 35(4):984-1002"
+publication_short = "*Mol Biol Evol* 2018; 35:984-1002"
 publication_types = ["2"]
-summary = "*Molecular Biology and Evolution* 2018; __35__(4)__:__984-1002"
+summary = "*Molecular Biology and Evolution* 2018; 35(4):984-1002"
 tags = ["Cherlin"]
 title = "The effect of nonreversibility on inferring rooted phylogenies"
 +++

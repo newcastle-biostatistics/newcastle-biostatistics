@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2018_Stata_J_18_416-31.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2018_Stata_J_18_416-31.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2018_Stata_J_18_416-31.ris"}]
 math = true
-publication = "*The Stata Journal* 2018; __18__(2)__:__416-431"
-publication_short = "*Stata J* 2018; __18:__416-31"
+publication = "*The Stata Journal* 2018; 18(2):416-431"
+publication_short = "*Stata J* 2018; 18:416-31"
 publication_types = ["2"]
-summary = "*The Stata Journal* 2018; __18__(2)__:__416-431"
+summary = "*The Stata Journal* 2018; 18(2):416-431"
 tags = ["Grayling", "Wason"]
 title = "Group sequential clinical trial designs for normally distributed outcome variables"
 +++

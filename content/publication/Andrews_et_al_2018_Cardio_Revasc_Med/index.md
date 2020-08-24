@@ -12,10 +12,10 @@ doi = "10.1016/j.carrev.2018.12.020"
 featured = false
 highlight = true
 math = true
-publication = "*Cardiovascular Revascularization Medicine* 2018; In Press"
-publication_short = "*Cardiovasc Revasc Med* 2018; In Press"
+publication = "*Cardiovascular Revascularization Medicine* 2018; 20(11):980-984"
+publication_short = "*Cardiovasc Revasc Med* 2018; 20:980-4"
 publication_types = ["2"]
-summary = "*Cardiovascular Revascularization Medicine* 2018; In Press"
+summary = "*Cardiovascular Revascularization Medicine* 2018; 20(11):980-984"
 tags = ["Teare"]
 title = "Development and validation of a novel risk score for primary percutaneous coronary intervention for ST elevation myocardial infarction"
 +++

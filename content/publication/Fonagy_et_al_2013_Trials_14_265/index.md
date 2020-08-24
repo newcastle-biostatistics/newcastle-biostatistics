@@ -12,10 +12,10 @@ doi = "10.1186/1745-6215-14-265"
 featured = false
 highlight = true
 math = true
-publication = "*Trials* 2013; __14:__265"
-publication_short = "*Trials* 2013; __14:__265"
+publication = "*Trials* 2013; 14:265"
+publication_short = "*Trials* 2013; 14:265"
 publication_types = ["2"]
-summary = "*Trials* 2013; __14:__265"
+summary = "*Trials* 2013; 14:265"
 tags = ["Wason"]
 title = "Evaluation of multisystemic therapy pilot services in the Systemic Therapy for At Risk Teens (START) trial: Study protocol for a randomised controlled trial"
 +++

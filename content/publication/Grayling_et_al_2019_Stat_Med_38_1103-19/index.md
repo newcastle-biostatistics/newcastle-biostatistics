@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2019_Stat_Med_38_1103-19.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2019_Stat_Med_38_1103-19.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2019_Stat_Med_38_1103-19.ris"}]
 math = true
-publication = "*Statistics in Medicine* 2019; __38__(7)__:__1103-1119"
-publication_short = "*Stat Med* 2019; __38:__1103-19"
+publication = "*Statistics in Medicine* 2019; 38(7):1103-1119"
+publication_short = "*Stat Med* 2019; 38:1103-19"
 publication_types = ["2"]
-summary = "*Statistics in Medicine* 2019; __38__(7)__:__1103-1119"
+summary = "*Statistics in Medicine* 2019; 38(7):1103-1119"
 tags = ["Grayling", "Wason"]
 title = "Admissible multiarm stepped‐wedge cluster randomized trial designs"
 +++

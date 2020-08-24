@@ -7,10 +7,10 @@ featured = true
 highlight = true
 links = [{name = ".bib", url = "publication/Hemming_et_al_2018_BMJ_363_k1614.bib"}, {name = ".enw", url = "publication/Hemming_et_al_2018_BMJ_363_k1614.enw"}, {name = ".ris", url = "publication/Hemming_et_al_2018_BMJ_363_k1614.ris"}]
 math = true
-publication = "*BMJ* 2018; __363:__k1614"
-publication_short = "*BMJ* 2018; __363:__k1614"
+publication = "*BMJ* 2018; 363:k1614"
+publication_short = "*BMJ* 2018; 363:k1614"
 publication_types = ["2"]
-summary = "*BMJ* 2018; __363:__k1614"
+summary = "*BMJ* 2018; 363:k1614"
 tags = ["Grayling"]
 title = "Reporting of the CONSORT extension for stepped-wedge cluster randomised trials: Extension of the CONSORT 2010 statement with explanation and elaboration"
 +++

@@ -6,10 +6,10 @@ doi = "10.1136/jmg.37.3.210"
 featured = false
 highlight = true
 math = true
-publication = "*Journal of Medical Genetics* 2000; __37__(3)__:__210-212"
-publication_short = "*J Med Genet* 2000; __37:__210-2"
+publication = "*Journal of Medical Genetics* 2000; 37(3):210-212"
+publication_short = "*J Med Genet* 2000; 37:210-2"
 publication_types = ["2"]
-summary = "*Journal of Medical Genetics* 2000; __37__(3)__:__210-212"
+summary = "*Journal of Medical Genetics* 2000; 37(3):210-212"
 tags = ["Teare"]
 title = "No evidence of germline PTEN mutations in familial prostate cancer"
 +++

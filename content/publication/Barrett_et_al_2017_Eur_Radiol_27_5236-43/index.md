@@ -12,10 +12,10 @@ doi = "10.1007/s00330-017-4905-x"
 featured = false
 highlight = true
 math = true
-publication = "*European Radiology* 2017; __27__(12)__:__5236-5243"
-publication_short = "*Eur Radiol* 2017; __27:__5236-43"
+publication = "*European Radiology* 2017; 27(12):5236-5243"
+publication_short = "*Eur Radiol* 2017; 27:5236-43"
 publication_types = ["2"]
-summary = "*European Radiology* 2017; __27__(12)__:__5236-5243"
+summary = "*European Radiology* 2017; 27(12):5236-5243"
 tags = ["Wason"]
 title = "The longitudinal effect of ejaculation on seminal vesicle fluid volume and whole-prostate ADC as measured on prostate MRI"
 +++

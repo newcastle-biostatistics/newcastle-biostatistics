@@ -6,10 +6,10 @@ doi = "10.1086/316906"
 featured = false
 highlight = true
 math = true
-publication = "*American Journal of Human Genetics* 2000; __67__(6)__:__1544-1554"
-publication_short = "*Am J Hum Genet* 2000; __67:__1544-54"
+publication = "*American Journal of Human Genetics* 2000; 67(6):1544-1554"
+publication_short = "*Am J Hum Genet* 2000; 67:1544-54"
 publication_types = ["2"]
-summary = "*Am J Hum Genet* 2000; __67:__1544-54"
+summary = "*Am J Hum Genet* 2000; 67:1544-54"
 tags = ["Teare"]
 title = "The extent of linkage disequilibrium in four populations with distinct demographic histories"
 +++

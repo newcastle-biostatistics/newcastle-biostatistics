@@ -10,10 +10,10 @@ doi = "10.1371/journal.pone.0177875"
 featured = false
 highlight = true
 math = true
-publication = "*PLoS One* 2017; __12__(6)__:__e0177875"
-publication_short = "*PLoS One* 2017; __12:__e0177875"
+publication = "*PLoS One* 2017; 12(6):e0177875"
+publication_short = "*PLoS One* 2017; 12:e0177875"
 publication_types = ["2"]
-summary = "*PLoS One* 2017; __12__(6)__:__e0177875"
+summary = "*PLoS One* 2017; 12(6):e0177875"
 tags = ["Teare"]
 title = "Obesity, metabolic factors and risk of different histological types of lung cancer: A Mendelian randomization study"
 +++

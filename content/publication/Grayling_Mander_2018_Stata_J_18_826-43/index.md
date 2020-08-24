@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_Mander_2018_Stata_J_18_826-43.bib"}, {name = ".enw", url = "publication/Grayling_Mander_2018_Stata_J_18_826-43.enw"}, {name = ".ris", url = "publication/Grayling_Mander_2018_Stata_J_18_826-43.ris"}]
 math = true
-publication = "*The Stata Journal* 2018; __18__(4)__:__826-843"
-publication_short = "*Stata J* 2018; __18:__826-43"
+publication = "*The Stata Journal* 2018; 18(4):826-843"
+publication_short = "*Stata J* 2018; 18:826-43"
 publication_types = ["2"]
-summary = "*The Stata Journal* 2018; __18__(4)__:__826-843"
+summary = "*The Stata Journal* 2018; 18(4):826-843"
 tags = ["Grayling"]
 title = "Calculations involving the multivariate normal and multivariate t distributions with and without truncation"
 +++

@@ -12,10 +12,10 @@ doi = "10.1542/peds.2005-0348"
 featured = false
 highlight = true
 math = true
-publication = "*Pediatrics* 2006; __117__(4)__:__e717-e724"
-publication_short = "*Pediatrics* 2006; __117:__e717-24"
+publication = "*Pediatrics* 2006; 117(4):e717-e724"
+publication_short = "*Pediatrics* 2006; 117:e717-24"
 publication_types = ["2"]
-summary = "*Pediatrics* 2006; __117__(4)__:__e717-e724"
+summary = "*Pediatrics* 2006; 117(4):e717-e724"
 tags = ["Matthews"]
 title = "Haemophilus influenzae type b immunization in infants in the United Kingdom: Effects of Diphtheria/Tetanus/Acellular Pertussis/Hib combination vaccine, significant prematurity, and a fourth dose"
 +++

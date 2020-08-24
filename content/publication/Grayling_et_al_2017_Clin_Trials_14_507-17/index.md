@@ -13,10 +13,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2017_Clin_Trials_14_507-17.ris"}]
 math = true
-publication = "*Clinical Trials* 2017; __14__(5)__:__501-517"
-publication_short = "*Clin Trials* 2017; __14:__501-17"
+publication = "*Clinical Trials* 2017; 14(5):501-517"
+publication_short = "*Clin Trials* 2017; 14:501-17"
 publication_types = ["2"]
-summary = "*Clinical Trials* 2017; __14__(5)__:__501-517"
+summary = "*Clinical Trials* 2017; 14(5):501-517"
 tags = ["Grayling", "Wason"]
 title = "Group sequential designs for stepped-wedge cluster randomised trials"
 +++

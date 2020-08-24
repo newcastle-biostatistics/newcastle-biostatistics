@@ -6,10 +6,10 @@ doi = "10.1093/carcin/bgy187"
 featured = false
 highlight = true
 math = true
-publication = "*Carcinogenesis* 2019; __40__(3)__:__432-440"
-publication_short = "*Carcinogenesis* 2019; __40__(3)__:__432-440"
+publication = "*Carcinogenesis* 2019; 40(3):432-440"
+publication_short = "*Carcinogenesis* 2019; 40(3):432-440"
 publication_types = ["2"]
-summary = "*Carcinogenesis* 2019; __40__(3)__:__432-440"
+summary = "*Carcinogenesis* 2019; 40(3):432-440"
 tags = ["Teare"]
 title = "Systematic analyses of regulatory variants in DNase I hypersensitive sites identified two novel lung cancer susceptibility loci"
 +++

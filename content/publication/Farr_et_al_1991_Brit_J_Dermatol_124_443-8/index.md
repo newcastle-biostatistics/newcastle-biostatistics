@@ -6,10 +6,10 @@ doi = "10.1111/j.1365-2133.1991.tb00623.x"
 featured = false
 highlight = true
 math = true
-publication = "*British Journal of Dermatology* 1991; __124__(5)__:__443-448"
-publication_short = "*Br J Dermatol* 1991; __124:__443-8"
+publication = "*British Journal of Dermatology* 1991; 124(5):443-448"
+publication_short = "*Br J Dermatol* 1991; 124:443-8"
 publication_types = ["2"]
-summary = "*British Journal of Dermatology* 1991; __124__(5)__:__443-448"
+summary = "*British Journal of Dermatology* 1991; 124(5):443-448"
 tags = ["Matthews"]
 title = "The action spectrum between 320 and 400 nm for clearance of psoriasis by psoralen photochemotherapy"
 +++

@@ -6,17 +6,16 @@ Objective: Numerous reviews of telehealth have described the evidence base as in
 Results: We discuss various adaptive design options, such as sample size reviews and changing the study hypothesis to address uncertain parameters, group sequential trials and multi-arm multi-stage trials to improve efficiency, and enrichment designs to maximise the chances of obtaining clear evidence about the telehealth intervention.
 
 Conclusion: There is potential to address the flaws discussed in the telehealth literature through the adoption of adaptive approaches to trial design. Such designs could lead to improvements in efficiency, allow the evaluation of multiple telehealth interventions in a cost-effective way, or accurately assess a range of endpoints that are important in the overall success of a telehealth programme."""
-authors = ["Lisa M Law", "james_wason"]
+authors = ["Law LM", "Wason JMS"]
 date = 2014-12-01
 doi = "10.1016/j.ijmedinf.2014.09.002"
 featured = false
 math = true
 highlight = true
-publication = "*International Journal of Medical Informatics* 2014; __83__(12)__:__870-880"
-publication_short = "*Int J Med Inform* 2014; __83:__870-80"
+publication = "*International Journal of Medical Informatics* 2014; 83(12):870-880"
+publication_short = "*Int J Med Inform* 2014; 83:870-80"
 publication_types = ["2"]
-summary = "*International Journal of Medical Informatics* 2014; __83__(12)__:__870-880"
+summary = "*International Journal of Medical Informatics* 2014; 83(12):870-880"
 tags = ["Wason"]
 title = "Design of telehealth trials – Introducing adaptive approaches"
 +++
-

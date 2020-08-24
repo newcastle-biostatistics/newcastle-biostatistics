@@ -14,10 +14,10 @@ doi = "10.1186/s13063-019-3206-x"
 featured = true
 highlight = true
 math = true
-publication = "*Trials* 2019; __20:__151"
-publication_short = "*Trials* 2019; __20:__151"
+publication = "*Trials* 2019; 20:151"
+publication_short = "*Trials* 2019; 20:151"
 publication_types = ["2"]
-summary = "*Trials* 2019; __20:__151"
+summary = "*Trials* 2019; 20:151"
 tags = ["Teare"]
 title = "Statistical design and analysis in trials of proportionate interventions: A systematic review"
 +++

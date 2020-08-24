@@ -12,10 +12,10 @@ doi = "10.1038/bjc.2013.66"
 featured = false
 math = true
 highlight = true
-publication = "*British Journal of Cancer* 2013; __108__(6)__:__1340-1347"
-publication_short = "*Br J Cancer* 2013; __108:__1340-7"
+publication = "*British Journal of Cancer* 2013; 108(6):1340-1347"
+publication_short = "*Br J Cancer* 2013; 108:1340-7"
 publication_types = ["2"]
-summary = "*British Journal of Cancer* 2013; __108__(6)__:__1340-1347"
+summary = "*British Journal of Cancer* 2013; 108(6):1340-1347"
 tags = ["Wason"]
 title = "The endoplasmic reticulum stress marker CHOP predicts survival in malignant mesothelioma"
 +++

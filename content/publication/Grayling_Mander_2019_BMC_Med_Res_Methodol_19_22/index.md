@@ -13,10 +13,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.bib"}, {name = ".enw", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.enw"}, {name = ".ris", url = "publication/Grayling_Mander_2019_BMC_Med_Res_Methodol_19_22.ris"}]
 math = true
-publication = "*BMC Medical Research Methodology* 2019; __19:__22"
-publication_short = "*BMC Med Res Methodol* 2019; __19:__22"
+publication = "*BMC Medical Research Methodology* 2019; 19:22"
+publication_short = "*BMC Med Res Methodol* 2019; 19:22"
 publication_types = ["2"]
-summary = "*BMC Medical Research Methodology* 2019; __19:__22"
+summary = "*BMC Medical Research Methodology* 2019; 19:22"
 tags = ["Grayling"]
 title = "Re-formulating Gehan's design as a flexible two-stage single-arm trial"
 +++

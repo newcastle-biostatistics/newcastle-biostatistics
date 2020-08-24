@@ -6,10 +6,10 @@ doi = "10.1111/j.1365-2133.1990.tb06270.x"
 featured = false
 highlight = true
 math = true
-publication = "*British Journal of Dermatology* 1990; __122__(6)__:__809-815"
-publication_short = "*Br J Dermatol* 1990; __122:__809-15"
+publication = "*British Journal of Dermatology* 1990; 122(6):809-815"
+publication_short = "*Br J Dermatol* 1990; 122:809-15"
 publication_types = ["2"]
-summary = "*British Journal of Dermatology* 1990; __122__(6)__:__809-815"
+summary = "*British Journal of Dermatology* 1990; 122(6):809-815"
 tags = ["Matthews"]
 title = "Inhibition of photosensitivity in erythropoietic protoporphyria with terfenadine"
 +++

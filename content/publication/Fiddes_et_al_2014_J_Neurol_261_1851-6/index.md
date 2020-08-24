@@ -6,10 +6,10 @@ doi = "10.1007/s00415-014-7241-y"
 featured = false
 highlight = true
 math = true
-publication = "*Journal of Neurology* 2014; __261__(10)__:__1851-1856"
-publication_short = "*J Neurol* 2014; __261__(10)__:__1851-6"
+publication = "*Journal of Neurology* 2014; 261(10):1851-1856"
+publication_short = "*J Neurol* 2014; 261(10):1851-6"
 publication_types = ["2"]
-summary = "*Journal of Neurology* 2014; __261__(10)__:__1851-1856"
+summary = "*Journal of Neurology* 2014; 261(10):1851-1856"
 tags = ["Wason"]
 title = "Confounding in association studies: Month of birth and multiple sclerosis"
 +++

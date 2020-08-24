@@ -12,10 +12,10 @@ doi = "10.1186/s12885-017-3693-7"
 featured = true
 highlight = true
 math = true
-publication = "*BMC Cancer* 2017; __17:__697"
-publication_short = "*BMC Cancer* 2017; __17:__697"
+publication = "*BMC Cancer* 2017; 17:697"
+publication_short = "*BMC Cancer* 2017; 17:697"
 publication_types = ["2"]
-summary = "*BMC Cancer* 2017; __17:__697"
+summary = "*BMC Cancer* 2017; 17:697"
 tags = ["Teare"]
 title = "The evidence base for circulating tumour DNA blood-based biomarkers for the early detection of cancer: A systematic mapping review"
 +++

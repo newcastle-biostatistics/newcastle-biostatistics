@@ -12,10 +12,10 @@ doi = "10.1093/jnci/djv100"
 featured = false
 highlight = true
 math = true
-publication = "*JNCI: Journal of the National Cancer Institute* 2015; __107__(5)__:__djv100"
-publication_short = "*JNCI: J Natl Cancer Inst* 2015; __107:__djv100"
+publication = "*JNCI: Journal of the National Cancer Institute* 2015; 107(5):djv100"
+publication_short = "*JNCI: J Natl Cancer Inst* 2015; 107:djv100"
 publication_types = ["2"]
-summary = "*JNCI: Journal of the National Cancer Institute* 2015; __107__(5)__:__djv100"
+summary = "*JNCI: Journal of the National Cancer Institute* 2015; 107(5):djv100"
 tags = ["Teare"]
 title = "CHRNA5 risk variant predicts delayed smoking cessation and earlier lung cancer diagnosis—A meta-analysis"
 +++

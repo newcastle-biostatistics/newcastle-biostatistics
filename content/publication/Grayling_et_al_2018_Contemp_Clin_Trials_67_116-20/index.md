@@ -3,14 +3,14 @@ abstract = """Multi-arm multi-stage trial designs can bring notable gains in eff
 authors = ["Grayling MJ", "Wason JMS", "Mander AP"]
 date = "2018-04-01"
 doi = "10.1016/j.cct.2018.02.011"
-featured = true
+featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2018_Contemp_Clin_Trials_67_116-20.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2018_Contemp_Clin_Trials_67_116-20.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2018_Contemp_Clin_Trials_67_116-20.ris"}]
 math = true
-publication = "*Contemporary Clinical Trials* 2018; __67:__116-120"
-publication_short = "*Contemp Clin Trials* 2018; __67:__116-20"
+publication = "*Contemporary Clinical Trials* 2018; 67:116-120"
+publication_short = "*Contemp Clin Trials* 2018; 67:116-20"
 publication_types = ["2"]
-summary = "*Contemporary Clinical Trials* 2018; __67:__116-120"
+summary = "*Contemporary Clinical Trials* 2018; 67:116-120"
 tags = ["Grayling", "Wason"]
 title = "An optimised multi-arm multi-stage clinical trial design for unknown variance"
 +++

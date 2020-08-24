@@ -18,12 +18,10 @@ doi = "10.1136/bmjopen-2011-000851"
 featured = false
 math = true
 highlight = true
-publication = "*BMJ Open* 2012; __2__(3)__:__e000851"
-publication_short = "*BMJ Open* 2012; __2:__e000851"
+publication = "*BMJ Open* 2012; 2(3):e000851"
+publication_short = "*BMJ Open* 2012; 2:e000851"
 publication_types = ["2"]
-summary = "*BMJ Open* 2012; __2__(3)__:__e000851"
+summary = "*BMJ Open* 2012; 2(3):e000851"
 tags = ["Teare"]
 title = "Strategies to increase influenza vaccination rates: Outcomes of a nationwide cross-sectional survey of UK general practice"
-
 +++
-

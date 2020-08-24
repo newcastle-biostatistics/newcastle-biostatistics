@@ -12,10 +12,10 @@ doi = "10.1186/s12916-018-1196-2"
 featured = false
 highlight = true
 math = true
-publication = "*BMC Medicine* 2018; __16__(1)__:__210"
-publication_short = "*BMC Med* 2018; __16:__210"
+publication = "*BMC Medicine* 2018; 16(1):210"
+publication_short = "*BMC Med* 2018; 16:210"
 publication_types = ["2"]
-summary = "*BMC Medicine* 2018; __16__(1)__:__210"
+summary = "*BMC Medicine* 2018; 16(1):210"
 tags = ["Wason"]
 title = "Development process of a consensus-driven CONSORT extension for randomised trials using an adaptive design"
 +++

@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_Mander_2016_Pharm_Stat_15_143-51.bib"}, {name = ".enw", url = "publication/Grayling_Mander_2016_Pharm_Stat_15_143-51.enw"}, {name = ".ris", url = "publication/Grayling_Mander_2016_Pharm_Stat_15_143-51.ris"}]
 math = true
-publication = "*Pharmaceutical Statistics* 2016; __15__(2)__:__143-151"
-publication_short = "*Pharm Stat* 2016; __15:__143-51"
+publication = "*Pharmaceutical Statistics* 2016; 15(2):143-151"
+publication_short = "*Pharm Stat* 2016; 15:143-51"
 publication_types = ["2"]
-summary = "*Pharmaceutical Statistics* 2016; __15__(2)__:__143-151"
+summary = "*Pharmaceutical Statistics* 2016; 15(2):143-151"
 tags = ["Grayling"]
 title = "Do single-arm trials have a role in drug development plans incorporating randomised trials?"
 +++

@@ -8,15 +8,14 @@ RESULTS: Patients with 'mild phenotype' had significantly higher age at death (3
 CONCLUSION: The impact of mild phenotypes on the improvement in the median age at death among people with CF was trivial."""
 date = 2014-05-01
 doi = "10.1016/j.rmed.2014.02.012"
-authors = ["Z H Hoo", "M J Wildman", "dawn_teare"]
+authors = ["Hoo ZH", "Wildman MJ", "Teare MD"]
 featured = false
 math = true
 highlight = true
-publication = "*Respiratory Medicine* 2014; __108__(5)__:__716-721"
-publication_short = "*Respir Med* 2014; __108:__716-21"
+publication = "*Respiratory Medicine* 2014; 108(5):716-721"
+publication_short = "*Respir Med* 2014; 108:716-21"
 publication_types = ["2"]
-summary = "*Respiratory Medicine* 2014; __108__(5)__:__716-721"
+summary = "*Respiratory Medicine* 2014; 108(5):716-721"
 tags = ["Teare"]
 title = "Exploration of the impact of ‘mild phenotypes' on median age at death in the U.K. CF registry"
 +++
-

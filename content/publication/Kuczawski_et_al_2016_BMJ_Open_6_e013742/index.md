@@ -14,17 +14,16 @@ Results: Of the 1420 of 3534 patients (40%) who did not receive a CT scan, 7 (0.
 Conclusions: CT scanning for all anticoagulated patients with head injury is not cost-effective compared with selective use of CT scanning based on guidelines recommending scanning only for those with evidence of traumatic brain injury.
 
 Trial registration number: NCT 02461498."""
-authors = ["Maxine Kuczawski", "Matt Stevenson", "Steve Goodacre", "dawn_teare", "Shammi Ramlakhan", "Francis Morris", "Suzanne Mason"]
+authors = ["Kuczawski M", "Stevenson M", "Goodacre S", "Teare MD", "Ramlakhan S", "Morris F", "Mason S"]
 date = 2016-12-13
 doi = "10.1136/bmjopen-2016-013742"
 featured = false
 math = true
 highlight = true
-publication = "*BMJ Open* 2016; __6:__e013742"
-publication_short = "*BMJ Open* 2016; __6:__e013742"
+publication = "*BMJ Open* 2016; 6:e013742"
+publication_short = "*BMJ Open* 2016; 6:e013742"
 publication_types = ["2"]
-summary = "*BMJ Open* 2016; __6:__e013742"
+summary = "*BMJ Open* 2016; 6:e013742"
 tags = ["Teare"]
 title = "Should all anticoagulated patients with head injury receive a CT scan? Decision-analysis modelling of an observational cohort"
 +++
-

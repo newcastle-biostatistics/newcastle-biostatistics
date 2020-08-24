@@ -6,10 +6,10 @@ doi = "10.1038/gene.2010.36"
 featured = false
 highlight = true
 math = true
-publication = "*Genes and Immunity* 2010; __11__(8)__:__660-664"
-publication_short = "*Genes Immun* 2010; __11:__660-4"
+publication = "*Genes and Immunity* 2010; 11(8):660-664"
+publication_short = "*Genes Immun* 2010; 11:660-4"
 publication_types = ["2"]
-summary = "*Genes and Immunity* 2010; __11__(8)__:__660-664"
+summary = "*Genes and Immunity* 2010; 11(8):660-664"
 tags = ["Wason"]
 title = "A non-synonymous SNP within membrane metalloendopeptidase-like 1 (MMEL1) is associated with multiple sclerosis"
 +++

@@ -20,10 +20,10 @@ doi = "10.1001/jamaoncol.2015.3209"
 featured = false
 highlight = true
 math = true
-publication = "*JAMA Oncology* 2015; __1__(9)__:__1282-1290"
-publication_short = "*JAMA Oncol* 2015; __1:__1282-90"
+publication = "*JAMA Oncology* 2015; 1(9):1282-1290"
+publication_short = "*JAMA Oncol* 2015; 1:1282-90"
 publication_types = ["2"]
-summary = "*JAMA Oncology* 2015; __1__(9)__:__1282-1290"
+summary = "*JAMA Oncology* 2015; 1(9):1282-1290"
 tags = ["Teare"]
 title = "Contemporary occupational carcinogen exposure and bladder cancer: A systematic review and meta-analysis"
 +++

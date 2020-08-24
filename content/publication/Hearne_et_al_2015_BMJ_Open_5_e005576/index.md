@@ -8,16 +8,16 @@ Participants: Data was prospectively collected from the breast unit at a Hospita
 Results: Actual 10-year survival for the 92 patients who underwent potentially curative surgery for invasive cancer was 77.2% (CI 68.6% to 85.8%). There was no significant difference between the actual survival and the Nottingham Prognostic Index and Adjuvant! 10-year estimated survival, which was 77.3% (CI 74.4% to 80.2%) and 82.1% (CI 79.1% to 85.1%), respectively. The Nottingham Prognostic Index and Adjuvant! results demonstrated strong correlation and both predicted cumulative survival curves accurately reflected the actual survival in young patients.
 
 Conclusions: The Nottingham Prognostic Index and Adjuvant! are widely used to predict survival in patients with breast cancer. In this study no statistically significant difference was shown between the predicted prognosis and actual survival of a group of young patients with breast cancer."""
-authors = ["Benjamin Joseph Hearne", "dawn_teare", "Mohammad Butt", "Leslie Donaldson"]
-date = 2015-01-01
+authors = ["Hearne BJ", "Teare MD", "Butt M", "Donaldson L"]
+date = 2015-01-27
 doi = "10.1136/bmjopen-2014-005576"
 featured = false
 math = true
 highlight = true
-publication = "*BMJ Open* 2015; __5__(1)__:__e005576"
-publication_short = "*BMJ Open* 2015; __5:__e005576"
+publication = "*BMJ Open* 2015; 5(1):e005576"
+publication_short = "*BMJ Open* 2015; 5:e005576"
 publication_types = ["2"]
-summary = "*BMJ Open* 2015; __5__(1)__:__e005576"
+summary = "*BMJ Open* 2015; 5(1):e005576"
 tags = ["Teare"]
 title = "Comparison of Nottingham Prognostic Index and Adjuvant Online prognostic tools in young women with breast cancer: Review of a single-institution experience"
 +++

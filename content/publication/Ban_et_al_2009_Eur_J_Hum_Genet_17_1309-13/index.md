@@ -6,10 +6,10 @@ doi = "10.1038/ejhg.2009.41"
 featured = false
 highlight = true
 math = true
-publication = "*European Journal of Human Genetics* 2009; __17__(10)__:__1309-1313"
-publication_short = "*Eur J Hum Genet* 2009; __17:__1309-13"
+publication = "*European Journal of Human Genetics* 2009; 17(10):1309-1313"
+publication_short = "*Eur J Hum Genet* 2009; 17:1309-13"
 publication_types = ["2"]
-summary = "*European Journal of Human Genetics* 2009; __17__(10)__:__1309-1313"
+summary = "*European Journal of Human Genetics* 2009; 17(10):1309-1313"
 tags = ["Wason"]
 title = "Replication analysis identifies TYK2 as a multiple sclerosis susceptibility factor"
 +++

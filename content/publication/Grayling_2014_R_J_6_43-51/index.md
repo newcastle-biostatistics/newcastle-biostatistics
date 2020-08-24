@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_2014_R_J_6_43-51.bib"}, {name = ".enw", url = "publication/Grayling_2014_R_J_6_43-51.enw"}, {name = ".ris", url = "publication/Grayling_2014_R_J_6_43-51.ris"}]
 math = true
-publication = "*The R Journal* 2014; __6__(2)__:__43-51"
-publication_short = "*R J* 2014; __6:__43-51"
+publication = "*The R Journal* 2014; 6(2):43-51"
+publication_short = "*R J* 2014; 6:43-51"
 publication_types = ["2"]
-summary = "*The R Journal* 2014; __6__(2)__:__43-51"
+summary = "*The R Journal* 2014; 6(2):43-51"
 tags = ["Grayling"]
 title = "phaseR: An R package for phase plane analysis of autonomous ODE systems"
 url_code = "https://cran.r-project.org/web/packages/phaseR/index.html"
@@ -18,10 +18,12 @@ url_code = "https://cran.r-project.org/web/packages/phaseR/index.html"
 
 #### Supplementary details
 
-The current release of the [R](https://www.r-project.org/) package discussed in this article is available on [CRAN](https://cran.r-project.org/) [here](https://cran.r-project.org/web/packages/phaseR/index.html). It can be installed in [R](https://www.r-project.org/) using
+The current release of the [R](https://www.r-project.org/) package discussed in this article is available on [CRAN](https://cran.r-project.org/) [here](https://cran.r-project.org/web/packages/phaseR/index.html).
+It can be installed in [R](https://www.r-project.org/) using
 
 `install.packages("phaseR")`
 
-A development version is available on [GitHub](https://github.com/) [here](https://github.com/mjg211/phaseR). It can be installed in [R](https://www.r-project.org/) with
+A development version is available on [GitHub](https://github.com/) [here](https://github.com/mjg211/phaseR).
+It can be installed in [R](https://www.r-project.org/) with
 
 `devtools::install_github("mjg211/phaseR")`

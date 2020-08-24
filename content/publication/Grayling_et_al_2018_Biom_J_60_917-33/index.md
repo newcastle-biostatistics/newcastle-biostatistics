@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2018_Biom_J_60_917-33.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2018_Biom_J_60_917-33.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2018_Biom_J_60_917-33.ris"}]
 math = true
-publication = "*Biometrical Journal* 2018; __60__(5)__:__917-933"
-publication_short = "*Biom J* 2018; __60:__917-33"
+publication = "*Biometrical Journal* 2018; 60(5):917-933"
+publication_short = "*Biom J* 2018; 60:917-33"
 publication_types = ["2"]
-summary = "*Biometrical Journal* 2018; __60__(5)__:__917-933"
+summary = "*Biometrical Journal* 2018; 60(5):917-933"
 tags = ["Grayling", "Wason"]
 title = "Blinded and unblinded sample size reestimation in crossover trials balanced for period"
 +++

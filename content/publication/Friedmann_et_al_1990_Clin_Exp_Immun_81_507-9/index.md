@@ -6,10 +6,10 @@ doi = "10.1111/j.1365-2249.1990.tb05364.x"
 featured = false
 highlight = true
 math = true
-publication = "*Clinical & Experimental Immunology* 1990; __81__(3)__:__507-509"
-publication_short = "*Clin Exp Immunol* 1990; __81_:__507-9"
+publication = "*Clinical & Experimental Immunology* 1990; 81(3):507-509"
+publication_short = "*Clin Exp Immunol* 1990; 81:507-9"
 publication_types = ["2"]
-summary = "*Clinical & Experimental Immunology* 1990; __81__(3)__:__507-509"
+summary = "*Clinical & Experimental Immunology* 1990; 81(3):507-509"
 tags = ["Matthews"]
 title = "Low-dose exposure to antigen induces sub-clinical sensitization"
 +++

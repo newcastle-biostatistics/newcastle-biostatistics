@@ -12,10 +12,10 @@ doi = "10.1046/j.0007-1323.2001.01778.x"
 featured = false
 highlight = true
 math = true
-publication = "*The British Journal of Surgery* 2002; __88__(5)__:__687-692"
-publication_short = "*Br J Surg* 2002; __88:__687-92"
+publication = "*The British Journal of Surgery* 2002; 88(5):687-692"
+publication_short = "*Br J Surg* 2002; 88:687-92"
 publication_types = ["2"]
-summary = "*The British Journal of Surgery* 2002; __88__(5)__:__687-692"
+summary = "*The British Journal of Surgery* 2002; 88(5):687-692"
 tags = ["Matthews"]
 title = "In-hospital mortality from abdominal aortic surgery in Great Britain and Ireland: Vascular Anaesthesia Society audit"
 +++

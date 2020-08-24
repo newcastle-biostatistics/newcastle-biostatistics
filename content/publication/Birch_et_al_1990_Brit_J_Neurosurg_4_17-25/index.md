@@ -6,10 +6,10 @@ doi = "10.3109/02688699009000677"
 featured = false
 highlight = true
 math = true
-publication = "*British Journal of Neurosurgery* 1990; __4__(1)__:__17-25"
-publication_short = "*Br J Neurosurg* 1990; __4__(1)__:__17-25"
+publication = "*British Journal of Neurosurgery* 1990; 4(1):17-25"
+publication_short = "*Br J Neurosurg* 1990; 4(1):17-25"
 publication_types = ["2"]
-summary = "*British Journal of Neurosurgery* 1990; __4__(1)__:__17-25"
+summary = "*British Journal of Neurosurgery* 1990; 4(1):17-25"
 tags = ["Teare"]
 title = "The inter-regional epidemiological study of childhood cancer (IRESCC): Case-control study of children with central nervous system tumours"
 +++

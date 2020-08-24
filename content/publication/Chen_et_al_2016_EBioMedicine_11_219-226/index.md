@@ -12,10 +12,10 @@ doi = "10.1016/j.ebiom.2016.08.012"
 featured = false
 highlight = true
 math = true
-publication = "*EBioMedicine* 2016; __11:__219-226"
-publication_short = "*EBioMedicine* 2016; __11:__219-26"
+publication = "*EBioMedicine* 2016; 11:219-226"
+publication_short = "*EBioMedicine* 2016; 11:219-26"
 publication_types = ["2"]
-summary = "*EBioMedicine* 2016; __11:__219-226"
+summary = "*EBioMedicine* 2016; 11:219-226"
 tags = ["Teare"]
 title = "Genetic risk can be decreased: Quitting smoking decreases and delays lung cancer for smokers with high and low CHRNA5 risk genotypes — A meta-analysis"
 +++

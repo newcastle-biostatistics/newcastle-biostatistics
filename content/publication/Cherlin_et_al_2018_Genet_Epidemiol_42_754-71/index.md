@@ -6,10 +6,10 @@ doi = "10.1002/gepi.22159"
 featured = false
 highlight = true
 math = true
-publication = "*Genetic Epidemiology* 2018; __42__(8)__:__754-771"
-publication_short = "*Genetic Epidemiology* 2018; __42:__754-71"
+publication = "*Genetic Epidemiology* 2018; 42(8):754-771"
+publication_short = "*Genetic Epidemiology* 2018; 42:754-71"
 publication_types = ["2"]
-summary = "*Genetic Epidemiology* 2018; __42__(8)__:__754-771"
+summary = "*Genetic Epidemiology* 2018; 42(8):754-771"
 tags = ["Cherlin"]
 title = "Prediction of treatment response in rheumatoid arthritis patients using genome-wide SNP data"
 +++

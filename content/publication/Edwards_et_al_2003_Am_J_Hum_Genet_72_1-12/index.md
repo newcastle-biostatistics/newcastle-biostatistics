@@ -6,10 +6,10 @@ doi = "10.1086/345310"
 featured = false
 highlight = true
 math = true
-publication = "*American Journal of Human Genetics* 2003; __72__(1)__:__1-12"
-publication_short = "*Am J Hum Genet* 2003; __72:__1-12"
+publication = "*American Journal of Human Genetics* 2003; 72(1):1-12"
+publication_short = "*Am J Hum Genet* 2003; 72:1-12"
 publication_types = ["2"]
-summary = "*American Journal of Human Genetics* 2003; __72__(1)__:__1-12"
+summary = "*American Journal of Human Genetics* 2003; 72(1):1-12"
 tags = ["Teare"]
 title = "Two percent of men with early-onset prostate cancer harbor germline mutations in the BRCA2 gene"
 +++

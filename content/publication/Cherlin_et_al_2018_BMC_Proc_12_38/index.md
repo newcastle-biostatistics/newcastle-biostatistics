@@ -6,10 +6,10 @@ doi = "10.1186/s12919-018-0149-2"
 featured = false
 highlight = true
 math = true
-publication = "*BMC Proceedings* 2018; __12__(9)__:__38"
-publication_short = "*BMC Proc* 2018; __12:__38"
+publication = "*BMC Proceedings* 2018; 12(9):38"
+publication_short = "*BMC Proc* 2018; 12:38"
 publication_types = ["2"]
-summary = "*BMC Proceedings* 2018; __12__(9)__:__38"
+summary = "*BMC Proceedings* 2018; 12(9):38"
 tags = ["Cherlin"]
 title = "Using penalized regression to predict phenotype from SNP data"
 +++

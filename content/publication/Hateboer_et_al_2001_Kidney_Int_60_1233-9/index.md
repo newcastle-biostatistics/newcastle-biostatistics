@@ -6,17 +6,16 @@ Methods: Clinical data and DNA samples were collected from affected family membe
 Results: The family fulfilled previously published criteria for the diagnosis of MCKD, but hyperuricemia and gout were not prominent features. Twenty-one affected individuals were identified. Mean age at death or end-stage renal disease was 47 years (37 to 60). Linkage and haplotype analysis generated strongly negative results at MCKD1 on chromosome 1q21 (two-point LOD score = -5.32). Strong evidence of linkage to MCKD2 was generated with a maximum multi-point LOD score of 3.75.
 
 Conclusion: These results provide the first independent confirmation of a gene predisposing to MCKD on chromosome 16p12 and indicate that mutation of this gene is not restricted to a single family or population. The absence of hyperuricemia and gout in our family indicates that these are not obligatory features of MCKD2 mutations."""
-authors = ["Nick Hateboer", "Curtis Gumbs", "dawn_teare", "Gerry A Coles", "David Griffiths", "David Ravine", "P Andrew Futreal", "Nazneen Rahman"]
+authors = ["Hateboer N", "Gumbs C", "Teare MD", "Coles GA", "Griffiths D", "Ravine D", "Futreal PA", "Rahman N"]
 date = 2001-10-01
 doi = "10.1046/j.1523-1755.2001.00932.x"
 featured = false
 math = true
 highlight = true
-publication = "*Kidney International* 2001; __60__(4)__:__1233-1239"
-publication_short = "*Kidney Int* 2001; __60:__1233-9"
+publication = "*Kidney International* 2001; 60(4):1233-1239"
+publication_short = "*Kidney Int* 2001; 60:1233-9"
 publication_types = ["2"]
-summary = "*Kidney International* 2001; __60__(4)__:__1233-1239"
+summary = "*Kidney International* 2001; 60(4):1233-1239"
 tags = ["Teare"]
 title = "Confirmation of a gene locus for medullary cystic kidney disease (MCKD2) on chromosome 16p12"
 +++
-

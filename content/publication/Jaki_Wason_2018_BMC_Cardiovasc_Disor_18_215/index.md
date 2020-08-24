@@ -4,14 +4,14 @@ abstract = """BACKGROUND: Many recent Stroke trials fail to show a beneficial ef
 CONCLUSION: MAMS trial designs are potentially very useful for stroke trials due to their improved statistical power compared to the traditional approach."""
 doi = "10.1186/s12872-018-0956-4"
 date = 2018-11-27
-authors = ["Thomas Jaki", "james_wason"]
+authors = ["Thomas Jaki", "Wason JMS"]
 featured = false
 math = true
 highlight = true
-publication = "*BMC Cardiovascular Disorders* 2018; __18__(1)__:__215"
-publication_short = "*BMC Cardiovasc Disord* 2018; __18:__215"
+publication = "*BMC Cardiovascular Disorders* 2018; 18(1):215"
+publication_short = "*BMC Cardiovasc Disord* 2018; 18:215"
 publication_types = ["2"]
-summary = "*BMC Cardiovascular Disorders* 2018; __18__(1)__:__215"
+summary = "*BMC Cardiovascular Disorders* 2018; 18(1):215"
 tags = ["Wason"]
 title = "Multi-arm multi-stage trials can improve the efficiency of finding effective treatments for stroke: A case study"
 +++

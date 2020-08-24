@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2019_J_Natl_Cancer_I.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2019_J_Natl_Cancer_I.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2019_J_Natl_Cancer_I.ris"}]
 math = true
-publication = "*JNCI: Journal of the National Cancer Institute* 2019"
-publication_short = "*JNCI: J Natl Cancer I* 2019"
+publication = "*JNCI: Journal of the National Cancer Institute* 2019; 111(12):1255-1262"
+publication_short = "*JNCI: J Natl Cancer I* 2019; 111:1255-62"
 publication_types = ["2"]
-summary = "*JNCI: Journal of the National Cancer Institute* 2019"
+summary = "*JNCI: Journal of the National Cancer Institute* 2019; 111(12):1255-1262"
 tags = ["Grayling"]
 title = "A review of perspectives on the use of randomization in phase II oncology trials"
 +++

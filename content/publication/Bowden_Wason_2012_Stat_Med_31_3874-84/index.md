@@ -6,10 +6,10 @@ doi = "10.1002/sim.5468"
 featured = false
 highlight = true
 math = true
-publication = "*Statistics in Medicine* 2012; __31__(29)__:__3874-3884"
-publication_short = "*Stat Med* 2012; __31:__3874-84"
+publication = "*Statistics in Medicine* 2012; 31(29):3874-3884"
+publication_short = "*Stat Med* 2012; 31:3874-84"
 publication_types = ["2"]
-summary = "*Statistics in Medicine* 2012; __31__(29)__:__3874-3884"
+summary = "*Statistics in Medicine* 2012; 31(29):3874-3884"
 tags = ["Wason"]
 title = "Identifying combined design and analysis procedures in two-stage trials with a binary end point"
 +++

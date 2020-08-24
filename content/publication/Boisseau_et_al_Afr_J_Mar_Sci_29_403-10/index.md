@@ -6,10 +6,10 @@ doi = "10.2989/AJMS.2007.29.3.8.338"
 featured = false
 highlight = true
 math = true
-publication = "*African Journal of Marine Science* 2007; __29__(3)__:__403-410"
-publication_short = "*Afr J Mar Sci* 2007; __29:__403-10"
+publication = "*African Journal of Marine Science* 2007; 29(3):403-410"
+publication_short = "*Afr J Mar Sci* 2007; 29:403-10"
 publication_types = ["2"]
-summary = "*African Journal of Marine Science* 2007; __29__(3)__:__403-410"
+summary = "*African Journal of Marine Science* 2007; 29(3):403-410"
 tags = ["Matthews"]
 title = "A visual and acoustic survey for harbour porpoises off North-West Africa: Further evidence of a discrete population"
 +++

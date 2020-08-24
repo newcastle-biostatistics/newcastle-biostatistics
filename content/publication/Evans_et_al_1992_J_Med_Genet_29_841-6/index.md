@@ -6,10 +6,10 @@ doi = "10.1136/jmg.29.12.841"
 featured = false
 highlight = true
 math = true
-publication = "*Journal of Medical Genetics* 1992; __29__(12)__:__841-846"
-publication_short = "*J Med Genet* 1992; __29:__841-6"
+publication = "*Journal of Medical Genetics* 1992; 29(12):841-846"
+publication_short = "*J Med Genet* 1992; 29:841-6"
 publication_types = ["2"]
-summary = "*Journal of Medical Genetics* 1992; __29__(12)__:__841-846"
+summary = "*Journal of Medical Genetics* 1992; 29(12):841-846"
 tags = ["Teare"]
 title = "A genetic study of type 2 neurofibromatosis in the United Kingdom. I. Prevalence, mutation rate, fitness, and confirmation of maternal transmission effect on severity"
 +++

@@ -6,10 +6,10 @@ doi = "10.1002/sim.4780091002"
 featured = false
 highlight = true
 math = true
-publication = "*Statistics in Medicine* 1990; __9__(10)__:__1121-1129"
-publication_short = "*Stat Med* 1990; __9:__1121-9"
+publication = "*Statistics in Medicine* 1990; 9(10):1121-1129"
+publication_short = "*Stat Med* 1990; 9:1121-9"
 publication_types = ["2"]
-summary = "*Statistics in Medicine* 1990; __9__(10)__:__1121-1129"
+summary = "*Statistics in Medicine* 1990; 9(10):1121-1129"
 tags = ["Matthews"]
 title = "Factorial designs for crossover clinical trials"
 +++

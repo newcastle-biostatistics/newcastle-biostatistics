@@ -6,10 +6,10 @@ doi = "10.1086/301745"
 featured = false
 highlight = true
 math = true
-publication = "*American Journal of Human Genetics* 1998; __62__(3)__:__653-658"
-publication_short = "*Am J Hum Genet* 1998; __62:__653-8"
+publication = "*American Journal of Human Genetics* 1998; 62(3):653-658"
+publication_short = "*Am J Hum Genet* 1998; 62:653-8"
 publication_types = ["2"]
-summary = "*American Journal of Human Genetics* 1998; __62__(3)__:__653-658"
+summary = "*American Journal of Human Genetics* 1998; 62(3):653-658"
 tags = ["Teare"]
 title = "Linkage analysis of chromosome 1q markers in 136 prostate cancer families"
 +++

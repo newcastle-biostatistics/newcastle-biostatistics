@@ -4,16 +4,16 @@ abstract = """Background/Aims: Many types of telehealth interventions rely on ac
 Methods: Simulation studies were used to simulate a large number of clinical trials, in which no embedded trial was used, a micro-randomised embedded trial was used, and a factorial embedded trial was used. Each simulation recorded the operating characteristics of the primary and secondary trials.
 
 Results: We show that the type I error rate of the primary analysis was not affected by the presence of an embedded secondary trial. Furthermore, we show that micro-randomisation is superior to a factorial design as it reduces the variation caused by within-patient correlation. It therefore requires smaller sample sizes – our simulations showed a requirement of 128 patients for a micro-randomised trial versus 760 patients for a factorial design, in the presence of within-patient correlation.Conclusion:We believe that an embedded, micro-randomised trial is a feasible technique that can potentially be highly useful in telehealth trials."""
-authors = ["Lisa M Law", "Nuwani Edirisinghe", "james_wason"]
-date = 2016-08-01
+authors = ["Law LM", "Edirisinghe N", "Wason JMS"]
+date = 2016-03-11
 doi = "10.1177/1740774516637075"
 featured = false
 math = true
 highlight = true
-publication = "*Clinical Trials* 2016; __13__(4)__:__417-424"
-publication_short = "*Clin Trials* 2016; __13:__417-24"
+publication = "*Clinical Trials* 2016; 13(4):417-424"
+publication_short = "*Clin Trials* 2016; 13:417-24"
 publication_types = ["2"]
-summary = "*Clinical Trials* 2016; __13__(4)__:__417-424"
+summary = "*Clinical Trials* 2016; 13(4):417-424"
 tags = ["Wason"]
 title = "Use of an embedded, micro-randomised trial to investigate non-compliance in telehealth interventions"
 +++

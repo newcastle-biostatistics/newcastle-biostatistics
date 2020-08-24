@@ -6,10 +6,10 @@ doi = "10.1200/JCO.1990.8.4.583"
 featured = false
 highlight = true
 math = true
-publication = "*Journal of Clinical Oncology* 1990; __8__(4)__:__583-590"
-publication_short = "*J Clin Oncol* 1990; __8:__583-90"
+publication = "*Journal of Clinical Oncology* 1990; 8(4):583-590"
+publication_short = "*J Clin Oncol* 1990; 8:583-90"
 publication_types = ["2"]
-summary = "*Journal of Clinical Oncology* 1990; __8__(4)__:__583-590"
+summary = "*Journal of Clinical Oncology* 1990; 8(4):583-590"
 tags = ["Teare"]
 title = "Identification of factors associated with high breast cancer risk in the mothers of children with soft tissue sarcoma"
 +++

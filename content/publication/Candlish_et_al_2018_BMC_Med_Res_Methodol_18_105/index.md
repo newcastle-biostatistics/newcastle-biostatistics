@@ -12,10 +12,10 @@ doi = "10.1186/s12874-018-0559-x"
 featured = true
 highlight = true
 math = true
-publication = "*BMC Medical Research Methodology* 2018; __18:__105"
-publication_short = "*BMC Med Res Methodol* 2018; __18:__105"
+publication = "*BMC Medical Research Methodology* 2018; 18:105"
+publication_short = "*BMC Med Res Methodol* 2018; 18:105"
 publication_types = ["2"]
-summary = "*BMC Medical Research Methodology* 2018; __18:__105"
+summary = "*BMC Medical Research Methodology* 2018; 18:105"
 tags = ["Teare"]
 title = "Appropriate statistical methods for analysing partially nested randomised controlled trials with continuous outcomes: A simulation study"
 +++

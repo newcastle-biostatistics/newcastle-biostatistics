@@ -14,10 +14,10 @@ doi = "10.1016/S2215-0366(18)30001-4"
 featured = false
 highlight = true
 math = true
-publication = "*Lancet Psychiatry* 2018; __5__(2)__:__119-133"
-publication_short = "*Lancet Psychiatry* 2018; __5:__119-33"
+publication = "*Lancet Psychiatry* 2018; 5(2):119-133"
+publication_short = "*Lancet Psychiatry* 2018; 5:119-33"
 publication_types = ["2"]
-summary = "*Lancet Psychiatry* 2018; __5__(2)__:__119-133"
+summary = "*Lancet Psychiatry* 2018; 5(2):119-133"
 tags = ["Wason"]
 title = "Multisystemic therapy versus management as usual in the treatment of adolescent antisocial behaviour (START): A pragmatic, randomised controlled, superiority trial"
 +++

@@ -12,10 +12,10 @@ doi = "10.1002/ana.23925"
 featured = false
 highlight = true
 math = true
-publication = "*Annals of Neurology* 2013; __73__(6)__:__714–720"
-publication_short = "*Ann Neurol* 2013; __73:__714–20"
+publication = "*Annals of Neurology* 2013; 73(6):714–720"
+publication_short = "*Ann Neurol* 2013; 73:714–20"
 publication_types = ["2"]
-summary = "*Annals of Neurology* 2013; __73__(6)__:__714–720"
+summary = "*Annals of Neurology* 2013; 73(6):714–720"
 tags = ["Wason"]
 title = "Confounding underlies the apparent month of birth effect in multiple sclerosis"
 +++

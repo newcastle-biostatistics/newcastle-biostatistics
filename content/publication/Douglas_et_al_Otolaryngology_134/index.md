@@ -14,10 +14,10 @@ doi = "10.1016/j.otohns.2005.09.006"
 featured = false
 highlight = true
 math = true
-publication = "*Otolaryngology - Head and Neck Surgery* 2006; __134__(1)__:__56-62"
-publication_short = "*Otolaryng Head Neck* 2006; __134:__56-62"
+publication = "*Otolaryngology - Head and Neck Surgery* 2006; 134(1):56-62"
+publication_short = "*Otolaryng Head Neck* 2006; 134:56-62"
 publication_types = ["2"]
-summary = "*Otolaryngology - Head and Neck Surgery* 2006; __134__(1)__:__56-62"
+summary = "*Otolaryngology - Head and Neck Surgery* 2006; 134(1):56-62"
 tags = ["Matthews"]
 title = "The development of a snoring symptoms inventory"
 +++

@@ -12,10 +12,10 @@ doi = "10.1093/annonc/mdv289"
 featured = false
 highlight = true
 math = true
-publication = "*Annals of Oncology* 2015; __26__(10)__:__2113-2118"
-publication_short = "*Ann Oncol* 2015; __26:__2113-8"
+publication = "*Annals of Oncology* 2015; 26(10):2113-2118"
+publication_short = "*Ann Oncol* 2015; 26:2113-8"
 publication_types = ["2"]
-summary = "*Annals of Oncology* 2015; __26__(10)__:__2113-2118"
+summary = "*Annals of Oncology* 2015; 26(10):2113-2118"
 tags = ["Wason"]
 title = "Prospective study evaluating the relative sensitivity of 18F-NaF PET/CT for detecting skeletal metastases from renal cell carcinoma in comparison to multidetector CT and 99mTc-MDP bone scintigraphy, using an adaptive trial design"
 +++

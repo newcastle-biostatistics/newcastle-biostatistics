@@ -6,10 +6,10 @@ doi = "10.1136/fn.75.3.F202"
 featured = false
 highlight = true
 math = true
-publication = "*Archives of Disease in Childhood - Fetal and Neonatal Edition* 1996; __75__(3)__:__F202-F208"
-publication_short = "*Arch Dis Child Fetal Neonatal Ed* 1996; __75:__F202-8"
+publication = "*Archives of Disease in Childhood - Fetal and Neonatal Edition* 1996; 75(3):F202-F208"
+publication_short = "*Arch Dis Child Fetal Neonatal Ed* 1996; 75:F202-8"
 publication_types = ["2"]
-summary = "*Archives of Disease in Childhood - Fetal and Neonatal Edition* 1996; __75__(3)__:__F202-F208"
+summary = "*Archives of Disease in Childhood - Fetal and Neonatal Edition* 1996; 75(3):F202-F208"
 tags = ["Matthews"]
 title = "Measuring blood glucose in neonatal units: How does hemocue compare?"
 +++

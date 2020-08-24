@@ -6,16 +6,16 @@ Methods: The observational analysis examined TL measured using qPCR in 1128 case
 Results: The observational analysis suggested that longer TL is associated with decreased lung cancer risk (OR = 0.94, p = 0.04). This was more pronounced for squamous carcinoma (OR = 0.77, p = 1.1×10-4). We also showed that TL mediates up to 8% (p<0.05) of the lung cancer signal in 5p15. In the first stage of the MR analysis, we identified 8 5p15 SNPs that were associated with TL (p<5×10-3), including 6 novel rare variants, not previously associated with TL. Together these variants were reliably associated with TL (â = 0.15, p = 1.8×10-7) and explained 2.3% of variance in TL. Using this new instrument and 6 other SNPs as IVs, our MR analysis showed that longer TL is a risk factor for lung cancer (OR = 1.77, 95% CI: 1.32-1.54), especially adenocarcinoma (OR = 2.02, 95% CI: 1.29-3.71).
 
 Conclusions: We developed novel genetic instruments for TL, and confirmed that genetically predicted longer TL is associated with increased lung cancer risk. These findings suggest that previously reported associations of long TL with decreased risk were likely due to residual confounding by smoking, age and/or reverse causation."""
-authors = ["Linda Kachuri", "George Davey Smith", "Geoffrey Liu", "Maria Teresa Landi", "David C Christiani", "Neil E Caporaso", "James D McKay", "Xifeng Wu", "Melinda C Aldrich", "Gad Rennert", "dawn_teare", "Chu Chen", "Gary E Goodman", "Jennifer A Doherty", "John K Field", "Lambertus A Kiemeney", "Adonina Tardon", "Aage Haugen", "Stephen Lam", "Loic Le Marchand", "Matthew B Schabath", "Angeline S Andrew", "Mattias Johansson", "Jonas Manjer", "Philip Lazarus", "Susanne Arnold", "Gordon Fehringer", "Xuchen Zong", "Paul Brennan", "Stig E Bojesen", "Christopher I Amos", "Rayjean J Hung"]
+authors = ["Kachuri L", "Davey Smith G", "Liu G", "Landi MT", "Christiani DC", "Caporaso NE", "McKay JD", "Wu X", "Aldrich MC", "Rennert G", "Teare D", "Chen C", "Goodman GE", "Doherty JA", "Field JK", "Kiemeney LA", "Tardon A", "Haugen A", "Lam S", "Le Marchand L", "Schabath MB", "Andrew AS", "Johansson M", "Manjer J", "Lazarus P", "Arnold S", "Fehringer G", "Zong X", "Brennan P", "Bojesen SE", "Amos CI", "Hung RJ"]
 date = 2016-07-01
 doi = "10.1158/1538-7445.AM2016-817"
 featured = false
 math = true
 highlight = true
-publication = "*Cancer Research* 2016; __76__(14 Suppl)__:__Abstract nr 817"
-publication_short = "*Cancer Res* 2016; __76:__Abstract nr 817"
+publication = "*Cancer Research* 2016; 76(14 Suppl):Abstract nr 817"
+publication_short = "*Cancer Res* 2016; 76:Abstract nr 817"
 publication_types = ["2"]
-summary = "*Cancer Research* 2016; __76__(14 Suppl)__:__Abstract nr 817"
+summary = "*Cancer Research* 2016; 76(14 Suppl):Abstract nr 817"
 tags = ["Teare"]
 title = "Abstract 817: Mendelian randomization and mediation analysis of 5p15.33, telomere length and lung cancer risk"
 +++

@@ -5,10 +5,10 @@ date = 1999-10-01
 featured = false
 highlight = true
 math = true
-publication = "*Cancer Epidemiology and Prevention Biomarkers* 1999; __8__(10)__:__843-854"
-publication_short = "*Cancer Epidemiol Biomarkers Prev* 1999; __8:__843-54"
+publication = "*Cancer Epidemiology and Prevention Biomarkers* 1999; 8(10):843-854"
+publication_short = "*Cancer Epidemiol Biomarkers Prev* 1999; 8:843-54"
 publication_types = ["2"]
-summary = "*Cancer Epidemiology and Prevention Biomarkers* 1999; __8__(10)__:__843-854"
+summary = "*Cancer Epidemiology and Prevention Biomarkers* 1999; 8(10):843-854"
 tags = ["Teare"]
 title = "A systematic review of genetic polymorphisms and breast cancer risk"
 +++

@@ -7,10 +7,10 @@ featured = false
 highlight = true
 links = [{name = ".bib", url = "publication/Grayling_et_al_2018_Biom_J_60_903-16.bib"}, {name = ".enw", url = "publication/Grayling_et_al_2018_Biom_J_60_903-16.enw"}, {name = ".ris", url = "publication/Grayling_et_al_2018_Biom_J_60_903-16.ris"}]
 math = true
-publication = "*Biometrical Journal* 2018; __60__(5)__:__903-916"
-publication_short = "*Biom J* 2018; __60:__903-16"
+publication = "*Biometrical Journal* 2018; 60(5):903-916"
+publication_short = "*Biom J* 2018; 60:903-16"
 publication_types = ["2"]
-summary = "*Biometrical Journal* 2018; __60__(5)__:__903-916"
+summary = "*Biometrical Journal* 2018; 60(5):903-916"
 tags = ["Grayling", "Wason"]
 title = "Blinded and unblinded sample size reestimation procedures for stepped-wedge cluster randomized trials"
 +++

@@ -6,10 +6,10 @@ doi = "10.1002/jcp.1041420216"
 featured = false
 highlight = true
 math = true
-publication = "*Journal of Cellular Physiology* 1990; __142__(2)__:__334-341"
-publication_short = "*J Cell Physiol* 1990; __142:__334-41"
+publication = "*Journal of Cellular Physiology* 1990; 142(2):334-341"
+publication_short = "*J Cell Physiol* 1990; 142:334-41"
 publication_types = ["2"]
-summary = "*Journal of Cellular Physiology* 1990; __142__(2)__:__334-341"
+summary = "*Journal of Cellular Physiology* 1990; 142(2):334-341"
 tags = ["Matthews"]
 title = "Ultraviolet stimulated melanogenesis by human melanocytes is augmented by di-acyl glycerol but not TPA"
 +++
