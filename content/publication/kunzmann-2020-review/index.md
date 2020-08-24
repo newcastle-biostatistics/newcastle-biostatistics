@@ -5,10 +5,10 @@ date = 2020-06-28
 featured = false
 math = true
 highlight = true
-publication = "*arXiv* 2020; arXiv:2006.15715*"
-publication_short = "*arXiv* 2020; arXiv:2006.15715*"
+publication = "*arXiv* 2020; arXiv:2006.15715"
+publication_short = "*arXiv* 2020; arXiv:2006.15715"
 publication_types = ["2"]
-summary = "*arXiv* 2020; arXiv:2006.15715*"
+summary = "*arXiv* 2020; arXiv:2006.15715"
 tags = ["Grayling", "Wason"]
 title = "A review of Bayesian perspectives on sample size derivation for confirmatory trials"
 +++
