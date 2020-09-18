@@ -12,7 +12,7 @@ Data collection and analysis: Two review authors independently assessed whether 
 Main results: The search strategy identified 1311 unique references, of which seven were retrieved in full, as they appeared to be potentially relevant on the basis of title and abstract. However, all were excluded, as they did not meet the inclusion criteria of the review.
 
 Authors' conclusions: We found no evidence to inform decisions about exenterative surgery for women with recurrent cervical, endometrial, vaginal or vulvar malignancies. Ideally, a large RCT or, at the very least, well‐designed non‐randomised studies that use multivariate analysis to adjust for baseline imbalances are needed to compare exenterative surgery versus medical management, including palliative care."""
-authors = ["Ang C", "Bryant A", "Barton DPJ", "Pomel C"", "Naik R"]
+authors = ["Ang C", "Bryant A", "Barton DPJ", "Pomel C", "Naik R"]
 date = 2014-02-04
 doi = "10.1002/14651858.CD010449.pub2"
 featured = false
