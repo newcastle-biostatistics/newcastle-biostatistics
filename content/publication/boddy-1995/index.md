@@ -1,0 +1,15 @@
++++
+abstract = """It has often been reported that the oxazaphosphorines ifosfamide and cyclophosphamide induce their own metabolism. This phenomenon was studied in 21 paediatric patients over 35 courses of therapy. All patients received 9 g m−2 of ifosfamide as a continuous infusion over 72 h. Plasma concentrations of parent drug and of the major metabolite in plasma, 3-dechloroethylifosfamide (3DC) were determined using a quantitative thin-layer chromatography (TLC) technique: A one-compartment model was fitted simultaneously to both ifosfamide and 3DC data. The model included a time-dependent clearance term, increasing asymptotically from an initial value to a final induced clearance and characterised by a first-order rate constant. A time lag, before induction of clearance began, was determined empirically. Metabolite kinetics were characterised by an elimination rate constant for the metabolite and a composite parameter comprising a formation clearance, proportional to the time-dependent clearance of parent drug, divided by the volume of distribution of the metabolite. Thus, the parameters to estimate were the volume of distribution of parent drug (V), initial clearance (Cli), final clearance (Cls), the rate constant for changing clearance (Kc), the elimination rate constant for the metabolite (Km) and Vm/fm, the metabolite volume of distribution divided by the fractional clearance to 3DC. The model of drug and metabolite kinetics produced a good fit to the data in 22 of 31 courses. In a further 4 courses an auto-inductive model for parent drug alone could be used. In the remaining courses, auto-induction could be demonstrated, but there were insufficient data to fit the model. For some patients this was due to a long time lag (up to 54 h) relative to the infusion time. The time lag varied from 6 to 54 (median, 12) h and values for the other parameters were Cli, 3.27±2.52 l h−1m−2, Cls, 7.50±3.03 l h−1m−2, V, 22.0±11.0 l m−2,Kc, 0.086±0.074 h−1;Km, 0.159±0.077 h−1 and Vm/fm, 104±82 l m−2. The values ofKc correspond to a halflife of change in clearance ranging from 2 to 157 h, although for the majority of the patients the half-life was less than 7 h and a new steady-state level was achieved during the 72 h infusion period. This model provides insight into the time course of enzyme induction during ifosfamide administration, which may continue for up to 10 days in some protocols. Since other drugs, including common anti-neoplastic agents, are metabolised by the same P450 enzyme as is ifosfamide, auto-induction may have implications for the scheduling of combined chemotherapy."""
+authors = ["Boddy AV", "Cole M", "Pearson AD", "Idle JR"]
+date = 1995-01-01
+doi = "10.1007/BF00685732"
+featured = false
+highlight = true
+math = true
+publication = "*Cancer Chemotherapy and Pharmacology* 1995; 36(1):53-60"
+publication_short = "*Cancer Chemother Pharmacol* 1995; 36:53-60"
+publication_types = ["2"]
+summary = "*Cancer Chemotherapy and Pharmacology* 1995; 36(1):53-60"
+tags = ["Cole"]
+title = "The kinetics of the auto-induction of ifosfamide metabolism during continuous infusion"
++++
