@@ -10,6 +10,6 @@ publication = "*Journal of Dental Research* 2020; 99(1):36-43"
 publication_short = "*J Dent Res* 2020; 99(1):36-43"
 publication_types = ["2"]
 summary = "*Journal of Dental Research* 2020; 99(1):36-43"
-tags = [""Ryan", "Wilson"]
+tags = ["Ryan", "Wilson"]
 title = "Child caries management: A randomized controlled trial in dental practice"
 +++
