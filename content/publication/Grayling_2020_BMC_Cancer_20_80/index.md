@@ -17,4 +17,3 @@ summary = "*BMC Cancer* 2020; 20:80"
 tags = ["Grayling", "Wason"]
 title = "A web application for the design of multi-arm clinical trials"
 +++
-
