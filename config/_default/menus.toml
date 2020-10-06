@@ -69,12 +69,6 @@
   weight = 29
 
 [[main]]
-  name = "Denise Howel"
-  parent = "people"
-  url = "/people/denise_howel/"
-  weight = 30
-
-[[main]]
   name = "Valentina Mamasoula"
   parent = "people"
   url = "/people/valentina_mamasoula/"
