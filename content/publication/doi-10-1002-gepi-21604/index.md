@@ -11,6 +11,5 @@ publication_short = "*Genet Epidemiol* 2012; 36:118-71"
 publication_types = ["1"]
 summary = "*Genetic Epidemiology* 2012; 36(2):118-171"
 tags = ["Mamasoula"]
-title = "Aetiological role of folate deficiency in congenital cardiovascular malformation: Evidence from mendelian
-randomisation and meta-analysis"
+title = "Aetiological role of folate deficiency in congenital cardiovascular malformation: Evidence from 'mendelian randomisation' and meta-analysis"
 +++
