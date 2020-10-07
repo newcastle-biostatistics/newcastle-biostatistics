@@ -72,24 +72,30 @@
   name = "Valentina Mamasoula"
   parent = "people"
   url = "/people/valentina_mamasoula/"
-  weight = 31
+  weight = 30
 
 [[main]]
   name = "John Matthews"
   parent = "people"
   url = "/people/john_matthews/"
-  weight = 32
+  weight = 31
 
 [[main]]
   name = "Helen Mossop"
   parent = "people"
   url = "/people/helen_mossop/"
-  weight = 33
+  weight = 32
 
 [[main]]
   name = "Jérémie Nsengimana"
   parent = "people"
   url = "/people/jeremie_nsengimana/"
+  weight = 33
+
+[[main]]
+  name = "Luke Ouma"
+  parent = "people"
+  url = "/people/luke_ouma/"
   weight = 34
 
 [[main]]
