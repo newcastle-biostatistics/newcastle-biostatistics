@@ -23,13 +23,13 @@ title: Two biostatistics posts
 
 We have two biostatistics positions currently available in the PHSI-BRG. 
 
-The first one would be working with [James Wason](/people/james_wason/) and would consist of a mixture of methodology for precision medicine clinical trials, as well as being the trial statistician for two adaptive clinical trials.
+The first one would be working with [James Wason](/staff/james_wason/) and would consist of a mixture of methodology for precision medicine clinical trials, as well as being the trial statistician for two adaptive clinical trials.
 This would suit someone who is interested in both developing and applying novel methods for improving clinical trials for patients.
 The post-holder would play an important part in the [MRC/NIHR Trials Methodology Research Partnership Stratified Medicine Working Group](http://www.methodologyhubs.mrc.ac.uk/research/working-groups/stratified-medicine/).
 
 The second post would work on several different research studies within our group’s portfolio (primarily clinical trials), as well as getting involved in design of new studies. 
 
-Informal enquiries on either post can be sent to [James Wason](/people/james_wason/) via e-mail to [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk).
+Informal enquiries on either post can be sent to [James Wason](/staff/james_wason/) via e-mail to [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk).
 If you are specifically interested in post 2, you can also contact [Denise Howel](mailto:denise.howel@ncl.ac.uk).
 
 More information is available at the following links:

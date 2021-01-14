@@ -1,23 +1,19 @@
 ---
 authors:
-- helen_mossop
-email: "helen.mossop@ncl.ac.uk"
-name: Helen Mossop
+- lou_whitehead
+email: "L.Whitehead2@newcastle.ac.uk"
+name: Lou Whitehead
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/helenmossop.html"
-role: Biostatistician
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:helen.mossop@ncl.ac.uk'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=xU8KhWMAAAAJ&hl=en&oi=ao
+  link: 'mailto:L.Whitehead2@newcastle.ac.uk'
 superuser: false
 ---
 
 ### Contact
 
-- __Email:__ [helen.mossop@ncl.ac.uk](mailto:helen.mossop@ncl.ac.uk)
+- __Email:__ [L.Whitehead2@newcastle.ac.uk](mailto:L.Whitehead2@newcastle.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Baddiley-Clark Building](https://www.ncl.ac.uk/tour/academic/baddiley-clark/), Richardson Road, Newcastle upon Tyne NE2 4AX, UK

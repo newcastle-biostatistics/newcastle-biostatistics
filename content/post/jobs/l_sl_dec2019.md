@@ -25,4 +25,4 @@ Our group is looking to continue its expansion in methodological research and pr
 
 More details, and how to apply are available at: https://jobs.ncl.ac.uk/s/oUlkxq and https://jobs.ncl.ac.uk/s/YYWa4y.
 
-Any informal enquiries can be addressed to [James Wason](/people/james_wason/) and/or [Dawn Teare](/people/dawn_teare/).
+Any informal enquiries can be addressed to [James Wason](/staff/james_wason/) and/or [Dawn Teare](/staff/dawn_teare/).
