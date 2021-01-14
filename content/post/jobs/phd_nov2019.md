@@ -24,10 +24,10 @@ The projects available (and links to more details and how to apply) are below:
 
 ### 1. Statistical methodology for phase II oncology trials
 
-- Primary supervisor: [Michael Grayling](/people/michael_grayling/)
-- More details: https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-phase-ii-oncology-trials/?p115612
+- __Primary supervisor:__ [Michael Grayling](/people/michael_grayling/)
+- __More details:__ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-phase-ii-oncology-trials/?p115612
 
 ### 2. Methods for quantifying the utility of adaptive designs
 
-- Primary supervisor: [James Wason](/people/james_wason/)
-- More details: https://www.findaphd.com/phds/project/phd-in-biostatistics-methods-for-quantifying-the-utility-of-adaptive-designs/?p115631
+- __Primary supervisor:__ [James Wason](/people/james_wason/)
+- __More details:__ https://www.findaphd.com/phds/project/phd-in-biostatistics-methods-for-quantifying-the-utility-of-adaptive-designs/?p115631

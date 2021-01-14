@@ -24,16 +24,16 @@ The projects available (and links to more details and how to apply) are below:
 
 ### 1. Statistical methodology for adaptive multi-arm trials
 
-- _Primary supervisor:_ [James Wason](/people/james_wason/)
-- _More details:_ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-adaptive-multi-arm-trials/?p106423
+- __Primary supervisor:__ [James Wason](/people/james_wason/)
+- __More details:__ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-adaptive-multi-arm-trials/?p106423
 
 ### 2. Statistical methodology for phase II oncology trials
 
-- _Primary supervisor:_ [Michael Grayling](/people/michael_grayling/)
-- _More details:_ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-phase-ii-oncology-trials/?p106345
+- __Primary supervisor:__ [Michael Grayling](/people/michael_grayling/)
+- __More details:__ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-phase-ii-oncology-trials/?p106345
 
 
 ### 3. Statistical methodology for precision medicine trials
 
-- _Primary supervisor:_ [James Wason](/people/james_wason/)
-- _More details:_ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-precision-medicine-trials/?p106363
+- __Primary supervisor:__ [James Wason](/people/james_wason/)
+- __More details:__ https://www.findaphd.com/phds/project/phd-in-biostatistics-statistical-methodology-for-precision-medicine-trials/?p106363

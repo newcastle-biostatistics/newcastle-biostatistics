@@ -15,9 +15,9 @@ tags: []
 title: Two biostatistics posts
 ---
 
-- _Post 1 (A211136R):_ Research Associate (Biostatistics), 3 years fixed-term
-- _Post 2 (A211143R):_ Research Associate/Assistant (Biostatistics), 3 years fixed-term
-- _Salary:_
+- __Post 1 (A211136R):__ Research Associate (Biostatistics), 3 years fixed-term
+- __Post 2 (A211143R):__ Research Associate/Assistant (Biostatistics), 3 years fixed-term
+- __Salary:__
     - Research Associate £30,395 - £39,610 (with progression to £39,610)
     - Research Assistant £27,831 - £29,515 
 
@@ -34,5 +34,5 @@ If you are specifically interested in post 2, you can also contact [Denise Howel
 
 More information is available at the following links:
 
-- _Post 1:_ https://www.jobs.ac.uk/job/BRV127/research-associate-biostatistics-a211136r
-- _Post 2:_ https://www.jobs.ac.uk/job/BRV039/research-assistant-associate-biostatistics-a211143r
+- __Post 1:__ https://www.jobs.ac.uk/job/BRV127/research-associate-biostatistics-a211136r
+- __Post 2:__ https://www.jobs.ac.uk/job/BRV039/research-assistant-associate-biostatistics-a211143r
