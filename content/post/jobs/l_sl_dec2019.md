@@ -17,8 +17,8 @@ title: Senior Lecturer and Lecturer positions
 
 The PHSI-BRG have two new academic positions available to contribute to the research, teaching, and leadership of the group:
 
-- __Senior Lecturer in Biostatistics:__ Open-ended (equivalent to Associate Professor), usual salary range at appointment £51,030-£54,130 (with progression to £58,089);
-- __Lecturer in Biostatistics:__ Open-ended (equivalent to Assistant Professor), usual salary range at appointment £41,526-£44,045 (with progression to £48,676).
+- __Senior Lecturer in Biostatistics:__ Open-ended (equivalent to Associate Professor), usual salary range at appointment £51,030-£54,130 (with progression to £58,089)
+- __Lecturer in Biostatistics:__ Open-ended (equivalent to Assistant Professor), usual salary range at appointment £41,526-£44,045 (with progression to £48,676)
 
 These posts would suit people who are interested in leading statistical collaboration on medical research studies.
 Our group is looking to continue its expansion in methodological research and pre-clinical studies: candidates who are interested in one or other of these would be particularly encouraged.
