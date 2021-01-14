@@ -11,5 +11,5 @@ publication_short = "*PhD Thesis, Lancaster University* 2020; DOI:10.17635/lanca
 publication_types = ["7"]
 summary = "*PhD Thesis, Lancaster University* 2020; DOI:10.17635/lancaster/thesis/917"
 tags = ["Williamson"]
-title = "Bayesian bandit models for the design of clinical trials (Unpublished PhD thesis)"
+title = "Bayesian bandit models for the design of clinical trials"
 +++
