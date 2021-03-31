@@ -1,0 +1,133 @@
+main:
+  - name: 'Home'
+    url: ''
+    weight: 10
+  - name: 'Staff'
+    identifier: 'staff'
+    url: '/staff/'
+    weight: 20
+  - name: 'Theophile Bigirumurame'
+    parent: 'staff'
+    url: '/staff/theophile_bigirumurame/'
+    weight: 21
+  - name: 'Andy Bryant'
+    parent: 'staff'
+    url: '/staff/andy_bryant/'
+    weight: 22
+  - name: 'Thomas Chadwick'
+    parent: 'staff'
+    url: '/staff/thomas_chadwick/'
+    weight: 23
+  - name: 'Svetlana Cherlin'
+    parent: 'staff'
+    url: '/staff/svetlana_cherlin/'
+    weight: 24
+  - name: 'Mike Cole'
+    parent: 'staff'
+    url: '/staff/mike_cole/'
+    weight: 25
+  - name: 'Holly Fisher'
+    parent: 'staff'
+    url: '/staff/holly_fisher/'
+    weight: 26
+  - name: 'Tony Fouweather'
+    parent: 'staff'
+    url: '/staff/tony_fouweather/'
+    weight: 27
+  - name: 'Michael Grayling'
+    parent: 'staff'
+    url: '/staff/michael_grayling/'
+    weight: 28
+  - name: 'Shaun Hiu'
+    parent: 'staff'
+    url: '/staff/shaun_hiu/'
+    weight: 29
+  - name: 'Valentina Mamasoula'
+    parent: 'staff'
+    url: '/staff/valentina_mamasoula/'
+    weight: 30
+  - name: 'John Matthews'
+    parent: 'staff'
+    url: '/staff/john_matthews/'
+    weight: 31
+  - name: 'Helen Mossop'
+    parent: 'staff'
+    url: '/staff/helen_mossop/'
+    weight: 32
+  - name: 'Jérémie Nsengimana'
+    parent: 'staff'
+    url: '/staff/jeremie_nsengimana/'
+    weight: 33
+  - name: 'Vicky Ryan'
+    parent: 'staff'
+    url: '/staff/vicky_ryan/'
+    weight: 34
+  - name: 'Dawn Teare'
+    parent: 'staff'
+    url: '/staff/dawn_teare/'
+    weight: 35
+  - name: 'James Wason'
+    parent: 'staff'
+    url: '/staff/james_wason/'
+    weight: 36
+  - name: 'Faye Williamson'
+    parent: 'staff'
+    url: '/staff/faye_williamson/'
+    weight: 37
+  - name: 'Nina Wilson'
+    parent: 'staff'
+    url: '/staff/nina_wilson/'
+    weight: 38
+  - name: 'Haiyan Zheng'
+    parent: 'staff'
+    url: '/staff/haiyan_zheng/'
+    weight: 39
+  - name: 'PhD students'
+    identifier: 'phd_students'
+    url: '/phd_students/'
+    weight: 50
+  - name: 'Ruqayya Azher'
+    parent: 'phd_students'
+    url: '/phd_students/ruqayya_azher/'
+    weight: 51
+  - name: 'Aritra Mukherjee'
+    parent: 'phd_students'
+    url: '/phd_students/aritra_mukherjee/'
+    weight: 52
+  - name: 'Luke Ouma'
+    parent: 'phd_students'
+    url: '/phd_students/luke_ouma/'
+    weight: 53
+  - name: 'Samuel Sarkodie'
+    parent: 'phd_students'
+    url: '/phd_students/samuel_sarkodie/'
+    weight: 54
+  - name: 'Lou Whitehead'
+    parent: 'phd_students'
+    url: '/phd_students/lou_whitehead/'
+    weight: 55
+  - name: 'Methodology research'
+    identifier: 'methodology_research'
+    url: '/methodology_research/'
+    weight: 60
+  - name: 'Overview'
+    parent: 'methodology_research'
+    url: '/methodology_research/overview/'
+    weight: 61
+  - name: 'Adaptive designs'
+    parent: 'methodology_research'
+    url: '/methodology_research/adaptive_designs/'
+    weight: 62
+  - name: 'Projects'
+    identifier: 'projects'
+    url: '/projects/'
+    weight: 70
+  - name: 'Publications'
+    url: '/group_publications/'
+    weight: 80
+  - name: 'News'
+    url: '/news/'
+    weight: 90
+  - name: 'Contact'
+    url: '/contact_us/'
+    weight: 100

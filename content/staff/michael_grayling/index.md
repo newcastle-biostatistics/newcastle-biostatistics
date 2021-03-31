@@ -1,4 +1,7 @@
 ---
-title: "M Grayling"
-type: "widget_page"  # Page type is a Widget Page
+# Homepage
+type: widget_page
+
+# Homepage is headless, other widget pages are not.
+headless: false
 ---

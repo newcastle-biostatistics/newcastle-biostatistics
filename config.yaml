@@ -1,0 +1,4 @@
+theme: "starter-academic"
+baseURL: https://www.newcastle-biostatistics.com/
+languageCode: en-us
+title: PHSI-BRG

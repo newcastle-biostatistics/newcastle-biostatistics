@@ -1,17 +1,18 @@
-+++
-date = "2019-05-25"
-external_link = ""
-summary = ["Pilot trial of omeprazole in idiopathic pulmonary fibrosis"]
-tags = ["PPIPF"]
-title = "PPIPF"
-subtitle = "Pilot trial of omeprazole in idiopathic pulmonary fibrosis"
-url_code = ""
-url_pdf = ""
-url_slides = ""
-url_video = ""
-[image]
-  preview_only = true
-+++
+---
+date: "2019-05-25T00:00:00Z"
+external_link: ""
+image:
+  focal_point: Smart
+  preview_only: true
+summary: Pilot trial of omeprazole in idiopathic pulmonary fibrosis
+tags:
+- PPIPF
+title: PPIPF
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
 
 PPIPF was a single-centre, double-blind, placebo-controlled, randomised pilot trial of omeprazole in patients with idiopathic pulmonary fibrosis (IPF).
 A common symptom of IPF is a chronic cough which may be caused by acid reflux (acid leaking up from the stomach into the oesophagus).

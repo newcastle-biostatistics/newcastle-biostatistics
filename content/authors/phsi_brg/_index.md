@@ -2,7 +2,7 @@
 authors:
 - phsi_brg
 bio: Population Health Sciences Institute, Newcastle University, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne, NE2 4AX, UK
-name: Population Health Sciences Institute Biostatistics Research Group
+name: 
 organizations:
 - name: Newcastle University
 social:
@@ -19,6 +19,7 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/user/NewcastleUniOfficial
 superuser: true
+title: Population Health Sciences Institute Biostatistics Research Group
 ---
 
 The [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group (PHSI-BRG) at [Newcastle University](https://www.ncl.ac.uk/) consists of 24 statisticians with a variety of backgrounds, experience, and expertise. 

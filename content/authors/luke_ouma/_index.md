@@ -31,7 +31,7 @@ superuser: false
 
 ## Background
 
-Luke Ouma is a PhD student in Biostatistics at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), supervised by [Prof James Wason](/people/james_wason/), [Dr Michael Grayling](/people/michael_grayling/) and [Dr Haiyan Zheng](/people/haiyan_zheng/). His research focuses on statistical methodology for 'precision medicine trials', specifically focusing on developing improved methods for the design and analysis of Umbrella and Basket trials. He has previously worked as a statistician at the [Kemri-Wellcome Trust Research Programme](https://kemri-wellcome.org/), Kenya.
+Luke Ouma is a PhD student in Biostatistics at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), supervised by [Prof James Wason](/staff/james_wason/), [Dr Michael Grayling](/staff/michael_grayling/) and [Dr Haiyan Zheng](/staff/haiyan_zheng/). His research focuses on statistical methodology for 'precision medicine trials', specifically focusing on developing improved methods for the design and analysis of Umbrella and Basket trials. He has previously worked as a statistician at the [Kemri-Wellcome Trust Research Programme](https://kemri-wellcome.org/), Kenya.
 
 ### Contact
 

@@ -1,14 +1,25 @@
-+++
-widget = "blank" 
-headless = true
-active = true
-weight = 1
-title = "Adaptive designs"
-[design]
-  columns = "1"
-[design.spacing]
-  padding = ["20px", "0", "20px", "0"]
-+++
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Adaptive designs
+subtitle:
+
+design:
+  columns: "1"
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+---
 
 The methodology group works on a number of projects relating to adaptive clinical trial designs.
 One recently funded such project is *Costing Adaptive Trials*.

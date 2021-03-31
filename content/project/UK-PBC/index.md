@@ -1,17 +1,18 @@
-+++
-date = "2019-05-25"
-external_link = ""
-summary = ["Stratified Medicine In Primary Biliary Cholangitis"]
-tags = ["UK-PBC"]
-title = "UK-PBC"
-subtitle = "Stratified Medicine In Primary Biliary Cholangitis"
-url_code = ""
-url_pdf = ""
-url_slides = ""
-url_video = ""
-[image]
-  preview_only = true
-+++
+---
+date: "2019-05-25T00:00:00Z"
+external_link: ""
+image:
+  focal_point: Smart
+  preview_only: true
+summary: Stratified Medicine In Primary Biliary Cholangitis
+tags:
+- UK-PBC
+title: UK-PBC
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
 
 UK-PBC is a unique collaboration between patient groups, doctors, scientists and industry with a shared interest in increasing understanding about, and treatment for the autoimmune liver disease Primary Biliary Cirrhosis (PBC).
 
