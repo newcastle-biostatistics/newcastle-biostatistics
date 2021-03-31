@@ -123,11 +123,11 @@ main:
     url: '/projects/'
     weight: 70
   - name: 'Publications'
-    url: '/group_publications/'
+    url: '/publications/'
     weight: 80
   - name: 'News'
     url: '/news/'
     weight: 90
   - name: 'Contact'
-    url: '/contact_us/'
+    url: '/contact/'
     weight: 100
