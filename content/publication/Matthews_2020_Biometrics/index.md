@@ -6,10 +6,10 @@ doi = "10.1111/biom.13218"
 featured = true
 math = true
 highlight = true
-publication = "*Biometrics* 2020"
-publication_short = "*Biometrics* 2020"
+publication = "*Biometrics* 2020; 76(4):1167-1176"
+publication_short = "*Biometrics* 2020; 76:1167-76"
 publication_types = ["2"]
-summary = "*Biometrics* 2020"
+summary = "*Biometrics* 2020; 76(4):1167-1176"
 tags = ["Matthews"]
 title = "Highly efficient stepped wedge designs for clusters of unequal size"
 +++

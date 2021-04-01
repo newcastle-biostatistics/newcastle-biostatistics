@@ -1,6 +1,6 @@
 +++
 abstract = """"""
-authors = ["Graham McClelland and Nina Wilson and Lisa Shaw and Michael Grayling and Daniel Haworth and Christopher I Price"]
+authors = ["McClelland G", "Wilson N", "Shaw L", "Grayling M", "Haworth D", "Price CI"]
 date = "2020-11-16"
 doi = "10.1136/emermed-2020-210319"
 featured = false
