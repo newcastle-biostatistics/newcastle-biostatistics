@@ -5,7 +5,7 @@ email: "dawn.tearea@ncl.ac.uk"
 name: Dawn Teare
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/marionteare.html"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/dawnteare.html"
 role: Professor of Biostatistics
 user_groups: ["Members"]
 social:
