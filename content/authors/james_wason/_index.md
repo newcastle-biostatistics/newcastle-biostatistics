@@ -27,7 +27,6 @@ I am a statistician with interests in methods for improving the design and analy
 As well as working in methodology development I have a great interest in collaborating on real trials to apply new methods in practice.
 
 I have been at [Newcastle University](https://www.ncl.ac.uk/) since July 2017.
-I currently retain a part-time position in the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
 
 ### Areas of expertise
 
