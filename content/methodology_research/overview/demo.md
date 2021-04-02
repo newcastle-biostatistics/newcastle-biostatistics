@@ -51,7 +51,6 @@ If you are interested in discussing a study that may require novel methods, plea
 - [Dawn Teare](/staff/dawn_teare/)
 - [James Wason](/staff/james_wason/)
 - [Faye Williamson](/staff/faye_williamson/)
-- [Haiyan Zheng](/staff/haiyan_zheng/)
 
 ### PhD students
 
