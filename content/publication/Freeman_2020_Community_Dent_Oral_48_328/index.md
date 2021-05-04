@@ -16,6 +16,6 @@ publication = "*Community Dentistry and Oral Epidemiology* 2020; 48(4):328-337"
 publication_short = "*Community Dent Oral* 2020; 48:328-37"
 publication_types = ["2"]
 summary = "*Community Dentistry and Oral Epidemiology* 2020; 48(4):328-337"
-tags = ["Ryan", "Wilson"]
+tags = ["FiCTION", "Ryan", "Wilson"]
 title = "The FiCTION trial: Child oral health-related quality of life and dental anxiety across three treatment strategies for managing caries in young children"
 +++

@@ -18,6 +18,6 @@ publication = "*Trials* 2016; 17:175"
 publication_short = "*Trials* 2016; 17:175"
 publication_types = ["2"]
 summary = "*Trials* 2016; 17:175"
-tags = ["Fouweather"]
+tags = ["Fouweather", "TOPPITS"]
 title = "TOPPITS: Trial Of Proton Pump Inhibitors in Throat Symptoms. Study protocol for a randomised controlled trial"
 +++

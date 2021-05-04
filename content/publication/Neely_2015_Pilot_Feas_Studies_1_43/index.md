@@ -18,6 +18,6 @@ publication = "*Pilot and Feasibility Studies* 2015; 1:43"
 publication_short = "*Pilot Feas Studies* 2015; 1:43"
 publication_types = ["2"]
 summary = "*Pilot and Feasibility Studies* 2015; 1:43"
-tags = ["Ryan"]
+tags = ["FAB", "Ryan"]
 title = "A feasibility study of a Family Focused Treatment for Adolescents with Bipolar Disorder — The FAB study"
 +++

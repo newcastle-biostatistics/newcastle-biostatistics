@@ -32,6 +32,6 @@ publication = "*Health Technology Assessment* 2020; 24(1)"
 publication_short = "*Health Technol Assess* 2020; 24"
 publication_types = ["2"]
 summary = "*Health Technology Assessment* 2020; 24(1)"
-tags = ["Ryan", "Wilson"]
+tags = ["FiCTION", "Ryan", "Wilson"]
 title = "Best-practice prevention alone or with conventional or biological caries management for 3- to 7-year-olds: The FiCTION three-arm RCT"
 +++

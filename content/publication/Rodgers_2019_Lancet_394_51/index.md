@@ -18,6 +18,6 @@ publication = "*Lancet* 2019; 394(10192):51-62"
 publication_short = "*Lancet* 2019; 394:51-62"
 publication_types = ["2"]
 summary = "*Lancet* 2019; 394(10192):51-62"
-tags = ["Wilson"]
+tags = ["RATULS", "Wilson"]
 title = "Robot assisted training for the upper limb after stroke (RATULS): A multicentre randomised controlled trial"
 +++

@@ -16,6 +16,6 @@ publication = "*Pilot and Feasibility Studies* 2017; 3:25"
 publication_short = "*Pilot Feasibility Stud* 2017; 3:25"
 publication_types = ["2"]
 summary = "*Pilot and Feasibility Studies* 2017; 3:25"
-tags = ["Fouweather"]
+tags = ["Fouweather", "SOLID"]
 title = "Supporting Looked After Children and Care Leavers In Decreasing Drugs, and alcohol (SOLID): Protocol for a pilot feasibility randomised controlled trial of interventions to decrease risky substance use (drugs and alcohol) and improve mental health of look"
 +++

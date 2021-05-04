@@ -18,6 +18,6 @@ publication = "*PLoS ONE* 2020; 15(9):e0238286"
 publication_short = "*PLoS ONE* 2020; 15:e0238286"
 publication_types = ["2"]
 summary = "*PLoS ONE* 2020; 15(9):e0238286"
-tags = ["Fouweather"]
+tags = ["Fouweather", "SOLID"]
 title = "A pilot feasibility randomised controlled trial of two behaviour change interventions compared to usual care to reduce substance misuse in looked after children and care leavers aged 12-20 years: The SOLID study"
 +++

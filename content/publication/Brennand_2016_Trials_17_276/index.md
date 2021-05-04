@@ -16,6 +16,6 @@ publication = "*Trials* 2016; 17:276"
 publication_short = "*Trials* 2016; 17:276"
 publication_types = ["2"]
 summary = "*Trials* 2016; 17:276"
-tags = ["Chadwick"]
+tags = ["AnTIC", "Chadwick"]
 title = "Antibiotic treatment for intermittent bladder catheterisation with once daily prophylaxis (the AnTIC study): Study protocol for a randomised controlled trial"
 +++

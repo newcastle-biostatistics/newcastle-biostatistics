@@ -16,6 +16,6 @@ publication = "*Trials* 2018; 19:616"
 publication_short = "*Trials* 2018; 19:616"
 publication_types = ["2"]
 summary = "*Trials* 2018; 19:616"
-tags = ["Chadwick", "Mossop"]
+tags = ["ALTAR", "Chadwick", "Mossop"]
 title = "ALternatives To prophylactic Antibiotics for the treatment of Recurrent urinary tract infection in women (ALTAR): Study protocol for a multicentre, pragmatic, patient-randomised, non-inferiority trial"
 +++

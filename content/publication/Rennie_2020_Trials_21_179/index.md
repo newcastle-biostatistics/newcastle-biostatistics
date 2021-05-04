@@ -18,6 +18,6 @@ publication = "*Trials* 2020; 21:179"
 publication_short = "*Trials* 2020; 21:179"
 publication_types = ["2"]
 summary = "*Trials* 2020; 21:179"
-tags = ["Fouweather"]
+tags = ["Fouweather", "NAIROS"]
 title = "Nasal Airway Obstruction Study (NAIROS): A phase III, open-label, mixed-methods, multicentre randomised controlled trial of septoplasty versus medical management of a septal deviation with nasal obstruction"
 +++

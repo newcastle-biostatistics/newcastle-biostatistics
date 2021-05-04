@@ -10,6 +10,6 @@ publication = "*Journal of Investigative Dermatology* 2019; 139(1):115-123"
 publication_short = "*J Invest Dermatol* 2019; 139:115-23"
 publication_types = ["2"]
 summary = "*Journal of Investigative Dermatology* 2019; 139(1):115-123"
-tags = ["Wilson"]
+tags = ["PSORT", "Wilson"]
 title = "Defining the therapeutic range for adalimumab and predicting response in psoriasis: A multicenter prospective observational cohort study"
 +++

@@ -6,15 +6,16 @@ image:
   preview_only: true
 summary: Lite Therapy Effectiveness For ORal Mucositis
 tags:
-- LITEFORM
-title: LITEFORM
+- LiTEFORM
+title: LiTEFORM
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-A Randomised Controlled Trial of the Clinical and Cost Effectiveness of Low Level Laser in the Management of Oral Mucositis in Head and Neck Cancer Irradiation.
-To establish the benefit of LLLT delivered 3 times weekly delivered by trained staff in the management of Oral Mucositis in Head and Neck Cancer irradiation
+LiTEFORM is funded by a grant from the [NIHR's HTA Programme](https://www.nihr.ac.uk/explore-nihr/funding-programmes/health-technology-assessment.htm) to CI [Michael Nugent](http://www.liteform.org.uk/theteam/chiefinvestigator/mrmichaelnugent.html) and team.
 
-*LITEFORM is funded by a grant from the National Institute for Health Research's HTA programme.*
+It is a RCT of the clinical and cost effectiveness of low level laser in the management of oral mucositis in head and neck cancer irradiation.
+
+You can find out more from LiTEFORM's [website](http://liteform.org.uk/), by following the trial on [Twitter](https://twitter.com/liteformtrial?lang=en), from it's [award page](https://fundingawards.nihr.ac.uk/award/15/57/160), or from it's registration on [ISRCTN](https://doi.org/10.1186/ISRCTN14224600).

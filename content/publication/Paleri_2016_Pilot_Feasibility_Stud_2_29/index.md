@@ -20,6 +20,6 @@ publication = "*Pilot and Feasibility Studies* 2016; 2:29"
 publication_short = "*Pilot Feasibility Stud* 2016; 2:29"
 publication_types = ["2"]
 summary = "*Pilot and Feasibility Studies* 2016; 2:29"
-tags = ["Cole"]
+tags = ["Cole", "TUBE"]
 title = "A feasibility study incorporating a pilot randomised controlled trial of oral feeding plus pre-treatment gastrostomy tube versus oral feeding plus as-needed nasogastric tube feeding in patients undergoing chemoradiation for head and neck cancer (TUBE trial): Study protocol"
 +++

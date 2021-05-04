@@ -36,6 +36,6 @@ publication = "*Health Technology Assessment* 2021; 25(3):1-118"
 publication_short = "*Health Technol Assess* 2021; 25:1-118"
 publication_types = ["2"]
 summary = "*Health Technology Assessment* 2021; 25(3):1-118"
-tags = ["Fouweather"]
+tags = ["Fouweather", "TOPPITS"]
 title = "Lansoprazole for persistent throat symptoms in secondary care: The TOPPITS RCT"
 +++

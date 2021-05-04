@@ -18,6 +18,6 @@ publication = "*BMJ Open* 2019; 9(1):e024705"
 publication_short = "*BMJ Open* 2019; 9:e024705"
 publication_types = ["2"]
 summary = "*BMJ Open* 2019; 9(1):e024705"
-tags = ["Cole"]
+tags = ["Cole", "RiGD"]
 title = "Adjuvant rituximab, a potential treatment for the young patient with Graves' hyperthyroidism (RiGD): Study protocol for a single-arm, single-stage, phase II trial"
 +++

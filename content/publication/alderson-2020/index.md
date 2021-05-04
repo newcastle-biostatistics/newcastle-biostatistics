@@ -28,6 +28,6 @@ publication = "*Public Health Research* 2020; 8(13)"
 publication_short = "*Public Health Res* 2020; 8"
 publication_types = ["2"]
 summary = "*Public Health Research* 2020; 8(13)"
-tags = ["Fouweather"]
+tags = ["Fouweather", "SOLID"]
 title = "Behaviour change interventions to reduce risky substance use and improve mental health in children in care: The SOLID three-arm feasibility RCT"
 +++

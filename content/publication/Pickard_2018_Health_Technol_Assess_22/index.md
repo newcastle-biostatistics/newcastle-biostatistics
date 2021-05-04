@@ -32,6 +32,6 @@ publication = "*Health Technology Assessment* 2018; 22(24)"
 publication_short = "*Health Technol Assess* 2018; 22"
 publication_types = ["2"]
 summary = "*Health Technology Assessment* 2018; 22(24)"
-tags = ["Chadwick", "Fisher"]
+tags = ["AnTIC", "Chadwick", "Fisher"]
 title = "Continuous low-dose antibiotic prophylaxis to prevent urinary tract infection in adults who perform clean intermittent self-catheterisation: The AnTIC RCT"
 +++

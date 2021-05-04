@@ -18,6 +18,6 @@ publication = "*Lancet Infectious Diseases* 2018; 18(9):957-968"
 publication_short = "*Lancet Infect Dis* 2018; 18:957-68"
 publication_types = ["2"]
 summary = "*Lancet Infectious Diseases* 2018; 18(9):957-968"
-tags = ["Chadwick", "Fisher"]
+tags = ["AnTIC", "Chadwick", "Fisher"]
 title = "Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): A randomised, open-label trial"
 +++

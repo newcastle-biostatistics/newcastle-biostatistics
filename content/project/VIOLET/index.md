@@ -1,5 +1,5 @@
 ---
-date: "2019-05-25T00:00:00Z"
+date: "2021-04-10T00:00:00Z"
 external_link: ""
 image:
   focal_point: Smart
@@ -14,8 +14,8 @@ url_slides: ""
 url_video: ""
 ---
 
-A study that aims to develop an adapted training package, and then perform a pilot trial to investigate whether a full-scale randomised controlled trial of this intervention is feasible.
+VIOLET was funded by a grant from the [NIHR's PHR Programme](https://www.nihr.ac.uk/explore-nihr/funding-programmes/public-health-research.htm) to CI [Nicola Adams](https://www.northumbria.ac.uk/about-us/our-staff/a/nicola-adams/) and team.
 
-https://www.northumbria.ac.uk/about-us/news-events/news/2015/06/can-exercise-help-older-people-with-vision-problems-avoid-falls/
+It aimed to develop an adapted training package, and then perform a pilot trial to investigate whether a full-scale randomised controlled trial of the intervention was feasible.
 
-*VIOLET is funded by a grant from the National Institute for Health Research's Public Health Research (PHR) Programme.*
+You can find out more from VIOLET's [final report](https://doi.org/10.3310/phr07040), or from it's registration on [ISRCTN](https://doi.org/10.1186/ISRCTN16949845).

@@ -18,6 +18,6 @@ publication = "*Medicine* 2020; 99(26):e20458"
 publication_short = "*Medicine* 2020; 99:e20458"
 publication_types = ["2"]
 summary = "*Medicine* 2020; 99(26):e20458"
-tags = ["Cole"]
+tags = ["Cole", "TRAFIC"]
 title = "Targeting the rheumatoid arthritis synovial fibroblast via cyclin dependent kinase inhibition"
 +++

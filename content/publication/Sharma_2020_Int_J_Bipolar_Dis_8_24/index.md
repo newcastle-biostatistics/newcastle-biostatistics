@@ -18,6 +18,6 @@ publication = "*International Journal of Bipolar Disorders* 2020;8:24"
 publication_short = "*Int J Bipolar Dis* 2020;8:24"
 publication_types = ["2"]
 summary = "*International Journal of Bipolar Disorders* 2020;8:24"
-tags = ["Ryan"]
+tags = ["FAB", "Ryan"]
 title = "FAB: First UK feasibility trial of a future randomised controlled trial of Family focused treatment for Adolescents with Bipolar disorder"
 +++

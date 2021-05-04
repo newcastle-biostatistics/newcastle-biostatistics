@@ -26,6 +26,6 @@ publication = "*Health Technology Assessment* 2018; 22(16)"
 publication_short = "*Health Technol Assess* 2018; 22(16)"
 publication_types = ["2"]
 summary = "*Health Technology Assessment* 2018; 22(16)"
-tags = ["Wilson"]
+tags = ["Wilson", "TUBE"]
 title = "Gastrostomy versus nasogastric tube feeding for chemoradiation patients with head and neck cancer: The TUBE pilot RCT"
 +++

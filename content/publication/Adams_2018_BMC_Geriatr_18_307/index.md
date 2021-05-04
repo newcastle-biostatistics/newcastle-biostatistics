@@ -26,6 +26,6 @@ publication = "*BMC Geriatrics* 2018; 18:307"
 publication_short = "*BMC Geriatr* 2018; 18:307"
 publication_types = ["2"]
 summary = "*BMC Geriatrics* 2018; 18:307"
-tags = ["Fouweather"]
+tags = ["Fouweather", "VIOLET"]
 title = "Feasibility of trial procedures for a randomised controlled trial of a community based group exercise intervention for falls prevention for visually impaired older people: The VIOLET study"
 +++

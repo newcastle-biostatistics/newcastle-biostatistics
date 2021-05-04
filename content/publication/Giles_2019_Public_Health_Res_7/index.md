@@ -34,6 +34,6 @@ publication = "*Public Health Research* 2019; 7(9)"
 publication_short = "*Public Health Res* 2019; 7(9)"
 publication_types = ["2"]
 summary = "*Public Health Research* 2019; 7(9)"
-tags = ["Mossop"]
+tags = ["Mossop", "SIPS JR-HIGH"]
 title = "Brief alcohol intervention for risky drinking in young people aged 14–15 years in secondary schools: The SIPS JR-HIGH RCT"
 +++

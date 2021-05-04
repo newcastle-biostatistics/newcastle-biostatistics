@@ -16,6 +16,6 @@ publication = "*BMJ Open* 2019; 9(12):e034708"
 publication_short = "*BMJ Open* 2019; 9(12):e034708"
 publication_types = ["2"]
 summary = "*BMJ Open* 2019; 9(12):e034708"
-tags = ["Fisher"]
+tags = ["Fisher", "VARIANT"]
 title = "Prostate cancer androgen receptor splice variant 7 biomarker study - A multicentre randomised feasibility trial of biomarker-guided personalised treatment in patients with advanced prostate cancer (the VARIANT trial) study protocol"
 +++

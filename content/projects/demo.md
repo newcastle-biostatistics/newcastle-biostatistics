@@ -21,5 +21,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-The PHSI-BRG are involved in 47 projects, predominantly clinical trials, covering a wide range of disease areas.
-Some examples are given below.
+The PHSI-BRG are involved in a large number of projects, predominantly clinical trials, covering a wide range of disease areas.
+Examples of recent and on-going projects are given below.
