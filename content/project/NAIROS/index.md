@@ -7,6 +7,7 @@ image:
 summary: RCT of surgical and medical management of nasal airway obstruction
 tags:
 - NAIROS
+- Ongoing-trial
 title: NAIROS
 url_code: ""
 url_pdf: ""

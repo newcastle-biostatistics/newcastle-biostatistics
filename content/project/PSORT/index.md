@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Psoriasis Stratification to Optimise Relevant Therapy
 tags:
+- Completed-trial
 - PSORT
 title: PSORT
 url_code: ""

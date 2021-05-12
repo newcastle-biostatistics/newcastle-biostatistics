@@ -6,7 +6,7 @@ image:
   preview_only: true
 summary: WIndow-of-opportunity clinical trial platform for evaluation of novel treatment strategies in REnal cell cancer
 tags:
-- Completed-trial
+- Ongoing-trial
 - WIRE
 title: WIRE
 url_code: ""
