@@ -7,6 +7,7 @@ image:
 summary: A randomised, double-blind, controlled mechanistic study of rituximab and belimumab combination therapy in PR3 ANCA-associated vasculitis
 tags:
 - COMBIVAS
+- Ongoing-trial
 title: COMBIVAS
 url_code: ""
 url_pdf: ""

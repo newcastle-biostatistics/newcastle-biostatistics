@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Trial of egg recovery rates for IVF using a collection chamber
 tags:
+- Completed-trial
 - Eggcell
 title: Eggcell
 url_code: ""

@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Feasibility RCT of family focused treatment for adolescents with bi-polar disorder
 tags:
+- Completed-trial
 - FAB
 title: FAB
 url_code: ""

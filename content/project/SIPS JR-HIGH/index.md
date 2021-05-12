@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Multicentre RCT of screening and brief alcohol intervention in young people
 tags:
+- Completed-trial
 - SIPS JR-HIGH
 title: SIPS JR-HIGH
 url_code: ""

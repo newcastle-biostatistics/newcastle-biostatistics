@@ -7,6 +7,7 @@ image:
 summary: Randomised, double-blinded, placebo-controlled, adaptive design trial of the efficacy of acipimox in patients with mitochondrial myopathy
 tags:
 - AIMM
+- Ongoing-trial
 title: AIMM
 url_code: ""
 url_pdf: ""

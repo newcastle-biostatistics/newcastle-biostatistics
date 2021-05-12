@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Pilot trial of end of life care in patients with dementia
 tags:
+- Completed-trial
 - SEED
 title: SEED
 url_code: ""

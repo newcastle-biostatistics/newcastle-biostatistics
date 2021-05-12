@@ -7,6 +7,7 @@ image:
 summary: Lite Therapy Effectiveness For ORal Mucositis
 tags:
 - LiTEFORM
+- Ongoing-trial
 title: LiTEFORM
 url_code: ""
 url_pdf: ""

@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Targeting the Rheumatoid Arthritis synovial fibroblast via cyclin dependent kinase inhibition
 tags:
+- Ongoing-trial
 - TRAFIC
 title: TRAFIC
 url_code: ""

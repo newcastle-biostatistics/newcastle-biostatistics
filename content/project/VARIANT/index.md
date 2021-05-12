@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Multicentre feasibility study of biomarker-guided personalised treatment in advanced prostate cancer
 tags:
+- Completed-trial
 - VARIANT
 title: VARIANT
 url_code: ""

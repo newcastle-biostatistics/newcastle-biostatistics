@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Multicentre, open label, prospective, single arm study of the safety and impact of eculizumab withdrawal in patients with atypical haemolytic uraemic syndrome
 tags:
+- Ongoing-trial
 - SETS aHUS
 title: SETS aHUS
 url_code: ""

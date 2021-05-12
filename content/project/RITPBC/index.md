@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Phase two trial of Rituximab for treatment of Primary Biliary Cholangitis
 tags:
+- Completed-trial
 - RITPBC
 title: RITPBC
 url_code: ""

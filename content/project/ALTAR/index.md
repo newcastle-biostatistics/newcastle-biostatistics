@@ -7,6 +7,7 @@ image:
 summary: ALternatives To prophylactic Antibiotics for the treatment of Recurrent urinary tract infection in women
 tags:
 - ALTAR
+- Completed-trial
 title: ALTAR
 url_code: ""
 url_pdf: ""

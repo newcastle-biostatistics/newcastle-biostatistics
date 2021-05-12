@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Gastrostomy versus nasogastric tube feeding for chemoradiation patients with head and neck cancer
 tags:
+- Completed-trial
 - TUBE
 title: TUBE
 url_code: ""

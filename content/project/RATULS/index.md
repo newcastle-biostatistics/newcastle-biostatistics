@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Robot Assisted Training and physiotherapy for Upper Limb deficiency after Stroke
 tags:
+- Completed-trial
 - RATULS
 title: RATULS
 url_code: ""

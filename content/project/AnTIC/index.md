@@ -7,6 +7,7 @@ image:
 summary: Phase three randomised control trial of continuous low-dose antibiotic prohylaxis for adults with repeated urinary tract infections
 tags:
 - AnTIC
+- Completed-trial
 title: AnTIC
 url_code: ""
 url_pdf: ""

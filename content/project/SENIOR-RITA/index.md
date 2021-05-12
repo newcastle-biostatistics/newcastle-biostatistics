@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Phase three randomised trial comparing invasive and conservative treatment strategies in older patients with non-ST elevation myocardial infarction
 tags:
+- Ongoing-trial
 - SENIOR-RITA
 title: SENIOR-RITA
 url_code: ""

@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Pilot RCT of preoperative behavioural intervention to reduce drinking before elective orthopaedic surgery
 tags:
+- Completed-trial
 - PRE-OP BIRDS
 title: PRE-OP BIRDS
 url_code: ""

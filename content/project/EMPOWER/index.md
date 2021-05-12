@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: 2x2 factorial placebo controlled trial of ondansetron and metoclopramide in women with hyperemesis gravidarum
 tags:
+- Completed-trial
 - EMPOWER
 title: EMPOWER
 url_code: ""

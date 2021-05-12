@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Feasibility study of interventions to supporting Looked After Children in decreasing drugs and alcohol use
 tags:
+- Completed-trial
 - SOLID
 title: SOLID
 url_code: ""

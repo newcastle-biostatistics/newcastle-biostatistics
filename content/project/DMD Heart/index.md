@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Double-blind randomised multi-centre, placebo-controlled trial of combined ACE-inhibitor and beta-blocker therapy in males with Duchenne muscular dystrophy
 tags:
+- Completed-trial
 - DMD Heart
 title: DMD Heart
 url_code: ""

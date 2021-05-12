@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Phase 2 trial of rituximab for young patients with Graves' Disease.
 tags:
+- Ongoing-trial
 - RiGD
 title: RiGD
 url_code: ""

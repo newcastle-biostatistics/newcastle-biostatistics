@@ -7,6 +7,7 @@ image:
 summary: Two-stage open-label, single arm phase I/IIa trial of carbamazepine in children with skeletal dysplasia
 tags:
 - MCDS
+- Ongoing-trial
 title: MCDS
 url_code: ""
 url_pdf: ""

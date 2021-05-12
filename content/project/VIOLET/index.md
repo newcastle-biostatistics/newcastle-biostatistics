@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Visually Impaired OLder people's Exercise programme for falls prevenTion
 tags:
+- Completed-trial
 - VIOLET
 title: VIOLET
 url_code: ""

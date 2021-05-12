@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Trial of Proton Pump Inhibitors in Throat Symptoms
 tags:
+- Completed-trial
 - TOPPITS
 title: TOPPITS
 url_code: ""

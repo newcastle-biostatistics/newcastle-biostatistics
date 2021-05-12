@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Pragmatic trial of domiciliary welfare rights service for older people
 tags:
+- Completed-trial
 - Do-Well
 title: Do-Well
 url_code: ""

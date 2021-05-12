@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Optimal surveillance strategies for AJCC stage I cutaneous melanoma post primary tumour excision - An evidence synthesis and economic evaluation
 tags:
+- Completed-trial
 - OPTIMISM
 title: OPTIMISM
 url_code: ""

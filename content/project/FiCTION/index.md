@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: Multi-centre, three-arm, parallel group, patient randomised controlled trial of three treatment strategies in 3-7 year-old children with caries in primary teeth
 tags:
+- Completed-trial
 - FiCTION
 title: FiCTION
 url_code: ""

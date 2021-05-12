@@ -6,6 +6,7 @@ image:
   preview_only: true
 summary: A multi-centre, randomised, controlled surgical trial of tonsillectomy versus conservative management in frequent sore throat
 tags:
+- Completed-trial
 - NATTINA
 title: NATTINA
 url_code: ""
