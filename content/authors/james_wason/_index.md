@@ -7,14 +7,13 @@ organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/jameswason.html"
 role: Professor of Biostatistics
-user_groups: ["Members"]
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:james.wason@ncl.ac.uk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=nsZR6moAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=nsZR6moAAAAJ
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-4691-126X
@@ -36,7 +35,8 @@ I have been at [Newcastle University](https://www.ncl.ac.uk/) since July 2017.
 
 ## Research
 
-My research focuses on statistical methods for improved design and analysis of clinical trials. I am particularly interested in:
+My research focuses on statistical methods for improved design and analysis of clinical trials.
+I am particularly interested in:
 
 1. Adaptive designs for clinical trials;
 2. Methods for incorporating biomarkers into clinical trials to stratify patients by treatment response;

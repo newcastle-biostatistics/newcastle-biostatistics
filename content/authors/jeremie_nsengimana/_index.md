@@ -14,7 +14,7 @@ social:
   link: 'mailto:jeremie.nsengimana@ncl.ac.uk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=hE63bPgAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.co.uk/citations?user=hE63bPgAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jeremie_Nsengimana

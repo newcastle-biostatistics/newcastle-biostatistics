@@ -6,7 +6,7 @@ name: Valentina Mamasoula
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/valentinamamasoula.html"
-role: Biostatistician
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas

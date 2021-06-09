@@ -6,11 +6,14 @@ name: Tony Fouweather
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/tonyfouweather.html"
-role: Biostatistician
+role: Statistician
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tony.fouweather@ncl.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=Ml_03zgAAAAJ
 superuser: false
 ---
 

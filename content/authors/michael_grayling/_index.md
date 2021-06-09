@@ -30,7 +30,7 @@ social:
   link: 'mailto:michael.grayling@ncl.ac.uk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=ofpvE_8AAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=ofpvE_8AAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0680-6668
@@ -52,7 +52,6 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pgr528.html
-user_groups: ["Members", "Visitors"]
 superuser: false
 ---
 

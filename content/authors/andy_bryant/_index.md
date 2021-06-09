@@ -6,7 +6,7 @@ name: Andy Bryant
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/andybryant.html"
-role: Biostatistician
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas

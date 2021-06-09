@@ -11,6 +11,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:holly.fisher@ncl.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=2g_M6HAAAAAJ
 superuser: false
 ---
 

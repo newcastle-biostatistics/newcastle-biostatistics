@@ -78,10 +78,6 @@ main:
     parent: 'staff'
     url: '/staff/nina_wilson/'
     weight: 38
-  - name: 'Haiyan Zheng'
-    parent: 'staff'
-    url: '/staff/haiyan_zheng/'
-    weight: 39
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'

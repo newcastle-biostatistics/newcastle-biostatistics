@@ -6,14 +6,14 @@ name: Helen Mossop
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/helenmossop.html"
-role: Biostatistician
+role: Biostatistician (Research Associate)
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:helen.mossop@ncl.ac.uk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=xU8KhWMAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=xU8KhWMAAAAJ
 superuser: false
 ---
 

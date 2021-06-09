@@ -6,11 +6,14 @@ name: Mike Cole
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/michaelcole.html"
-role: Biostatistician
+role: Statistician
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:michael.cole@ncl.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=OxQ9tKcAAAAJ
 superuser: false
 ---
 

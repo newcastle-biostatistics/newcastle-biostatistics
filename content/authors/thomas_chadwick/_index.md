@@ -6,7 +6,7 @@ name: Thomas Chadwick
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/thomaschadwick.html"
-role: Senior Biostatistician
+role: Clinical Trials Statistician
 social:
 - icon: envelope
   icon_pack: fas
