@@ -17,7 +17,7 @@ Trial registration number: NCT02461498."""
 authors = ["Mason S", "Kuczawski M", "Teare MD", "Stevenson M", "Goodacre S", "Ramlakhan S", "Morris F", "Rothwell J"]
 date = "2017-01-13"
 doi = "10.1136/bmjopen-2016-014324"
-featured = true
+featured = false
 math = true
 highlight = true
 publication = "*BMJ Open* 2017; 7:e014324"

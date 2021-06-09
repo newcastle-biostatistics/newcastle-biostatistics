@@ -9,7 +9,7 @@ Conclusion: We have systematically reviewed ctDNA blood biomarkers for the early
 authors = ["Cree I", "Uttley L", "Buckley Woods H", "Kikuchi H", "Reiman A", "Harnan S", "Whiteman B", "Taylor Philips S", "Messenger M", "Cox A", "Teare D", "Sheils O", "Shaw J", "UK Early Cancer Detection Consortium"]
 date = "2017-10-23"
 doi = "10.1186/s12885-017-3693-7"
-featured = true
+featured = false
 highlight = true
 math = true
 publication = "*BMC Cancer* 2017; 17:697"

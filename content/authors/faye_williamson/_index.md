@@ -19,7 +19,7 @@ superuser: false
 
 ## Background
 
-I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) [Biostatistics Research Group](https://www.newcastle-biostatistics.com/) in January 2021 as a Research Associate working with [Professor James Wason](/staff/james_wason).
+I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group in January 2021 as a Research Associate working with [Professor James Wason](/staff/james_wason).
 I am interested in the development of novel clinical trial designs and will be working on a mixture of methodological research (in the area of precision medicine) and applying new methods in practice. 
 
 Qualifications: 

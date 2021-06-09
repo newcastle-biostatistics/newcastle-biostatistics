@@ -19,7 +19,7 @@ superuser: false
 
 ## Background
 
-I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) (former IHS) [Biostatistics Research Group](https://www.newcastle-biostatistics.com/) in August 2017.
+I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) (former IHS) Biostatistics Research Group in August 2017.
 Before joining the group, I was working as a Medical Statistician within the School of Medicine, Pharmacy & Health, [Durham University](https://www.dur.ac.uk/), Queen’s campus.
 I completed my Postgraduate degree and PhD at the Interuniversity Institute for Biostatistics and statistical Bioinformatics for statistics, [Hasselt University](https://www.uhasselt.be/en), Belgium.
 My research mainly focused on the integration of multi-source data in the development of clinical biomarker/surrogate.
