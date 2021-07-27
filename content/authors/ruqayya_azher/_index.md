@@ -14,6 +14,10 @@ social:
 superuser: false
 ---
 
+## Background
+
+Ruqayya Azher is a PhD student at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), supervised by [Prof James Wason](/staff/james_wason/) and [Dr Michael Grayling](/staff/michael_grayling/).
+
 ### Contact
 
 - __Email:__ [R.A.O.Azher2@newcastle.ac.uk](mailto:R.A.O.Azher2@newcastle.ac.uk)

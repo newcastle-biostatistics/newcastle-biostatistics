@@ -14,6 +14,10 @@ social:
 superuser: false
 ---
 
+## Background
+
+Lou Whitehead is a PhD student at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), supervised by [Prof James Wason](/staff/james_wason/) and [Prof Miles Witham](https://www.ncl.ac.uk/medical-sciences/people/profile/mileswitham.html).
+
 ### Contact
 
 - __Email:__ [L.Whitehead2@newcastle.ac.uk](mailto:L.Whitehead2@newcastle.ac.uk)
