@@ -1,4 +1,5 @@
 ---
+title: Michael Grayling
 authors:
 - michael_grayling
 bio: Biostatistician with interests in improving the efficiency of clinical research, particularly through the use of novel design and analysis methodology.
