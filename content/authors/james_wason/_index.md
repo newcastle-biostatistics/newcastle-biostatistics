@@ -1,4 +1,5 @@
 ---
+title: James Wason
 authors:
 - james_wason
 email: james.wason@ncl.ac.uk

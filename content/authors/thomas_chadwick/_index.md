@@ -1,4 +1,5 @@
 ---
+title: Thomas Chadwick
 authors:
 - thomas_chadwick
 email: "thomas.chadwick@ncl.ac.uk"

@@ -1,4 +1,5 @@
 ---
+title: Lou Whitehead
 authors:
 - lou_whitehead
 email: "L.Whitehead2@newcastle.ac.uk"

@@ -1,4 +1,5 @@
 ---
+title: Luke Ouma
 authors:
 - luke_ouma
 bio: PhD student working on developing improved methods for the design and analysis of Umbrella and Basket trials.

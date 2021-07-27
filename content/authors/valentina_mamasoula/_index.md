@@ -1,4 +1,5 @@
 ---
+title: Valentina Mamasoula
 authors:
 - valentina_mamasoula
 email: "valentina.mamasoula@ncl.ac.uk"

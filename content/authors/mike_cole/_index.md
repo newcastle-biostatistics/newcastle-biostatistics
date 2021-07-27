@@ -1,4 +1,5 @@
 ---
+title: Mike Cole
 authors:
 - mike_cole
 email: "michael.cole@ncl.ac.uk"
