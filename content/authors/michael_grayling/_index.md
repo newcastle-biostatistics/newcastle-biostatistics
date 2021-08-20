@@ -58,11 +58,13 @@ superuser: false
 
 ## Background
 
-I am a [Newcastle University Research Fellow](https://www.ncl.ac.uk/medicalsciences/research/career-development/fellowship/#overview) in Biostatistics, interested in methodology for improving the design and analysis of clinical trials.
-As well as working on developing methodology, I also collaborate on real trials.
-
+I am a [Newcastle University Research Fellow](https://www.ncl.ac.uk/medicalsciences/research/career-development/fellowship/#overview) in Biostatistics.
 I have been at [Newcastle University](https://www.ncl.ac.uk/) since November 2018.
 Prior to this I was a Statistician at the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
+
+I am interested in the design and analysis of clinical trials.
+My work has involved a mixture of developing novel statistical methodology for trials, comparing existing method performance, and creating user-friendly software for trial design.
+I also collaborate on real trials.
 
 ### Contact
 
