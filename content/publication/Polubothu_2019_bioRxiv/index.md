@@ -1,15 +1,21 @@
 +++
-abstract = """The majority of the heredity of melanoma remains unexplained, however inherited copy number changes have not yet been systematically studied. The genetic environment is highly relevant to treatment stratification, and new gene discovery is therefore desirable. Using an unbiased whole genome screening approach for copy number we identify here a novel melanoma predisposing factor, familial duplications of gene PPP2R3B, encoding a regulatory unit of critical phosphatase PP2A. Significant correlation between expression of PPP2R3B in tumour tissue and survival in a large melanoma cohort was confirmed, and associated with a non-immunological expression profile. Mechanistically, construction and extensive characterization of a stable, inducible cellular model for PPP2R3B overexpression revealed induction of pigment cell switching towards proliferation and away from migration. Importantly, this was independent of the known microphthalmia-associated transcription factor (MITF)-controlled pigment cell phenotype switch, and was instead driven by uncharacterised gene C21orf91. Bioinformatic studies point to C21orf91as a novel target of MITF, and therefore a potential hub in the control of phenotype switching in melanoma. This study identifies novel germline copy number variants in PPP2R3B predisposing to melanocytic neoplasia, and uncovers a new potential therapeutic target C21orf91 in the control of pigment cell proliferation."""
-authors = ["Polubothu S", "Al-Olabi L", "Lionarons DA", "Harland M", "Thomas AC", "Horswell S", "Hunt L", "Wlodarchak N", "Aguilera P", "Brand S", "Bryant D", "Beales P", "Carrera C", "Chen H", "Elgar G", "Harwood CA", "Howell M", "Jenkins D", "Larue L", "Loughlin S", "MacDonald J", "Malvehy J", "Martin Barberan SM", "Martins da Silva V", "Molina M", "Morrogh D", "Moulding D", "Nsengimana J", "Pittman A", "Puig-Butillé J-A", "Parmar K", "Sebire NJ", "Scherer S", "Stadnik P", "Stanier P", "Tell G", "Waelchli R", "Zarrei M", "Zecchin D", "Puig S", "Bataille V", "Xing Y", "Healy E", "Moore GE", "Di W-L", "Newton-Bishop J", "Downward J", "Kinsler VA"]
-date = 2019-06-15
-doi = "10.1101/672576"
+abstract = """Purpose: Much of the heredity of melanoma remains unexplained. We sought predisposing germline copy-number variants using a rare disease approach.
+
+Methods: Whole-genome copy-number findings in patients with melanoma predisposition syndrome congenital melanocytic nevus were extrapolated to a sporadic melanoma cohort. Functional effects of duplications in PPP2R3B were investigated using immunohistochemistry, transcriptomics, and stable inducible cellular models, themselves characterized using RNAseq, quantitative real-time polymerase chain reaction (qRT-PCR), reverse phase protein arrays, immunoblotting, RNA interference, immunocytochemistry, proliferation, and migration assays.
+
+Results: We identify here a previously unreported genetic susceptibility to melanoma and melanocytic nevi, familial duplications of gene PPP2R3B. This encodes PR70, a regulatory unit of critical phosphatase PP2A. Duplications increase expression of PR70 in human nevus, and increased expression in melanoma tissue correlates with survival via a nonimmunological mechanism. PPP2R3B overexpression induces pigment cell switching toward proliferation and away from migration. Importantly, this is independent of the known microphthalmia-associated transcription factor (MITF)-controlled switch, instead driven by C21orf91. Finally, C21orf91 is demonstrated to be downstream of MITF as well as PR70.
+
+Conclusion: This work confirms the power of a rare disease approach, identifying a previously unreported copy-number change predisposing to melanocytic neoplasia, and discovers C21orf91 as a potentially targetable hub in the control of phenotype switching."""
+authors = ["Polubothu S", "Zecchin D", "Al-Olabi L", "Lionarons DA", "Harland M", "Horswell S", "Thomas AC", "Hunt L", "Wlodarchak N", "Aguilera P", "Brand S", "Bryant D", "Carrera C", "Chen H", "Elgar G", "Harwood CA", "Howell M", "Larue L", "Loughlin S", "MacDonald J", "Malvehy J", "Martin Barberan SM", "Martins da Silva V", "Molina M", "Morrogh D", "Moulding D", "Nsengimana J", "Pittman A", "Puig-Butillé J-A", "Parmar K", "Sebire NJ", "Scherer S", "Stadnik P", "Stanier P", "Tell G", "Waelchli R", "Zarrei M", "Puig S", "Bataille V", "Xing Y", "Healy E", "Moore GE", "Di W-L", "Newton-Bishop J", "Downward J", "Kinsler VA"]
+date = 2021-06-18
+doi = "10.1038/s41436-021-01204-y"
 featured = false
 highlight = true
 math = true
-publication = "bioRxiv 2019; DOI:10.1101/672576"
-publication_short = "bioRxiv 2019; DOI:10.1101/672576"
-publication_types = ["3"]
-summary = "bioRxiv 2019; DOI:10.1101/672576"
+publication = "*Genetics in Medicine* 2021; DOI:10.1038/s41436-021-01204-y"
+publication_short = "*Genet Med* 2021; DOI:10.1038/s41436-021-01204-y"
+publication_types = ["2"]
+summary = "*Genetics in Medicine* 2021; DOI:10.1038/s41436-021-01204-y"
 tags = ["Nsengimana"]
-title = "Inherited duplications of PPP2R3B promote naevi and melanoma via a novel C21orf91-driven proliferative phenotype"
+title = "Inherited duplications of PPP2R3B predispose to nevi and melanoma via a C21orf91-driven proliferative phenotype"
 +++
