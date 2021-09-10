@@ -30,6 +30,7 @@ Jérémie Nsengimana is Senior Lecturer in Biostatistics in the [Population Heal
 
 - __Dr Rohit Thakur (2015-19):__ Developing statistical and bioinformatic analysis of genomic data from tumours
 - __Dr Joanna Poźniak (2015-19):__ Transcriptomic variation in primary melanoma in immunological pathways related to survival
+- __Lucy Godson (2020-):__ Machine learning integration of molecular and imaging data in cancer outcome prediction
 
 ## Research
 
