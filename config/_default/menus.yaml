@@ -86,22 +86,26 @@ main:
     parent: 'phd_students'
     url: '/phd_students/ruqayya_azher/'
     weight: 51
+  - name: 'Laura Etfer'
+    parent: 'phd_students'
+    url: '/phd_students/laura_etfer/'
+    weight: 52
   - name: 'Aritra Mukherjee'
     parent: 'phd_students'
     url: '/phd_students/aritra_mukherjee/'
-    weight: 52
+    weight: 53
   - name: 'Luke Ouma'
     parent: 'phd_students'
     url: '/phd_students/luke_ouma/'
-    weight: 53
+    weight: 54
   - name: 'Samuel Sarkodie'
     parent: 'phd_students'
     url: '/phd_students/samuel_sarkodie/'
-    weight: 54
+    weight: 55
   - name: 'Lou Whitehead'
     parent: 'phd_students'
     url: '/phd_students/lou_whitehead/'
-    weight: 55
+    weight: 56
   - name: 'Methodology research'
     identifier: 'methodology_research'
     url: '/methodology_research/'
