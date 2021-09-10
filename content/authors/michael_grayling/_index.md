@@ -66,6 +66,14 @@ I am interested in the design and analysis of clinical trials.
 My work has involved a mixture of developing novel statistical methodology for trials, comparing existing method performance, and creating user-friendly software for trial design.
 I also collaborate on real trials.
 
+### PhD students
+
+- [Ruqayya Azher](/phd_students/ruqayya_azher/) (Primary supervisor: [James Wason](/staff/james_wason/))
+- [Laura Etfer](/phd_students/laura_etfer/)
+- [Aritra Mukherjee](/phd_students/aritra_mukherjee/) (Primary supervisor: [James Wason](/staff/james_wason/))
+- [Luke Ouma](/phd_students/luke_ouma/) (Primary supervisor: [James Wason](/staff/james_wason/))
+- [Samuel Sarkodie](/phd_students/samuel_sarkodie/)
+
 ### Contact
 
 - __Email:__ [michael.grayling@ncl.ac.uk](mailto:michael.grayling@ncl.ac.uk)
