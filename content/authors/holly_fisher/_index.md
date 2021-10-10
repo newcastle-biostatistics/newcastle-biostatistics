@@ -32,4 +32,4 @@ Research associate in Statistical Genetics, Institute of Genetic Medicine, [Newc
 
 - __Email:__ [holly.fisher@ncl.ac.uk](mailto:holly.fisher@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 7976
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Baddiley-Clark Building](https://www.ncl.ac.uk/tour/academic/baddiley-clark/), Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK

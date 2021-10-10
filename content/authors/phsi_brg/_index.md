@@ -1,7 +1,7 @@
 ---
 authors:
 - phsi_brg
-bio: Population Health Sciences Institute, Newcastle University, Baddiley-Clark Building, Richardson Road, Newcastle upon Tyne, NE2 4AX, UK
+bio: Population Health Sciences Institute, Newcastle University, 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 name: 
 organizations:
 - name: Newcastle University

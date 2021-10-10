@@ -66,6 +66,8 @@ I am interested in the design and analysis of clinical trials.
 My work has involved a mixture of developing novel statistical methodology for trials, comparing existing method performance, and collaborating on real trials.
 I also work on developing user-friendly software for trial design; I created and maintain the multiarm app for designing fixed-sample and adaptive (group-sequential/drop-the-losers) multi-arm trials, available [here](https://mjgrayling.shinyapps.io/multiarm/).
 
+
+
 ### PhD students
 
 - [Ruqayya Azher](/phd_students/ruqayya_azher/) (Primary supervisor: [James Wason](/staff/james_wason/))
@@ -78,4 +80,4 @@ I also work on developing user-friendly software for trial design; I created and
 
 - __Email:__ [michael.grayling@ncl.ac.uk](mailto:michael.grayling@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Baddiley-Clark Building](https://www.ncl.ac.uk/tour/academic/baddiley-clark/), Richardson Road, Newcastle upon Tyne NE2 4AX, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
