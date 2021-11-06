@@ -42,42 +42,46 @@ main:
     parent: 'staff'
     url: '/staff/shaun_hiu/'
     weight: 29
+  - name: 'Dorcas Kareithi'
+    parent: 'staff'
+    url: '/staff/dorcas_kareithi/'
+    weight: 30
   - name: 'Valentina Mamasoula'
     parent: 'staff'
     url: '/staff/valentina_mamasoula/'
-    weight: 30
+    weight: 31
   - name: 'John Matthews'
     parent: 'staff'
     url: '/staff/john_matthews/'
-    weight: 31
+    weight: 32
   - name: 'Helen Mossop'
     parent: 'staff'
     url: '/staff/helen_mossop/'
-    weight: 32
+    weight: 33
   - name: 'Jérémie Nsengimana'
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
-    weight: 33
+    weight: 34
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
-    weight: 34
+    weight: 35
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
-    weight: 35
+    weight: 36
   - name: 'James Wason'
     parent: 'staff'
     url: '/staff/james_wason/'
-    weight: 36
+    weight: 37
   - name: 'Faye Williamson'
     parent: 'staff'
     url: '/staff/faye_williamson/'
-    weight: 37
+    weight: 38
   - name: 'Nina Wilson'
     parent: 'staff'
     url: '/staff/nina_wilson/'
-    weight: 38
+    weight: 39
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'

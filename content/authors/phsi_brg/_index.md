@@ -22,7 +22,7 @@ superuser: true
 title: Population Health Sciences Institute Biostatistics Research Group
 ---
 
-The [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group (PHSI-BRG) at [Newcastle University](https://www.ncl.ac.uk/) consists of 23 statisticians with a variety of backgrounds, experience, and expertise. 
+The [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group (PHSI-BRG) at [Newcastle University](https://www.ncl.ac.uk/) consists of 25 statisticians with a variety of backgrounds, experience, and expertise. 
 
 The PHSI-BRG provides statistical expertise to a large [portfolio](/projects/) of clinical trials and observational studies, working closely with [Newcastle Clinical Trials Unit](https://www.ncl.ac.uk/nctu/) and the [NIHR Research Design Service North East and North Cumbria](https://rds-ne.nihr.ac.uk/).
 
