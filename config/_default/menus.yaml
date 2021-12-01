@@ -82,6 +82,10 @@ main:
     parent: 'staff'
     url: '/staff/nina_wilson/'
     weight: 39
+  - name: 'Sylvia Zhang'
+    parent: 'staff'
+    url: '/staff/sylvia_zhang/'
+    weight: 40
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
