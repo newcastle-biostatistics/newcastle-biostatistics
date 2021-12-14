@@ -60,13 +60,11 @@ superuser: false
 
 I am a [Newcastle University Research Fellow](https://www.ncl.ac.uk/medicalsciences/research/career-development/fellowship/#overview) in Biostatistics.
 I have been at [Newcastle University](https://www.ncl.ac.uk/) since November 2018.
-Prior to this I was a Statistician at the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
+Prior to this I was a statistician at the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
 
 I am interested in the design and analysis of clinical trials.
 My work has involved a mixture of developing novel statistical methodology for trials, comparing existing method performance, and collaborating on real trials.
 I also work on developing user-friendly software for trial design; I created and maintain the multiarm app for designing fixed-sample and adaptive (group-sequential/drop-the-losers) multi-arm trials, available [here](https://mjgrayling.shinyapps.io/multiarm/).
-
-
 
 ### PhD students
 
