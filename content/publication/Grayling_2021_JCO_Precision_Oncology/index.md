@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michael J. Grayling
 - Adrian P. Mander
-tags: ["Grayling""]
+tags: ["Grayling"]
 categories: []
 date: '2021-11-01'
 lastmod: 2022-01-03T14:16:36Z
