@@ -36,6 +36,7 @@ The methodology group develops, disseminates, and implements new statistical met
 - Observational study designs
 - Pilot and feasibility studies
 - Platform trials
+- [Transforming IMID trials](/methodology_research/transforming_imid_trials/)
 - Trials of complex interventions
 - Trials of proportionate interventions
 - Using historical data
