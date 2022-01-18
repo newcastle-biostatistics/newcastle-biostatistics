@@ -21,5 +21,4 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-This page will provide an overview of James Wason's NIHR Research Professorship programme of research.
-
+This page will provide an overview of James Wason's NIHR Research Professorship programme of research. 
