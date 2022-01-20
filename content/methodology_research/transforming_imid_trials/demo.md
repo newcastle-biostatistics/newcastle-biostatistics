@@ -40,7 +40,7 @@ Clinical trials are vital for improving the health of IMID patients. They are us
 
 The NIHR Research Professorship will fund several researchers to develop and apply new trial methods tailored to IMIDs. The following diagram shows a summary of the different planned work packages (WPs).
 
-![RPoverview](/img/RP_Overview.png){width=75%}
+![RPoverview](/img/RP_Overview.png)
 
 
 ### Applying research in practice
