@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Transforming trials of Immune-Mediated Inflammatory Diseases
-subtitle: NIHR Research Professorship
+subtitle: 
 
 design:
   columns: "1"
@@ -23,7 +23,7 @@ design:
 
 This NIHR Research Professorship will develop and apply methods to improve trials for Immune-Mediated Inflammatory Diseases (IMIDs) in order to improve outcomes for patients. As the project progresses, this page will provide a summary of outputs and resources.
 
-###Background
+### Background
 
 Over three million people in the UK have one or more diseases where the body?s immune system incorrectly attacks itself and causes damage through swelling (inflammation). The damage from inflammation leads to serious symptoms.
 These diseases are called immune-mediated inflammatory diseases (IMIDs), which include rheumatoid arthritis, psoriasis, inflammatory bowel disease, and many others. 
@@ -36,13 +36,13 @@ Clinical trials are vital for improving the health of IMID patients. They are us
 3. Trials are hard to do for rare IMIDs, meaning a lack of evidence to inform their treatment. 
 4. Trials do not usually answer how best to treat IMID patients in the long-term.
 
-###Vision for research
+### Vision for research
 
 The NIHR Research Professorship will fund several researchers to develop and apply new trial methods tailored to IMIDs. The following diagram shows a summary of the different planned work packages (WPs).
 
-![RPoverview](/img/RP_Overview.png)
+![RPoverview](/img/RP_Overview.png){width=75%}
 
 
-###Applying research in practice
+### Applying research in practice
 
-A critical part of the project will be to apply the methods in real trials. I am very keen to hear from those interested in conducting innovative IMID trials and discussing potential collaboration.
+A critical part of the project will be to apply the methods in real trials. We are very keen to hear from those interested in conducting innovative IMID trials and discussing potential collaboration: please contact [James Wason](/staff/james_wason/).
