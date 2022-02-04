@@ -40,4 +40,3 @@ links:
 - name: URL
   url: https://doi.org/10.1002%2Fsim.9317
 ---
-

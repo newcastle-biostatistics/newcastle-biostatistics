@@ -41,4 +41,3 @@ links:
 - name: URL
   url: https://doi.org/10.1136%2Fbmjpo-2021-001224
 ---
-
