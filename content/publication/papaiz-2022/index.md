@@ -22,7 +22,7 @@ authors:
 tags: ["Nsengimana"]
 categories: []
 date: '2022-02-01'
-lastmod: 2022-02-04T17:51:43Z
+lastmod: 2022-02-05T19:14:39Z
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-04T17:51:43.778241Z'
+publishDate: '2022-02-05T19:14:39.535875Z'
 publication_types:
 - '2'
 abstract: ''

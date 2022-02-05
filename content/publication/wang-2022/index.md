@@ -28,7 +28,7 @@ authors:
 tags: ["Teare"]
 categories: []
 date: '2022-01-01'
-lastmod: 2022-02-04T17:51:43Z
+lastmod: 2022-02-05T19:14:39Z
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-04T17:51:43.460425Z'
+publishDate: '2022-02-05T19:14:39.100409Z'
 publication_types:
 - '2'
 abstract: ''
