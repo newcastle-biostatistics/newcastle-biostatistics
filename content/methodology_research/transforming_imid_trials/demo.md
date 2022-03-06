@@ -45,4 +45,7 @@ The NIHR Research Professorship will fund several researchers to develop and app
 
 ### Applying research in practice
 
-A critical part of the project will be to apply the methods in real trials. We are very keen to hear from those interested in conducting innovative IMID trials and discussing potential collaboration: please contact [James Wason](/staff/james_wason/).
+A critical part of the project will be to apply the methods in real trials. Collaborations on academic and industry trials are both of interest. 
+
+We are very keen to hear from those interested in conducting innovative IMID trials and discussing potential collaboration: please contact [James Wason](/staff/james_wason/).
+
