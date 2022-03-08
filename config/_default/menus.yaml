@@ -66,10 +66,7 @@ main:
     parent: 'staff'
     url: '/staff/vicky_ryan/'
     weight: 35
-  - name: 'Marzieh Shahmandi'
-    parent: 'staff'
-    url: '/staff/marzieh_shahmandi/'
-    weight: 36
+
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
