@@ -14,9 +14,11 @@ social:
   link: 'mailto:marzieh.shahmandi@ncl.ac.uk'
 superuser: false
 ---
-##Background 
+## Background 
+
 I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group in February 2022 after finishing my PhD in Statistical Cybermetrics Research Group at University of Wolverhampton. Prior to that I worked as a Statistician for 8 years in [Isfahan Municipality](https://isfahan.ir), Iran. 
-##Qualifications 
+## Qualifications
+
 -PhD in Statistics, [Statistical Cybermetrics Research Group](http://cybermetrics.wlv.ac.uk), University of Wolverhampton, uk
   - Thesis Title: Modified mean and quantile regression models for citation analysis (submitted on 28 Oct 2021)
   - Supervisors: [Prof. Mike Thelwall](http://www.scit.wlv.ac.uk/~cm1993/) and [Dr. Paul Wilson](https://researchers.wlv.ac.uk/PaulJWilson/about)
