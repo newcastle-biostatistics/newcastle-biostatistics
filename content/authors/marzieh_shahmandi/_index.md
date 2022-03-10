@@ -22,13 +22,13 @@ I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/h
 ## Qualifications
 
 
--PhD in Statistics, [Statistical Cybermetrics Research Group](http://cybermetrics.wlv.ac.uk), University of Wolverhampton, uk
+PhD in Statistics, [Statistical Cybermetrics Research Group](http://cybermetrics.wlv.ac.uk), University of Wolverhampton, UK
   - Thesis Title: Modified mean and quantile regression models for citation analysis (submitted on 28 Oct 2021)
   - Supervisors: [Prof. Mike Thelwall](http://www.scit.wlv.ac.uk/~cm1993/) and [Dr. Paul Wilson](https://researchers.wlv.ac.uk/PaulJWilson/about)
 - MSc in Statistics, [Isfahan University of Technology](http://english.iut.ac.ir/), Isfahan, Iran
 - BSc in Statistics, [Isfahan University of Technology](http://english.iut.ac.ir/), Isfahan, Iran
 
-### Contact
+## Contact
 - __Email:__ [marzieh.shahmandi@ncl.ac.uk](mailto:marzieh.shahmandi@ncl.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
