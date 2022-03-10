@@ -99,4 +99,3 @@ A critical part of the project will be to apply the methods in real trials. Coll
 
 We are very keen to hear from those interested in conducting innovative IMID trials and discussing potential collaboration: please contact [James Wason](/staff/james_wason/).
 
->>>>>>> 8be87b8e32e1bd819a1b72938765557bd712ff0f
