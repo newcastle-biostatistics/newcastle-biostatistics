@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
