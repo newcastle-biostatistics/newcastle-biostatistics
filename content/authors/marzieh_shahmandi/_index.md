@@ -12,6 +12,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:marzieh.shahmandi@ncl.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=bIUwN34AAAAJ&hl=en
 superuser: false
 ---
 
