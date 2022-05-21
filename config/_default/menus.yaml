@@ -144,6 +144,14 @@ main:
   - name: 'News'
     url: '/news/'
     weight: 90
+  - name: 'Courses'
+    identifier: 'courses'
+    url: '/courses/'
+    weight: 100
+  - name: 'Adaptive Designs and Multiple Testing Procedures'
+    parent: 'courses'
+    url: '/courses/admtp/'
+    weight: 101
   - name: 'Contact'
     url: '/contact/'
-    weight: 100
+    weight: 110
