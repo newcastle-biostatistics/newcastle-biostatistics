@@ -39,19 +39,39 @@ Throughout the course, real examples will be used to demonstrate the methodology
 
 ### Registration cost:
 
-Student: £300
-Academic/public sector/alumni of Newcastle University: £400
-Private sector: £600
+- Student: £300
+- Academic/public sector/alumni of Newcastle University: £400
+- Private sector: £600
 
 Registration not yet open, link will appear here when it opens
 
 
 ### Tutors
 
-Dr Michael Grayling, Janssen
-Dr David Robertson, MRC Biostatistics Unit, University of Cambridge
-Professor James Wason, Newcastle University
+- Dr Michael Grayling, Janssen
+- [Dr David Robertson](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/david-robertson/), MRC Biostatistics Unit, University of Cambridge
+- [Professor James Wason]({{< relref "/staff/james_wason" >}}), Newcastle University
 
 
-### Schedule
+### Lectures 
 
+1. Introduction to adaptive design
+
+2. Group-sequential designs
+
+3. Introduction to multiple testing in trials
+
+4. Advanced multiplicity correction
+
+5. Multi-arm multi-stage designs
+
+6. Master protocols
+
+7. Sample size re-estimation
+
+8. Analysis after adaptive trials
+
+9. Practical issues/Q&A
+
+
+Lectures 1-8 each have an associated practical session.
