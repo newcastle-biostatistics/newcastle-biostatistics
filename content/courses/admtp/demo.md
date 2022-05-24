@@ -43,7 +43,7 @@ Throughout the course, real examples will be used to demonstrate the methodology
 - Academic/public sector/alumni of Newcastle University: £400
 - Private sector: £600
 
-Registration not yet open, link will appear here when it opens. If you'd like to be kept informed about when registration opens, please contact [James Wason](/staff/james_wason/).
+Registration is open [here](https://webstore.ncl.ac.uk/conferences-and-events/faculty-of-medical-sciences/population-and-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials).
 
 
 ### Tutors
