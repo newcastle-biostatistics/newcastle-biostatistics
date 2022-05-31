@@ -75,3 +75,15 @@ Registration is open [here](https://webstore.ncl.ac.uk/conferences-and-events/fa
 
 
 Lectures 1-8 each have an associated practical session.
+
+
+### FAQs
+
+Q: Is the course running in person or online?
+
+A: Currently we are only planning to run the course in person
+
+
+Q: How can I pay?
+
+A: If you can pay with credit/debit card then the best route is through the webstore [here](https://webstore.ncl.ac.uk/conferences-and-events/faculty-of-medical-sciences/population-and-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials). If you require an invoice/bank transfer then we can arrange that with a purchase order: please contact james.wason@newcastle.ac.uk.
