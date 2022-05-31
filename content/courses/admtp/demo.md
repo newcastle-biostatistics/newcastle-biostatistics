@@ -87,3 +87,7 @@ A: Currently we are only planning to run the course in person
 Q: How can I pay?
 
 A: If you can pay with credit/debit card then the best route is through the webstore [here](https://webstore.ncl.ac.uk/conferences-and-events/faculty-of-medical-sciences/population-and-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials). If you require an invoice/bank transfer then we can arrange that with a purchase order: please contact james.wason@newcastle.ac.uk.
+
+Q: I'm not a statistician, will I benefit from the course?
+
+A: The course is predominantly aimed at applied statisticians, but we've had non-statisticians do the course in the past and had feedback that they benefited from a good amount of the content! There'll be a couple of lectures that may be more difficult but if you don't mind the occasional Greek letter and integral symbol, you should be okay.
