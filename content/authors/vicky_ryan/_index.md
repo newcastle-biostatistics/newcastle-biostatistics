@@ -7,7 +7,7 @@ name: Vicky Ryan
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/vickyryan.html"
-role: Lecturer in Biostatistics
+role: Senior Lecturer in Biostatistics
 social:
 - icon: envelope
   icon_pack: fas
