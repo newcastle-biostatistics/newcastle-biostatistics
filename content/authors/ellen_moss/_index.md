@@ -2,11 +2,7 @@
 title: Ellen Moss
 authors:
 - ellen_moss
-<<<<<<< HEAD
 email: "Ellen.Moss@ncl.ac.uk"
-=======
-email: "ellen.moss@ncl.ac.uk"
->>>>>>> 0ba6ca936ad56d4e708cbd9c4ae1b00893ed3da8
 name: Ellen Moss
 organizations:
 - name: Population Health Sciences Institute
@@ -15,11 +11,7 @@ role: Research Associate in Biostatistics
 social:
 - icon: envelope
   icon_pack: fas
-<<<<<<< HEAD
   link: 'mailto:Ellen.Moss@ncl.ac.uk'
-=======
-  link: 'mailto:ellen.moss@ncl.ac.uk'
->>>>>>> 0ba6ca936ad56d4e708cbd9c4ae1b00893ed3da8
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=-WqH63QAAAAJ&hl=en
@@ -44,26 +36,16 @@ I'm a biological modeller that focusses on investigating and solving problems in
 ## Research 
 
 
-<<<<<<< HEAD
 Analysing complex observational datasets
 Spatio-temporal modelling
 Machine learning methods
 Clinical trial emulation and augmentation
-=======
-• Analysing complex observational datasets
-•	Spatio-temporal modelling
-•	Machine learning methods
-•	Clinical trial emulation and augmentation
->>>>>>> 0ba6ca936ad56d4e708cbd9c4ae1b00893ed3da8
 
 
 
 ## Contact
-<<<<<<< HEAD
-- __Email:__ [ellen.moss@ncl.ac.uk](mailto:Ellen.Moss@ncl.ac.uk)
-=======
-- __Email:__ [ellen.moss@ncl.ac.uk](mailto:ellen.moss@ncl.ac.uk)
->>>>>>> 0ba6ca936ad56d4e708cbd9c4ae1b00893ed3da8
+
+- __Email:__ [Ellen.Moss@ncl.ac.uk](mailto:Ellen.Moss@ncl.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
 

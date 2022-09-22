@@ -25,11 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-<<<<<<< HEAD
-    tag: 'moss' 
-=======
-    tag: 'moss'
->>>>>>> 0ba6ca936ad56d4e708cbd9c4ae1b00893ed3da8
+    tag: 'Moss' 
     category: ''
     publication_type: ''
     author: ''
