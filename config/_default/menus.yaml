@@ -61,7 +61,7 @@ main:
   - name: 'Ellen Moss'
     parent: 'staff'
     url: '/staff/ellen_mos/'
-    weight: 33 
+    weight: 303 
   - name: 'Jérémie Nsengimana'
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
