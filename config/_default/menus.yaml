@@ -14,6 +14,10 @@ main:
     parent: 'staff'
     url: '/staff/andy_bryant/'
     weight: 22
+  - name: 'Bram Burger'
+    parent: 'staff'
+    url: '/staff/bram_burger/'
+    weight: 22
   - name: 'Thomas Chadwick'
     parent: 'staff'
     url: '/staff/thomas_chadwick/'

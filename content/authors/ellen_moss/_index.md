@@ -35,10 +35,10 @@ I'm a biological modeller that focusses on investigating and solving problems in
 
 ## Research 
 
-Analysing complex observational datasets
-Spatio-temporal modelling
-Machine learning methods
-Clinical trial emulation and augmentation
+- Analysing complex observational datasets
+- Spatio-temporal modelling
+- Machine learning methods
+- Clinical trial emulation and augmentation
 
 
 ## Contact
