@@ -58,6 +58,10 @@ main:
     parent: 'staff'
     url: '/staff/helen_mossop/'
     weight: 33
+  - name: 'Ellen Moss'
+    parent: 'staff'
+    url: '/staff/ellen_mos/'
+    weight: 33 
   - name: 'Jérémie Nsengimana'
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
