@@ -60,40 +60,40 @@ main:
     weight: 33
   - name: 'Ellen Moss'
     parent: 'staff'
-    url: '/staff/ellen_mos/'
-    weight: 303 
+    url: '/staff/ellen_moss/'
+    weight: 34 
   - name: 'Jérémie Nsengimana'
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
-    weight: 34
+    weight: 35
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
-    weight: 35
+    weight: 36
   - name: 'Marzieh Shahmandi'
     parent: 'staff'
     url: '/staff/marzieh_shahmandi/'
-    weight: 36
+    weight: 37
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
-    weight: 37
+    weight: 38
   - name: 'James Wason'
     parent: 'staff'
     url: '/staff/james_wason/'
-    weight: 38
+    weight: 39
   - name: 'Faye Williamson'
     parent: 'staff'
     url: '/staff/faye_williamson/'
-    weight: 39
+    weight: 40
   - name: 'Nina Wilson'
     parent: 'staff'
     url: '/staff/nina_wilson/'
-    weight: 40
+    weight: 41
   - name: 'Sylvia Zhang'
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
-    weight: 41
+    weight: 42
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
