@@ -17,95 +17,95 @@ main:
   - name: 'Bram Burger'
     parent: 'staff'
     url: '/staff/bram_burger/'
-    weight: 22
+    weight: 23
   - name: 'Thomas Chadwick'
     parent: 'staff'
     url: '/staff/thomas_chadwick/'
-    weight: 23
+    weight: 24
   - name: 'Svetlana Cherlin'
     parent: 'staff'
     url: '/staff/svetlana_cherlin/'
-    weight: 24
+    weight: 25
   - name: 'Mike Cole'
     parent: 'staff'
     url: '/staff/mike_cole/'
-    weight: 25
-  - name: 'Nan Lin'
-    parent: 'staff'
-    url: '/staff/nan_lin/'
-    weight: 25
+    weight: 26
   - name: 'Holly Fisher'
     parent: 'staff'
     url: '/staff/holly_fisher/'
-    weight: 26
+    weight: 27
   - name: 'Tony Fouweather'
     parent: 'staff'
     url: '/staff/tony_fouweather/'
-    weight: 27
+    weight: 28
   - name: 'Michael Grayling'
     parent: 'staff'
     url: '/staff/michael_grayling/'
-    weight: 28
+    weight: 29
   - name: 'Shaun Hiu'
     parent: 'staff'
     url: '/staff/shaun_hiu/'
-    weight: 29
+    weight: 30
   - name: 'Dorcas Kareithi'
     parent: 'staff'
     url: '/staff/dorcas_kareithi/'
-    weight: 30
-  - name: 'Valentina Mamasoula'
-    parent: 'staff'
-    url: '/staff/valentina_mamasoula/'
     weight: 31
-  - name: 'John Matthews'
+  - name: 'Nan Lin'
     parent: 'staff'
-    url: '/staff/john_matthews/'
+    url: '/staff/nan_lin/'
     weight: 32
-  - name: 'Helen Mossop'
-    parent: 'staff'
-    url: '/staff/helen_mossop/'
-    weight: 33
-  - name: 'Ellen Moss'
-    parent: 'staff'
-    url: '/staff/ellen_moss/'
-    weight: 34 
-  - name: 'Jérémie Nsengimana'
-    parent: 'staff'
-    url: '/staff/jeremie_nsengimana/'
-    weight: 35
   - name: 'Jingky Lozano-Kuehne'
     parent: 'staff'
     url: '/staff/jingky_lozano/'
+    weight: 33
+  - name: 'Valentina Mamasoula'
+    parent: 'staff'
+    url: '/staff/valentina_mamasoula/'
+    weight: 34
+  - name: 'John Matthews'
+    parent: 'staff'
+    url: '/staff/john_matthews/'
     weight: 35
+  - name: 'Helen Mossop'
+    parent: 'staff'
+    url: '/staff/helen_mossop/'
+    weight: 36
+  - name: 'Ellen Moss'
+    parent: 'staff'
+    url: '/staff/ellen_moss/'
+    weight: 37 
+  - name: 'Jérémie Nsengimana'
+    parent: 'staff'
+    url: '/staff/jeremie_nsengimana/'
+    weight: 38
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
-    weight: 36
+    weight: 39
   - name: 'Marzieh Shahmandi'
     parent: 'staff'
     url: '/staff/marzieh_shahmandi/'
-    weight: 37
+    weight: 40
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
-    weight: 38
+    weight: 41
   - name: 'James Wason'
     parent: 'staff'
     url: '/staff/james_wason/'
-    weight: 39
+    weight: 42
   - name: 'Faye Williamson'
     parent: 'staff'
     url: '/staff/faye_williamson/'
-    weight: 40
+    weight: 43
   - name: 'Nina Wilson'
     parent: 'staff'
     url: '/staff/nina_wilson/'
-    weight: 41
+    weight: 44
   - name: 'Sylvia Zhang'
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
-    weight: 42
+    weight: 45
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
