@@ -74,12 +74,10 @@ main:
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
     weight: 35
-    
-   - name: 'Jingky Lozano-Kuehne'
+  - name: 'Jingky Lozano-Kuehne'
     parent: 'staff'
     url: '/staff/jingky_lozano/'
     weight: 35
-    
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
