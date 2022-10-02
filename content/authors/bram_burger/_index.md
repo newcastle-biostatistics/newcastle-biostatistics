@@ -6,7 +6,7 @@ email: "bram.burger@ncl.ac.uk"
 name: Bram Burger
 organizations:
 - name: Population Health Sciences Institute
-  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/ellenmoss.html"
+  url: "https://www.ncl.ac.uk/medical-sciences/people/profile/burger-b.html"
 role: Research Associate (Biostatistician)
 social:
 - icon: envelope
@@ -25,7 +25,7 @@ My current work focuses on efficient design of pre-clinical experiments
 
 
 ## Contact
-- __Email:__ [bram.burger@ncl.ac.uk](mailto:Ellen.Moss@ncl.ac.uk)
+- __Email:__ [bram.burger@ncl.ac.uk](mailto:bram.burger@ncl.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
 

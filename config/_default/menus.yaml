@@ -30,6 +30,10 @@ main:
     parent: 'staff'
     url: '/staff/mike_cole/'
     weight: 25
+  - name: 'Nan Lin'
+    parent: 'staff'
+    url: '/staff/nan_lin/'
+    weight: 25
   - name: 'Holly Fisher'
     parent: 'staff'
     url: '/staff/holly_fisher/'
@@ -70,6 +74,12 @@ main:
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
     weight: 35
+    
+   - name: 'Jingky Lozano-Kuehne'
+    parent: 'staff'
+    url: '/staff/jingky_lozano/'
+    weight: 35
+    
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
