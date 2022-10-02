@@ -26,12 +26,14 @@ I am a biostatistician and genetic epidemiologist with a broad experience in int
 ### Research 
 
 My current research interest includes the following:
--	Modelling techniques that could be efficiently applied to answer questions on identification of disease states, treatment efficacy, treatment cost-effectiveness and disease prevention
--	Applications of AI in biomarker studies, healthcare and clinical trials
--	Population and family-based analysis methods in genetics
+-	Modelling techniques that could be efficiently applied to answer questions on identification of disease states, treatment efficacy, treatment cost-effectiveness and disease prevention.
+-	Applications of AI in biomarker studies, healthcare and clinical trials.
+-	Population and family-based analysis methods in genetics.
 
 
 ### Contact
 
 - __Email:__ [jingky.lozano-kuehne@ncl.ac.uk](mailto:jingky.lozano-kuehne@ncl.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+
+

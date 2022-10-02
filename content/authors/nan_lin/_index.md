@@ -37,3 +37,4 @@ I am a Senior Lecturer in Biostatistics. I am interested in statistical methodol
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
 
+
