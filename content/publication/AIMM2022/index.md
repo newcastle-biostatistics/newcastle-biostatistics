@@ -7,7 +7,7 @@ title: 'Acipimox in Mitochondrial Myopathy (AIMM): study protocol for a randomis
 subtitle: ''
 summary: ''
 authors:
-Alaa Abouhajar
+- Alaa Abouhajar
 - Lisa Alcock
 - Theophile Bigirumurame
 - Penny Bradley
