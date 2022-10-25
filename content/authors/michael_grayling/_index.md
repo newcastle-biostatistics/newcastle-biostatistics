@@ -24,7 +24,7 @@ name: Michael Grayling
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/michaelgrayling.html"
-role: Newcastle University Research Fellow
+role: Associate Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -58,9 +58,11 @@ superuser: false
 
 ## Background
 
-I am a [Newcastle University Research Fellow](https://www.ncl.ac.uk/medicalsciences/research/career-development/fellowship/#overview) in Biostatistics.
-I have been at [Newcastle University](https://www.ncl.ac.uk/) since November 2018.
+
+I was a Newcastle University Research Fellow at [Newcastle University](https://www.ncl.ac.uk/) from 2018 to 2022. 
 Prior to this I was a statistician at the [MRC Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/).
+
+I am now a principal statistician at Janssen. I remain an associate researcher at Newcastle University and supervise a number of PhD students in the BRG.
 
 I am interested in the design and analysis of clinical trials.
 My work has involved a mixture of developing novel statistical methodology for trials, comparing existing method performance, and collaborating on real trials.
