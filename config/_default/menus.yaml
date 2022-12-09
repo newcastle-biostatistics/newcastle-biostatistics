@@ -81,14 +81,11 @@ main:
   - name: 'Marzieh Shahmandi'
     parent: 'staff'
     url: '/staff/marzieh_shahmandi/'
-<<<<<<< HEAD
     weight: 40
-    
   - name: 'Moha Shojaei'
     parent: 'staff'
     url: '/staff/moha_shojaei/'
     weight: 41
-    
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
@@ -109,7 +106,6 @@ main:
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
     weight: 46
-=======
     weight: 39
   - name: 'Dawn Teare'
     parent: 'staff'
@@ -131,7 +127,6 @@ main:
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
     weight: 44
->>>>>>> 7a3a944340f4b7f71080cdfca2563f5c49f36780
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
