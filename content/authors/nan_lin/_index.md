@@ -3,7 +3,7 @@ title: Nan Lin
 authors:
 - nan_lin
 email: "nanxuan.lin@ncl.ac.uk"
-name: Bram Burger
+name: Nan Lin
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/"
