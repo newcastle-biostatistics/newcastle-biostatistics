@@ -143,18 +143,22 @@ main:
     parent: 'phd_students'
     url: '/phd_students/aritra_mukherjee/'
     weight: 53
+  - name: 'Pela Okorie'
+    parent: 'phd_students'
+    url: '/phd_students/pela_okorie/'
+    weight: 54
   - name: 'Luke Ouma'
     parent: 'phd_students'
     url: '/phd_students/luke_ouma/'
-    weight: 54
+    weight: 55
   - name: 'Samuel Sarkodie'
     parent: 'phd_students'
     url: '/phd_students/samuel_sarkodie/'
-    weight: 55
+    weight: 56
   - name: 'Lou Whitehead'
     parent: 'phd_students'
     url: '/phd_students/lou_whitehead/'
-    weight: 56
+    weight: 57
   - name: 'Methodology research'
     identifier: 'methodology_research'
     url: '/methodology_research/'
