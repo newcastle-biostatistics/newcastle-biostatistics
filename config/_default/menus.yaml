@@ -193,6 +193,14 @@ main:
     parent: 'courses'
     url: '/courses/admtp/'
     weight: 101
+  - name: 'Bayesian Approaches to Clinical Trials'
+    parent: 'courses'
+    url: '/courses/bayesian_trials/'
+    weight: 102
+  - name: 'Precision Medicine Clinical Trials'
+    parent: 'courses'
+    url: '/courses/precision_trials/'
+    weight: 103
   - name: 'Contact'
     url: '/contact/'
     weight: 110
