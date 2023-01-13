@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Bayesian Approaches to Clinical Trials
+title: Bayesian Methods for the Design and Analysis of Clinical Trials
 subtitle: 11th-12th July 2023, Newcastle upon Tyne, UK
 
 design:
@@ -23,7 +23,7 @@ design:
 
 
 ### Dates 
-Tueday 11th July - Wednesday 12th July 2023
+Tuesday 11th July - Wednesday 12th July 2023
 
 ### Location
 Newcastle upon Tyne
