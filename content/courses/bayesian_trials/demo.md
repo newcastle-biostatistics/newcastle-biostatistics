@@ -35,7 +35,7 @@ Newcastle upon Tyne
 
 - [Professor James Wason]({{< relref "/staff/james_wason" >}}), Newcastle University
 - [Dr Faye Williamson]({{< relref "/staff/faye_williamson" >}}), Newcastle University
-- [Dr Kevin Wilson], Newcastle University
+- [Dr Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html), Newcastle University
 
 
 ### Schedule
