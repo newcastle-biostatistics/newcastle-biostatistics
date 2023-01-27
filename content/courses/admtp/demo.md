@@ -83,3 +83,13 @@ A: Currently we are only planning to run the course in person
 Q: I'm not a statistician, will I benefit from the course?
 
 A: The course is predominantly aimed at applied statisticians, but we've had non-statisticians do the course in the past and had feedback that they benefited from a good amount of the content! There'll be a couple of lectures that may be more difficult but if you don't mind some Greek letters and integral symbols, you should be okay.
+
+
+### Quotes from 2022 participants
+
+"This course was excellent, excellent materials and excellent teaching delivery."
+
+"The practicals were great and easy to follow"
+
+"The course is an ideal introduction to adaptive designs and related issues in clinical trials. I would recommend anyone looking to work in the area to take it."
+
