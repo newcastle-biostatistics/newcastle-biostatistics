@@ -1,5 +1,5 @@
 ---
-title: Faye Williamson
+title: S. Faye Williamson
 authors:
 - faye_williamson
 email: "faye.williamson@ncl.ac.uk"

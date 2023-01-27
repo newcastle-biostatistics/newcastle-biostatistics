@@ -74,10 +74,14 @@ main:
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
     weight: 37
+  - name: 'Luke Ouma'
+    parent: 'staff'
+    url: '/staff/luke_ouma/'
+    weight: 38
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
-    weight: 38
+    weight: 39
   - name: 'Marzieh Shahmandi'
     parent: 'staff'
     url: '/staff/marzieh_shahmandi/'
@@ -106,27 +110,6 @@ main:
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
     weight: 46
-    weight: 39
-  - name: 'Dawn Teare'
-    parent: 'staff'
-    url: '/staff/dawn_teare/'
-    weight: 40
-  - name: 'James Wason'
-    parent: 'staff'
-    url: '/staff/james_wason/'
-    weight: 41
-  - name: 'Faye Williamson'
-    parent: 'staff'
-    url: '/staff/faye_williamson/'
-    weight: 42
-  - name: 'Nina Wilson'
-    parent: 'staff'
-    url: '/staff/nina_wilson/'
-    weight: 43
-  - name: 'Sylvia Zhang'
-    parent: 'staff'
-    url: '/staff/sylvia_zhang/'
-    weight: 44
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
@@ -147,18 +130,14 @@ main:
     parent: 'phd_students'
     url: '/phd_students/pela_okorie/'
     weight: 54
-  - name: 'Luke Ouma'
-    parent: 'phd_students'
-    url: '/phd_students/luke_ouma/'
-    weight: 55
   - name: 'Samuel Sarkodie'
     parent: 'phd_students'
     url: '/phd_students/samuel_sarkodie/'
-    weight: 56
+    weight: 55
   - name: 'Lou Whitehead'
     parent: 'phd_students'
     url: '/phd_students/lou_whitehead/'
-    weight: 57
+    weight: 56
   - name: 'Methodology research'
     identifier: 'methodology_research'
     url: '/methodology_research/'
@@ -193,9 +172,9 @@ main:
     parent: 'courses'
     url: '/courses/admtp/'
     weight: 101
-  - name: 'Bayesian Approaches to Clinical Trials'
+  - name: 'Leveraging External Information'
     parent: 'courses'
-    url: '/courses/bayesian_trials/'
+    url: '/courses/external_information/'
     weight: 102
   - name: 'Precision Medicine Clinical Trials'
     parent: 'courses'

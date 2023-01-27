@@ -2,7 +2,7 @@
 title: Luke Ouma
 authors:
 - luke_ouma
-bio: PhD student working on developing improved methods for the design and analysis of Umbrella and Basket trials.
+bio: Research associate working on developing improved methods for the design and analysis of Umbrella and Basket trials.
 interests:
   - Biostatistics
   - Clinical trials
@@ -21,7 +21,7 @@ email: "l.o.ouma2@ncl.ac.uk"
 name: Luke Ouma
 organizations:
 - name: Population Health Sciences Institute
-role: PhD Student
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,9 +32,11 @@ superuser: false
 
 ## Background
 
-Luke Ouma is a PhD student in Biostatistics at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), supervised by [Prof James Wason](/staff/james_wason/), [Dr Michael Grayling](/staff/michael_grayling/) and [Dr Haiyan Zheng](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/haiyan-zheng/). His research focuses on statistical methodology for 'precision medicine trials', specifically focusing on developing improved methods for the design and analysis of Umbrella and Basket trials. He has previously worked as a statistician at the [Kemri-Wellcome Trust Research Programme](https://kemri-wellcome.org/), Kenya.
+Luke Ouma is a research associate in Biostatistics at the Biostatistics Research Group, [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Newcastle University](https://www.ncl.ac.uk/), working with [Prof James Wason](/staff/james_wason/). 
+
+His research focuses on statistical methodology for 'precision medicine trials', specifically focusing on developing improved methods for the design and analysis of Umbrella and Basket trials. He has previously worked as a statistician at the [Kemri-Wellcome Trust Research Programme](https://kemri-wellcome.org/), Kenya.
 
 ### Contact
 
-- __Email:__ [l.o.ouma2@ncl.ac.uk](mailto:l.o.ouma2@ncl.ac.uk)
+- __Email:__ [luke.ouma@ncl.ac.uk](mailto:luke.ouma@ncl.ac.uk)
 - __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
