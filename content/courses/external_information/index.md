@@ -4,5 +4,5 @@ type: widget_page
 
 # Homepage is headless, other widget pages are not.
 headless: false
-title: "Bayesian Approaches to Clinical Trials Course"
+title: "Leveraging External Information in Clinical Trials"
 ---
