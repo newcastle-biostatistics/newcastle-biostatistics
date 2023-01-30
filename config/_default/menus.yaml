@@ -5,7 +5,11 @@ main:
   - name: 'Staff'
     identifier: 'staff'
     url: '/staff/'
-    weight: 20
+    weight: 15
+  - name: 'Sarah Al Ashmori'
+    parent: 'staff'
+    url: '/staff/sarah_al/'
+    weight: 20  
   - name: 'Theophile Bigirumurame'
     parent: 'staff'
     url: '/staff/theophile_bigirumurame/'
