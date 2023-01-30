@@ -7,7 +7,7 @@ name: Helen Mossop
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/helenmossop.html"
-role: Biostatistician (Research Associate)
+role: Senior Research Associate
 social:
 - icon: envelope
   icon_pack: fas
