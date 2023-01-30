@@ -25,7 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'Sarah'
+    tag: 'Sarah_al'
     category: ''
     publication_type: ''
     author: ''
