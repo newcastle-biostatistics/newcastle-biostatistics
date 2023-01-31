@@ -54,7 +54,7 @@ main:
     parent: 'staff'
     url: '/staff/dorcas_kareithi/'
     weight: 32
- - name: 'Ann Breeze konkoth Bigirumurame'
+  - name: 'Ann Breeze konkoth'
     parent: 'staff'
     url: '/staff/ann_breeze/'
     weight: 33
