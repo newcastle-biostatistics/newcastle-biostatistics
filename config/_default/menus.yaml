@@ -215,7 +215,7 @@ main:
     weight: 45
   - name: 'Bram Burger'
     identifier: 'reseach'
-    url: '/tags/research/bram_burger/'
+    url: '/bram_burger/'
     parent: 'research'
     weight: 24
   - name: 'Ann Breeze konkoth'
