@@ -196,26 +196,18 @@ main:
     url: '/staff2/'
     weight: 100
   - name: 'Research staff'
-    identifier: 'reseach'
+    identifier: 'reseach1'
     url: '/staff2/research/'
     parent: 'staff2'
     weight: 101
-  - name: 'Academic staff'
-    identifier: 'academic'
-    parent: 'staff2'
-    url: '/staff2/academic/'
-    weight: 108
+ 
 
-  - name: 'James Wason'
-    parent: 'academic'
-    url: '/academic/james_wason/'
-    weight: 45
   - name: 'Bram Burger'
     url: '/research/bram_burger/'
     parent: 'research'
     weight: 24
   - name: 'Ann Breeze konkoth'
-    parent: 'research'
+    parent: 'research1'
     url: '/staff2/research/ann_breeze/'
     weight: 33
   - name: 'Dawn Teare'
