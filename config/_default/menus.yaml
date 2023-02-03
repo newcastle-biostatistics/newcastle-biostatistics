@@ -197,26 +197,28 @@ main:
     weight: 100
   - name: 'Research staff'
     parent: 'staff2'
+    identifier: 'reseach'
     url: '/staff2/research/'
     weight: 101
   - name: 'Academic staff'
     parent: 'staff2'
+    identifier: 'academic'
     url: '/staff2/academic/'
     weight: 102
   - name: 'Dawn Teare'
-    parent: 'staff2/academic'
+    parent: 'academic'
     url: '/staff2/acadmic/dawn_teare/'
     weight: 44
   - name: 'James Wason'
-    parent: 'staff2/academic'
+    parent: 'academic'
     url: '/staff2/academic/james_wason/'
     weight: 45
   - name: 'Bram Burger'
-    parent: 'staff2/research'
+    parent: 'research'
     url: '/staff2/research/bram_burger/'
     weight: 24
   - name: 'Ann Breeze konkoth'
-    parent: 'staff2/research'
+    parent: 'research'
     url: '/staff2/research/ann_breeze/'
     weight: 33
   - name: 'Dawn Teare'
