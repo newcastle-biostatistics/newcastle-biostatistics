@@ -191,3 +191,14 @@ main:
   - name: 'Contact'
     url: '/contact/'
     weight: 110
+  - name: 'Staff2'
+    identifier: 'staff2'
+    children: 'Research'
+    url: '/staff2/research'
+    weight: 120
+    children: 'teaching'
+    url: '/staff2/Teaching'
+    weight: 120
+    
+    
+
