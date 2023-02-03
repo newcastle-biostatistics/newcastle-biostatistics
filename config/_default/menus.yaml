@@ -197,14 +197,14 @@ main:
     weight: 100
   - name: 'Research staff'
     identifier: 'reseach'
-    url: '/staff2/research/'
+    url: '/tags/research'
     parent: 'staff2'
     weight: 101
   - name: 'Academic staff'
     parent: 'staff2'
     identifier: 'academic'
     url: '/staff2/academic/'
-    weight: 102
+    weight: 108
   - name: 'Dawn Teare'
     parent: 'academic'
     url: '/staff2/acadmic/dawn_teare/'
@@ -215,7 +215,7 @@ main:
     weight: 45
   - name: 'Bram Burger'
     identifier: 'reseach'
-    url: '/staff2/research/bram_burger/'
+    url: '/tags/research/bram_burger/'
     parent: 'research'
     weight: 24
   - name: 'Ann Breeze konkoth'
