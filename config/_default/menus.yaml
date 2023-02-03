@@ -196,9 +196,9 @@ main:
     url: '/staff2/'
     weight: 100
   - name: 'Research staff'
-    parent: 'staff2'
     identifier: 'reseach'
     url: '/staff2/research/'
+    parent: 'staff2'
     weight: 101
   - name: 'Academic staff'
     parent: 'staff2'
@@ -214,8 +214,9 @@ main:
     url: '/staff2/academic/james_wason/'
     weight: 45
   - name: 'Bram Burger'
-    parent: 'research'
+    identifier: 'reseach'
     url: '/staff2/research/bram_burger/'
+    parent: 'research'
     weight: 24
   - name: 'Ann Breeze konkoth'
     parent: 'research'
