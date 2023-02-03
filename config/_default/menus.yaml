@@ -191,27 +191,5 @@ main:
   - name: 'Contact'
     url: '/contact/'
     weight: 110
-  - name: 'Staff2'
-    identifier: 'staff2'
-    url: '/staff2/'
-    weight: 100
-  - name: 'Research staff'
-    identifier: 'reseach1'
-    url: '/staff2/research/'
-    parent: 'staff2'
-    weight: 101
- 
 
-  - name: 'Bram Burger'
-    url: '/research/bram_burger/'
-    parent: 'research'
-    weight: 24
-  - name: 'Ann Breeze konkoth'
-    parent: 'research1'
-    url: '/staff2/research/ann_breeze/'
-    weight: 33
-  - name: 'Dawn Teare'
-    parent: 'research'
-    url: '/staff2/research/dawn_teare/'
-    weight: 44
  
