@@ -199,6 +199,10 @@ main:
     children: 'teaching'
     url: '/staff2/Teaching'
     weight: 120
+  - name: 'Staff2'
+    identifier: 'staff'
+    url: '/staff2/'
+    weight: 100
   - name: 'Research staff'
     parent: 'staff2'
     url: '/staff2/research/'
