@@ -204,26 +204,26 @@ main:
     url: '/staff2/academic/'
     weight: 102
   - name: 'Dawn Teare'
-    parent: 'staff2'
+    parent: 'staff2/academic'
     url: '/staff2/acadmic/dawn_teare/'
     weight: 44
   - name: 'James Wason'
-    parent: 'staff2'
+    parent: 'staff2/academic'
     url: '/staff2/academic/james_wason/'
     weight: 45
   - name: 'Bram Burger'
-    parent: 'staff2'
+    parent: 'staff2/research'
     url: '/staff2/research/bram_burger/'
     weight: 24
   - name: 'Ann Breeze konkoth'
-    parent: 'staff2'
+    parent: 'staff2/research'
     url: '/staff2/research/ann_breeze/'
     weight: 33
   - name: 'Dawn Teare'
-    parent: 'staff2'
+    parent: 'research'
     url: '/staff2/research/dawn_teare/'
     weight: 44
   - name: 'James Wason'
-    parent: 'staff2'
+    parent: 'research'
     url: '/staff2/research/james_wason/'
     weight: 45
