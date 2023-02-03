@@ -49,7 +49,7 @@ __Scopus:__ [Click here](https://www.scopus.com/authid/detail.uri?authorId=35313
 
 - __Email:__ [james.wason@ncl.ac.uk](mailto:james.wason@ncl.ac.uk)
 - __Telephone:__ +44 (0) 191 208 3699
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
 
 ### FAQs

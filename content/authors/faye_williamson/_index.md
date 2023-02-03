@@ -20,7 +20,7 @@ superuser: false
 
 ## Background
 
-I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group in January 2021 as a Research Associate working with [Professor James Wason](/staff/james_wason).
+I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/) Biostatistics Research Group in January 2021 as a Research Associate working with [Professor James Wason](/staff/james_wason).
 I am interested in the development of novel clinical trial designs and will be working on a mixture of methodological research (in the area of precision medicine) and applying new methods in practice. 
 
 Qualifications: 
@@ -44,4 +44,4 @@ My research interests include, but are not limited to, the following areas:
 ### Contact
 
 - __Email:__ [faye.williamson@ncl.ac.uk](mailto:faye.williamson@ncl.ac.uk)
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK

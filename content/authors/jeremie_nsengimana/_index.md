@@ -24,7 +24,7 @@ superuser: false
 
 ## Background
 
-Jérémie Nsengimana is Senior Lecturer in Biostatistics in the [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), [Faculty of Medical Sciences](https://www.ncl.ac.uk/medical-sciences/). He holds a PhD from the [Université Catholique de Louvain](https://uclouvain.be/en/index.html), Belgium (UCLLouvain) and has previously worked at the [University of Leeds School of Medicine](https://medicinehealth.leeds.ac.uk/medicine), Leeds, UK (Research Fellow / Senior Statistician, 2004-2020) and the [International Agency for Research on Cancer](https://www.iarc.fr/), Lyon, France (Postdoctoral Research Fellow, 2003-2004). Jérémie's research focuses on efficient analysis of preclinical studies with a particular interest in biomarker and drug target discovery. He is a member of the [TEsticular CAncer Consortium (TECAC)](https://www.tecac.org/) and the [Melanoma Genetics Consortium (GenoMEL)](http://genomel.org/).
+Jérémie Nsengimana is Senior Lecturer in Biostatistics in the [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), [Faculty of Medical Sciences](https://www.ncl.ac.uk/medical-sciences/). He holds a PhD from the [Université Catholique de Louvain](https://uclouvain.be/en/index.html), Belgium (UCLLouvain) and has previously worked at the [University of Leeds School of Medicine](https://medicinehealth.leeds.ac.uk/medicine), Leeds, UK (Research Fellow / Senior Statistician, 2004-2020) and the [International Agency for Research on Cancer](https://www.iarc.fr/), Lyon, France (Postdoctoral Research Fellow, 2003-2004). Jérémie's research focuses on efficient analysis of preclinical studies with a particular interest in biomarker and drug target discovery. He is a member of the [TEsticular CAncer Consortium (TECAC)](https://www.tecac.org/) and the [Melanoma Genetics Consortium (GenoMEL)](http://genomel.org/).
 
 ### Supervised PhDs
 
@@ -45,4 +45,4 @@ Postgraduate Medical Statistics & Project Supervision.
 ## Contact
 
 - __Email:__ [jeremie.nsengimana@ncl.ac.uk](mailto:jeremie.nsengimana@ncl.ac.uk)
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK

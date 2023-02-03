@@ -16,7 +16,7 @@ superuser: false
 ---
 
 ## Background
-I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/) Biostatistics Research Group (BRG) in January 2023 after the completion of my Master’s in Medical Statistics and am currently working as an Assistant Statistician on the Clinical trials.
+I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/) Biostatistics Research Group (BRG) in January 2023 after the completion of my Master’s in Medical Statistics and am currently working as an Assistant Statistician on the Clinical trials.
 
 ## Qualifications
   - MSc Medical Statistics, University of Leicester
@@ -25,4 +25,4 @@ I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/h
 ### Contact
 
 - __Email:__ [ann.konkoth@ncl.ac.uk](mailto:ann.konkoth@ncl.ac.uk)
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK

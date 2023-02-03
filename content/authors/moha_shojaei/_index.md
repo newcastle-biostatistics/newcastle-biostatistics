@@ -32,7 +32,7 @@ I have been in Newcastle since September 2022. I am part of the Biostatistics Re
 
 ## Contact
 - __Email:__ [moha.shojaei@ncl.ac.uk](mailto:moha.shojaei@ncl.ac.uk)
-- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/health-sciences/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
+- __Address:__ [Population Health Sciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/), 4th Floor Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 7RU, UK
 
 
 
