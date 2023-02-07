@@ -28,8 +28,20 @@ Wednesday 27th September - Thursday 28th September 2023
 ### Location
 Newcastle upon Tyne
 
+### Cost and Registration
+
+Private sector: £600
+Public sector: £400
+Students: £300 
+
+To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/design-and-analysis-of-precision-medicine-trials)
+
+
 ### Description
 
+Precision medicine is about going beyond assessing whether a new treatment works on average to predicting which subgroups of patients receive benefit and to what extent. When subgroups, often defined by biomarkers, genetic, phenotypic or psychosocial characteristics, are associated with a treatment’s efficacy or toxicity, precision medicine offers substantial advantages to patients, trial sponsors, and the wider healthcare system. However, a barrier to realising the promise of precision medicine is the inappropriate use of traditional clinical trial design and analysis, which rely on estimates of population-averaged effects.
+
+In this course we introduce the concept of precision medicine and cover innovative approaches. This includes novel designs (biomarker-guided, basket, umbrella, adaptive signature, adaptive enrichment designs and Sequential Multiple Assignment Randomized Trials) as well as efficient analysis approaches (e.g. Bayesian hierarchical modelling, identifying patient subgroups using high-dimensional genetic data) to help estimate sub-group specific treatment effects. These approaches have all been developed to improve the power, quality of information, and patient benefit provided by clinical trials. Examples from a wide variety of therapeutic areas will be discussed, with implementation in R software. Perspectives will be given on the future development of design, conduct and analysis of clinical trials in the field.
 
 ### Tutors
 
@@ -44,17 +56,9 @@ This will be a two-day course consisting of around 8 lectures each with an assoc
 
 ### FAQs
 
-Q: Is the course currently open for registration?
-
-A: No, please email james.wason@newcastle.ac.uk if you'd like to express an interest in attending.
-
 Q: Is the course running in person or online?
 
 A: Currently we are only planning to run the course in person
-
-Q: How much will it cost?
-
-A: £600 for industry delegates, £400 for public sector and £300 for students.
 
 Q: I'm not a statistician, will I benefit from the course?
 

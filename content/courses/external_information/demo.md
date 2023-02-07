@@ -28,6 +28,14 @@ Tuesday 11th July - Wednesday 12th July 2023
 ### Location
 Newcastle upon Tyne
 
+### Cost and Registration
+
+Private sector: £600
+Public sector: £400
+Students: £300 
+
+To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/leveraging-external-information-to-improve-the-design-and-analysis-of-clinical-trials)
+
 ### Description
 
 The ability to utilise external information when designing and analysing clinical trials brings many benefits, such as maximising the evidence provided by the trial, reducing the sample size required (particularly important for rare disease trials) and improving the generalisability of trial results. This course provides participants with a range of the latest statistical methods that can be used to incorporate external information and thus improve the efficiency and robustness of clinical trials. We also cover potential biases and pitfalls that may arise, and how to address them.
@@ -56,17 +64,9 @@ This will be a two-day course consisting of around 8 lectures each with an assoc
 
 ### FAQs
 
-Q: Is the course currently open for registration?
-
-A: No, please email james.wason@newcastle.ac.uk if you'd like to express an interest in attending.
-
 Q: Is the course running in person or online?
 
 A: Currently we are only planning to run the course in person
-
-Q: How much will it cost?
-
-A: £600 for industry delegates, £400 for public sector and £300 for students.
 
 Q: I'm not a statistician, will I benefit from the course?
 
