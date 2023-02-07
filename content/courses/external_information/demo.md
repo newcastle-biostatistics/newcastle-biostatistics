@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Leveraging External Information to Improve the Design and Analysis of Clinical Trials
+title: Leveraging External Information in Clinical Trials
 subtitle: 11th-12th July 2023, Newcastle upon Tyne, UK
 
 design:
@@ -38,7 +38,7 @@ To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.
 
 ### Description
 
-The ability to utilise external information when designing and analysing clinical trials brings many benefits, such as maximising the evidence provided by the trial, reducing the sample size required (particularly important for rare disease trials) and improving the generalisability of trial results. This course provides participants with a range of the latest statistical methods that can be used to incorporate external information and thus improve the efficiency and robustness of clinical trials. We also cover potential biases and pitfalls that may arise, and how to address them.
+The ability to utilise external information (such as from disease cohorts, previous trials, and expert opinion) when designing and analysing clinical trials brings many benefits, including maximising the evidence provided by the trial, reducing the sample size required (particularly important for rare disease trials) and improving the generalisability of trial results. This course provides participants with a range of the latest statistical methods that can be used to incorporate external information and thus improve the efficiency and robustness of clinical trials. We also cover potential biases and pitfalls that may arise, and how to address them.
 
 The following topics will be included:
 
