@@ -158,10 +158,14 @@ main:
     parent: 'methodology_research'
     url: '/methodology_research/adaptive_designs/'
     weight: 62
+  - name: 'Master protocols'
+    parent: 'methodology_research'
+    url: '/methodology_research/master_protocols/'
+    weight: 63
   - name: 'Transforming IMID trials'
     parent: 'methodology_research'
     url: '/methodology_research/transforming_imid_trials/'
-    weight: 63
+    weight: 64
   - name: 'Projects'
     identifier: 'projects'
     url: '/projects/'
