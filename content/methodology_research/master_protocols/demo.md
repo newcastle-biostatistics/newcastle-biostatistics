@@ -61,7 +61,10 @@ We are keen to collaborate with other researchers and statisticians/methodologis
 ### References & Resources
 
 [1]    J. Woodcock and L. M. LaVange, “Master Protocols to Study Multiple Therapies, Multiple Diseases, or Both,” N. Engl. J. Med., vol. 377, no. 1, pp. 62–70, Jul. 2017, doi: 10.1056/nejmra1510062.
+
 [2]    L. O. Ouma, J. M. S. Wason, H. Zheng, N. Wilson, and M. Grayling, “Design and analysis of umbrella trials: Where do we stand?,” Front. Med., vol. 9, 2022, doi: 10.3389/fmed.2022.1037439.
+
 [3]    D. E. Gerber, G. R. Oxnard, and R. Govindan, “ALCHEMIST: Bringing genomic discovery and targeted therapies to early-stage lung cancer,” Clin. Pharmacol. Ther., vol. 97, no. 5, pp. 447–450, 2015, doi: 10.1002/cpt.91.
+
 [4]    D. M. Hyman et al., “Vemurafenib in multiple nonmelanoma cancers with BRAF V600 mutations,” N. Engl. J. Med., vol. 373, no. 8, pp. 726–736, Aug. 2015, doi: 10.1056/NEJMoa1502309.
 
