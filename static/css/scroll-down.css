@@ -1,0 +1,23 @@
+.scroll-down-btn {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
+.scroll-down-btn:hover {
+  transform: translateY(5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.arrow-down {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid #fff;
+}
