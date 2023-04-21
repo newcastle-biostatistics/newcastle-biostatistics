@@ -19,3 +19,33 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+
+#######  FROM CHATGPT #####
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[plugins]]
+  package = "netlify-plugin-inline-source"
+
+[build.environment]
+  # Load custom CSS
+  CSS_SRC = "css/custom.css"
+
+  # Load custom JavaScript
+  JS_SRC = "js/custom.js"
+
+[[plugins]]
+  package = "netlify-plugin-inline-source"
+  [plugins.inputs]
+    inline = [
+      "public/**/*.html"
+    ]
