@@ -22,19 +22,7 @@
 
 
 #######  FROM CHATGPT #####
-
-[build]
-  command = "hugo"
-  publish = "public"
-
-[context.production.environment]
-  HUGO_ENV = "production"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
-
-[[plugins]]
-  package = "netlify-plugin-inline-source"
+#########
 
 [build.environment]
   # Load custom CSS
