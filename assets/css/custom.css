@@ -1,0 +1,5 @@
+
+.menu-container {
+  max-height: 400px; /* Set the maximum height for the menu container */
+  overflow-y: auto; /* Add a scrollbar when the menu overflows */
+}

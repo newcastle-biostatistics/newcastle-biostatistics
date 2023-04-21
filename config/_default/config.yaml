@@ -75,3 +75,15 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+####### from CHATGPT ####
+#########################
+
+params:
+  # Load custom CSS
+  custom_css:
+    - "css/custom.css"
+
+  # Load custom JavaScript
+  custom_js:
+    - "js/custom.js"
