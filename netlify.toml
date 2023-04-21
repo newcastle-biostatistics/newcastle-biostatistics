@@ -31,9 +31,3 @@
   # Load custom JavaScript
   JS_SRC = "js/custom.js"
 
-[[plugins]]
-  package = "netlify-plugin-inline-source"
-  [plugins.inputs]
-    inline = [
-      "public/**/*.html"
-    ]
