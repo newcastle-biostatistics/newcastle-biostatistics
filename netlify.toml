@@ -5,6 +5,14 @@
 [build.environment]
   HUGO_VERSION = "0.81.0"
   HUGO_ENABLEGITINFO = "true"
+  #######  FROM CHATGPT #####
+#########
+  CSS_SRC = "css/custom.css"
+
+  # Load custom JavaScript
+  JS_SRC = "js/custom.js"
+###########################
+########################
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -21,13 +29,4 @@
     debug = true
 
 
-#######  FROM CHATGPT #####
-#########
-
-[build.environment]
-  # Load custom CSS
-  CSS_SRC = "css/custom.css"
-
-  # Load custom JavaScript
-  JS_SRC = "js/custom.js"
 
