@@ -26,7 +26,7 @@ I joined the [PHSI](https://www.ncl.ac.uk/medical-sciences/research/institutes/p
 
 
 PhD in Statistics, [Statistical Cybermetrics Research Group](http://cybermetrics.wlv.ac.uk), University of Wolverhampton, UK
-  - Thesis Title: Modified mean and quantile regression models for citation analysis (submitted on 28 Oct 2021)
+  - Thesis Title: Modified mean and quantile regression models for citation analysis
   - Supervisors: [Prof. Mike Thelwall](http://www.scit.wlv.ac.uk/~cm1993/) and [Dr. Paul Wilson](https://researchers.wlv.ac.uk/PaulJWilson/about)
 - MSc in Statistics, [Isfahan University of Technology](http://english.iut.ac.ir/), Isfahan, Iran
 - BSc in Statistics, [Isfahan University of Technology](http://english.iut.ac.ir/), Isfahan, Iran
