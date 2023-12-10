@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Precision Medicine Clinical Trials
-subtitle: 27th-28th September 2023, Newcastle upon Tyne, UK
+subtitle: 8th July - 9th July 2024, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,18 +23,25 @@ design:
 
 
 ### Dates 
-Wednesday 27th September - Thursday 28th September 2023
+Monday 8th July - Tuesday 9th July 2024
 
 ### Location
 Newcastle upon Tyne
 
+Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
+
+
 ### Cost and Registration
 
-Private sector: £600
-Public sector: £400
-Students: £300 
+Private sector: £640
+Public sector: £425
+Students: £320 
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/design-and-analysis-of-precision-medicine-trials)
+
+To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/design-and-analysis-of-precision-medicine-trials-2024)
+
+
+Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 
 
 ### Description
@@ -47,7 +54,7 @@ In this course we introduce the concept of precision medicine and cover innovati
 
 - [Professor James Wason]({{< relref "/staff/james_wason" >}}), Newcastle University
 - [Dr Svetlana Cherlin]({{< relref "/staff/svetlana_cherlin" >}}), Newcastle University
-- [Dr Haiyan Zheng](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/haiyan-zheng/), MRC Biostatistics Unit, University of Cambridge
+- [Dr Haiyan Zheng](https://researchportal.bath.ac.uk/en/persons/haiyan-zheng), University of Bath
 
 
 ### Schedule
@@ -63,3 +70,11 @@ A: Currently we are only planning to run the course in person
 Q: I'm not a statistician, will I benefit from the course?
 
 A: The course is predominantly aimed at applied statisticians, but hopefully many parts of the course will be useful to non-statisticians! Some lectures may be more difficult but if you don't mind some Greek letters and other mathematical symbols, you should be okay.
+
+### Quotes from 2023 participants
+
+"The overall course was excellent, extremely knowledgeable presenters and the material was very well presented."
+
+"Very interesting course. Teachers very attentive to the needs of participants and available for any clarification"
+
+"It was great, very organized, helpful resources, interesting talks."

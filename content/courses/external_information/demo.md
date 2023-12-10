@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Leveraging External Information in Clinical Trials
-subtitle: 11th-12th July 2023, Newcastle upon Tyne, UK
+subtitle: 28th May - 29th May 2024, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,18 +23,24 @@ design:
 
 
 ### Dates 
-Tuesday 11th July - Wednesday 12th July 2023
+Tuesday 28th May - Wednesday 29th May 2024
 
 ### Location
 Newcastle upon Tyne
 
+Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
+
+
 ### Cost and Registration
 
-Private sector: £600
-Public sector: £400
-Students: £300 
+Private sector: £640
+Public sector: £425
+Students: £320 
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/leveraging-external-information-to-improve-the-design-and-analysis-of-clinical-trials)
+To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/leveraging-external-information-to-improve-the-design-and-analysis-of-clinical-trials-2024)
+
+Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
+
 
 ### Description
 
@@ -71,3 +77,12 @@ A: Currently we are only planning to run the course in person
 Q: I'm not a statistician, will I benefit from the course?
 
 A: The course is predominantly aimed at applied statisticians, but hopefully many parts of the course will be useful to non-statisticians! Some lectures may be more difficult but if you don't mind some Greek letters and other mathematical symbols, you should be okay.
+
+
+### Quotes from 2023 participants
+
+"Fantastic, it covered the key topics that I need to know regarding Bayesian statistics in clinical trials, and also introduced me to a few new ones."
+
+"Really enjoyable course overall. Very interesting and engaging. Really enjoyed the discussion and the course meal was fantastic."
+
+"I really enjoyed the course, it was of great quality with a good breadth and depth of topics covered"

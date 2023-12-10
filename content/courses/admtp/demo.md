@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Adaptive Designs and Multiple Testing Procedures
-subtitle: 11th-12th May 2023, Newcastle upon Tyne, UK
+subtitle: May 2024, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,18 +23,22 @@ design:
 
 
 ### Dates 
-Thursday 11th May - Friday 12th May 2023
+TBD
 
 ### Location
 Newcastle upon Tyne
 
+Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
+
 ### Cost and Registration
 
-Private sector: £600
-Public sector: £400
-Students: £300 
+Private sector: £640
+Public sector: £425
+Students: £320
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials)
+Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
+
+To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials-2024)
 
 ### Description
 Adaptive designs are a way to improve the efficiency and participant benefit of clinical trials. With an adaptive design, information gathered during the trial can be used to change the design in a statistically robust way. There are many types of adaptive designs that are possible for different situations in all phases of trials.  In both adaptive and non-adaptive trials, there are often multiple hypotheses being tested. Examples include trials with multiple endpoints, multiple treatment arms and when a trial tests a treatment in different patient subgroups. Adaptive trials often mean that a particular hypothesis is tested several times during the trial. This creates issues with multiple testing, for which suitable procedures are needed to ensure the appropriate error rate is controlled.
@@ -84,6 +88,14 @@ Q: I'm not a statistician, will I benefit from the course?
 
 A: The course is predominantly aimed at applied statisticians, but we've had non-statisticians do the course in the past and had feedback that they benefited from a good amount of the content! There'll be a couple of lectures that may be more difficult but if you don't mind some Greek letters and integral symbols, you should be okay.
 
+
+### Quotes from 2023 participants
+
+"This was an expertly delivered course. It was great to try to follow the theory underpinning these approaches alongside pragmatic decisions that are required in applied work."
+
+"Overall, this course exceeded my expectations and left me feeling inspired and equipped with valuable knowledge and skills."
+
+"Very informative and well organised"
 
 ### Quotes from 2022 participants
 
