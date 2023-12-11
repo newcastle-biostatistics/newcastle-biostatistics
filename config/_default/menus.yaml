@@ -18,106 +18,90 @@ main:
     parent: 'staff'
     url: '/staff/andy_bryant/'
     weight: 23
-  - name: 'Bram Burger'
-    parent: 'staff'
-    url: '/staff/bram_burger/'
-    weight: 24
   - name: 'Thomas Chadwick'
     parent: 'staff'
     url: '/staff/thomas_chadwick/'
-    weight: 25
+    weight: 24
   - name: 'Svetlana Cherlin'
     parent: 'staff'
     url: '/staff/svetlana_cherlin/'
-    weight: 26
+    weight: 25
   - name: 'Mike Cole'
     parent: 'staff'
     url: '/staff/mike_cole/'
-    weight: 27
+    weight: 26
   - name: 'Holly Fisher'
     parent: 'staff'
     url: '/staff/holly_fisher/'
-    weight: 28
+    weight: 27
   - name: 'Tony Fouweather'
     parent: 'staff'
     url: '/staff/tony_fouweather/'
-    weight: 29
-  - name: 'Michael Grayling'
-    parent: 'staff'
-    url: '/staff/michael_grayling/'
-    weight: 30
+    weight: 28
   - name: 'Shaun Hiu'
     parent: 'staff'
     url: '/staff/shaun_hiu/'
-    weight: 31
+    weight: 29
   - name: 'Dorcas Kareithi'
     parent: 'staff'
     url: '/staff/dorcas_kareithi/'
-    weight: 32
+    weight: 30
   - name: 'Ann Breeze Konkoth'
     parent: 'staff'
     url: '/staff/ann_breeze/'
-    weight: 33
+    weight: 31
   - name: 'Nan Lin'
     parent: 'staff'
     url: '/staff/nan_lin/'
-    weight: 34
+    weight: 32
   - name: 'Jingky Lozano-Kuehne'
     parent: 'staff'
     url: '/staff/jingky_lozano/'
-    weight: 35
-  - name: 'John Matthews'
-    parent: 'staff'
-    url: '/staff/john_matthews/'
-    weight: 36
+    weight: 33
   - name: 'Helen Mossop'
     parent: 'staff'
     url: '/staff/helen_mossop/'
-    weight: 37
+    weight: 34
   - name: 'Ellen Moss'
     parent: 'staff'
     url: '/staff/ellen_moss/'
-    weight: 38
+    weight: 35
   - name: 'Jérémie Nsengimana'
     parent: 'staff'
     url: '/staff/jeremie_nsengimana/'
-    weight: 39
-  - name: 'Luke Ouma'
-    parent: 'staff'
-    url: '/staff/luke_ouma/'
-    weight: 40
+    weight: 36
   - name: 'Vicky Ryan'
     parent: 'staff'
     url: '/staff/vicky_ryan/'
-    weight: 41
+    weight: 37
   - name: 'Marzieh Shahmandi'
     parent: 'staff'
     url: '/staff/marzieh_shahmandi/'
-    weight: 42
+    weight: 38
   - name: 'Moha Shojaei'
     parent: 'staff'
     url: '/staff/moha_shojaei/'
-    weight: 43
+    weight: 39
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
-    weight: 44
+    weight: 40
   - name: 'James Wason'
     parent: 'staff'
     url: '/staff/james_wason/'
-    weight: 45
+    weight: 41
   - name: 'Faye Williamson'
     parent: 'staff'
     url: '/staff/faye_williamson/'
-    weight: 46
+    weight: 42
   - name: 'Nina Wilson'
     parent: 'staff'
     url: '/staff/nina_wilson/'
-    weight: 47
+    weight: 43
   - name: 'Sylvia Zhang'
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
-    weight: 48
+    weight: 44
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
@@ -134,22 +118,30 @@ main:
     parent: 'phd_students'
     url: '/phd_students/laura_etfer/'
     weight: 53
+  - name: 'Niamh Fitzgerald'
+    parent: 'phd_students'
+    url: '/phd_students/niamh_fitzgerald/'
+    weight: 54
+  - name: 'Raiann Hamshaw'
+    parent: 'phd_students'
+    url: '/phd_students/raiann_hamshaw/'
+    weight: 55
   - name: 'Aritra Mukherjee'
     parent: 'phd_students'
     url: '/phd_students/aritra_mukherjee/'
-    weight: 54
+    weight: 56
   - name: 'Pela Okorie'
     parent: 'phd_students'
     url: '/phd_students/pela_okorie/'
-    weight: 55
+    weight: 57
   - name: 'Samuel Sarkodie'
     parent: 'phd_students'
     url: '/phd_students/samuel_sarkodie/'
-    weight: 56
+    weight: 58
   - name: 'Lou Whitehead'
     parent: 'phd_students'
     url: '/phd_students/lou_whitehead/'
-    weight: 57
+    weight: 59
   - name: 'Methodology research'
     identifier: 'methodology_research'
     url: '/methodology_research/'
