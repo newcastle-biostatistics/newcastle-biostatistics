@@ -25,7 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'Moha-Shojaei' 
+    tag: 'Shojaei' 
     category: ''
     publication_type: ''
     author: ''
