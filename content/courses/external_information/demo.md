@@ -26,7 +26,7 @@ design:
 Tuesday 28th May - Wednesday 29th May 2024
 
 ### Location
-Newcastle upon Tyne
+Henry Daysh Building, Newcastle upon Tyne
 
 Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
 

@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Adaptive Designs and Multiple Testing Procedures
-subtitle: May 2024, Newcastle upon Tyne, UK
+subtitle: 8th - 9th May 2024, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,10 +23,10 @@ design:
 
 
 ### Dates 
-TBD
+Wednesday 8th May - Thursday 9th May
 
 ### Location
-Newcastle upon Tyne
+Fredrick Douglas Centre, Newcastle upon Tyne
 
 Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
 
