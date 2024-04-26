@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Precision Medicine Clinical Trials
-subtitle: 8th July - 9th July 2024, Newcastle upon Tyne, UK
+subtitle: 18th November - 19th November 2024, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,10 +23,10 @@ design:
 
 
 ### Dates 
-Monday 8th July - Tuesday 9th July 2024
+Monday 18th November - Tuesday 19th November 2024
 
 ### Location
-Henry Daysh Building, Newcastle upon Tyne
+Newcastle upon Tyne
 
 Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
 
