@@ -38,7 +38,8 @@ While this is apparently a straightforward business, I think that standard justi
 
 [Download material](/documents/Loglecture.pdf)
 
-<Slides to appear here>
+[Download slides](/documents/loglectureslideshandoutversion.pdf)
+
 
 
 ### Topic 2: Residuals
