@@ -6,7 +6,7 @@ email: "A.Mukherjee4@newcastle.ac.uk"
 name: Aritra Mukherjee
 organizations:
 - name: Population Health Sciences Institute
-role: PhD Student
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
