@@ -5,9 +5,9 @@ authors:
 email: "svetlana.cherlin@ncl.ac.uk"
 name: Svetlana Cherlin
 organizations:
-- name: Newcastle Clinical Trials Unit
+- name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/svetlanacherlin.html"
-role: Sir Bobby Robson Foundation Cancer Trials Design Team Biostatistician
+role: Senior Research Associate (Biostatistician)
 social:
 - icon: envelope
   icon_pack: fas
