@@ -22,8 +22,8 @@ design:
 ---
 
 
-### Dates 
-Monday 18th November - Tuesday 19th November 2024
+### Dates and times 
+Monday 18th November (9.15am to 5.15pm) and Tuesday 19th November (9.00am to 4.00pm) 2024
 
 ### Location
 Newcastle upon Tyne
@@ -57,9 +57,27 @@ In this course we introduce the concept of precision medicine and cover innovati
 - [Dr Haiyan Zheng](https://researchportal.bath.ac.uk/en/persons/haiyan-zheng), University of Bath
 
 
-### Schedule
+### Lectures
 
-This will be a two-day course consisting of around 8 lectures each with an associated practical session delivered in R.
+
+1. Precision medicine and traditional clinical trials
+
+2. Basket trials and borrowing of information
+
+3. Umbrella and platform trials
+
+4. Analysing high-dimensional biomarker data in trials (Part I)     
+
+5. Adaptive enrichment and error rate control
+
+6. Adaptive interventions and chronic disease approaches (Crossover trials, N-of-1 trials, SMART designs)
+
+7. Analysing high-dimensional biomarker data in trials (Part II)
+
+8. Practical considerations for precision medicine trials
+
+
+
 
 ### FAQs
 
