@@ -48,7 +48,7 @@ There are many kinds of residuals for Normal-theory models and most of them are 
 
 [Download material](/documents/modelcheck.pdf)
 
-<Slides to appear here>
+[Download slides](/documents/modelcheckslideshandoutversion)
 
 
 ### Topic 3: Normal plots and Order statistics
@@ -57,4 +57,6 @@ The Normal plotting of residuals was omitted from Topic 2, as a thorough treatme
 
 [Download material](/documents/Normalplot.pdf)
 
-<Slides to appear here>
+[Download slides](/documents/normplotslideshandoutversion)
+
+
