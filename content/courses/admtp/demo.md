@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Adaptive Designs and Multiple Testing Procedures
-subtitle: 8th - 9th May 2024, Newcastle upon Tyne, UK
+subtitle: 20th - 21st March 2025, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,10 +23,10 @@ design:
 
 
 ### Dates 
-Wednesday 8th May - Thursday 9th May
+Thursday 20th March - Friday 21st March
 
 ### Location
-Fredrick Douglas Centre, Newcastle upon Tyne
+King George VI Building, Newcastle upon Tyne
 
 Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
 
@@ -38,7 +38,7 @@ Students: £320
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/adaptive-designs-and-multiple-testing-procedures-for-clinical-trials-2024)
+Registration will open soon. Please email james.wason@newcastle.ac.uk if you'd like to reserve a place.
 
 ### Description
 Adaptive designs are a way to improve the efficiency and participant benefit of clinical trials. With an adaptive design, information gathered during the trial can be used to change the design in a statistically robust way. There are many types of adaptive designs that are possible for different situations in all phases of trials.  In both adaptive and non-adaptive trials, there are often multiple hypotheses being tested. Examples include trials with multiple endpoints, multiple treatment arms and when a trial tests a treatment in different patient subgroups. Adaptive trials often mean that a particular hypothesis is tested several times during the trial. This creates issues with multiple testing, for which suitable procedures are needed to ensure the appropriate error rate is controlled.
@@ -66,15 +66,15 @@ Throughout the course, real examples will be used to demonstrate the methodology
 
 4. Advanced multiplicity correction
 
-5. Multi-arm multi-stage designs
+5. Multi-arm multi-stage designs 1
 
-6. Master protocols
+6. Multi-arm multi-stage designs 2
 
-7. Sample size re-estimation
+7. Analysis after adaptive trials
 
-8. Analysis after adaptive trials
+8. Sample size re-estimation
 
-9. Practical issues/Q&A
+9. Platform trials and practical issues
 
 Lectures 1-8 each have an associated practical session.
 
@@ -89,15 +89,13 @@ Q: I'm not a statistician, will I benefit from the course?
 A: The course is predominantly aimed at applied statisticians, but we've had non-statisticians do the course in the past and had feedback that they benefited from a good amount of the content! There'll be a couple of lectures that may be more difficult but if you don't mind some Greek letters and integral symbols, you should be okay.
 
 
-### Quotes from 2023 participants
+### Quotes from previous participants
 
 "This was an expertly delivered course. It was great to try to follow the theory underpinning these approaches alongside pragmatic decisions that are required in applied work."
 
 "Overall, this course exceeded my expectations and left me feeling inspired and equipped with valuable knowledge and skills."
 
 "Very informative and well organised"
-
-### Quotes from 2022 participants
 
 "This course was excellent, excellent materials and excellent teaching delivery."
 
