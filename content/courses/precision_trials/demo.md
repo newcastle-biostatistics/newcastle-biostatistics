@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Precision Medicine Clinical Trials
-subtitle: 18th November - 19th November 2024, Newcastle upon Tyne, UK
+subtitle: 10th July - 11th July 2025, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,7 +23,7 @@ design:
 
 
 ### Dates and times 
-Monday 18th November (9.15am to 5.15pm) and Tuesday 19th November (9.00am to 4.00pm) 2024
+Thurs 10th July (9.15am to 5.15pm) and Friday 11th July (9.00am to 4.00pm) 2024
 
 ### Location
 Newcastle upon Tyne
@@ -38,7 +38,7 @@ Public sector: £425
 Students: £320 
 
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/design-and-analysis-of-precision-medicine-trials-2024)
+Registration will open soon. Please email james.wason@newcastle.ac.uk if you'd like to reserve a place.
 
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
@@ -89,10 +89,14 @@ Q: I'm not a statistician, will I benefit from the course?
 
 A: The course is predominantly aimed at applied statisticians, but hopefully many parts of the course will be useful to non-statisticians! Some lectures may be more difficult but if you don't mind some Greek letters and other mathematical symbols, you should be okay.
 
-### Quotes from 2023 participants
+### Quotes from previous participants
+
+"I really enjoyed the course, the material was delivered well and the course facilitators were all very friendly."
 
 "The overall course was excellent, extremely knowledgeable presenters and the material was very well presented."
 
 "Very interesting course. Teachers very attentive to the needs of participants and available for any clarification"
 
 "It was great, very organized, helpful resources, interesting talks."
+
+"Definitely an excellent foundation course for design principles - it helps students to know about Precision Medicine design principles/innovative study design and analysis, - practical classes will give a good feeling of the programming practices, - meeting the experts (the lecturers) in this area of field and this can help better collaboration, knowledge sharing, etc and most importantly networking."

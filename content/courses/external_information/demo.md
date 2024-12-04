@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Leveraging External Information in Clinical Trials
-subtitle: 28th May - 29th May 2024, Newcastle upon Tyne, UK
+subtitle: 7th July - 8th July 2025, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,10 +23,10 @@ design:
 
 
 ### Dates 
-Tuesday 28th May - Wednesday 29th May 2024
+Monday 7th July (9.30am - 5.15pm) - Tuesday 8th July (9.00am - 4.00pm) 2025
 
 ### Location
-Henry Daysh Building, Newcastle upon Tyne
+Fredrick Douglas Centre, Newcastle upon Tyne
 
 Newcastle is easily accessible via train (frequent trains from London and Edinburgh) and air (Newcastle airport has multiple daily flights to London Heathrow, Schiphol, and Frankfurt).
 
@@ -37,7 +37,7 @@ Private sector: £640
 Public sector: £425
 Students: £320 
 
-To enrol, please go to the [Newcastle University Webstore](https://webstore.ncl.ac.uk/short-courses/faculty-of-medical-sciences/population-health-sciences-institute/leveraging-external-information-to-improve-the-design-and-analysis-of-clinical-trials-2024)
+Registration will open soon. Please email james.wason@newcastle.ac.uk if you'd like to reserve a place.
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 
@@ -60,13 +60,26 @@ As well as the necessary theory, we will cover computational approaches to imple
 ### Tutors
 
 - [Professor James Wason]({{< relref "/staff/james_wason" >}}), Newcastle University
-- [Dr Faye Williamson]({{< relref "/staff/faye_williamson" >}}), Newcastle University
-- [Dr Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html), Newcastle University
+- [Professor Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html), Newcastle University
 
 
-### Schedule
+### Lectures 
 
-This will be a two-day course consisting of around 8 lectures each with an associated practical session delivered in R.
+1. Limitations of clinical trials and how using external information could help
+
+2. Introduction to Bayesian inference
+
+3. Bayesian approaches to borrowing information
+
+4. Bayesian and hybrid approaches to designing trials
+
+5. Prior elicitation
+
+6. Bayesian adaptive designs
+
+7. Synthetic control approaches
+
+Lectures each have an associated practical session.
 
 ### FAQs
 
@@ -79,7 +92,11 @@ Q: I'm not a statistician, will I benefit from the course?
 A: The course is predominantly aimed at applied statisticians, but hopefully many parts of the course will be useful to non-statisticians! Some lectures may be more difficult but if you don't mind some Greek letters and other mathematical symbols, you should be okay.
 
 
-### Quotes from 2023 participants
+### Quotes from previous participants
+
+"I would absolutely recommend this course. The course covers why and how we could leverage external information in trials and includes many research led examples. I learned a lot from it."
+
+"Excellent. Builds up from basic to more complex aspects in a well paced and structured manner."
 
 "Fantastic, it covered the key topics that I need to know regarding Bayesian statistics in clinical trials, and also introduced me to a few new ones."
 
