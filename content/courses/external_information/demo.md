@@ -37,7 +37,7 @@ Private sector: £640
 Public sector: £425
 Students: £320 
 
-Registration will open soon. Please email james.wason@newcastle.ac.uk if you'd like to reserve a place.
+Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=4608bf28-d1b7-ef11-a72f-7c1e522d88b4). Payment can be made with credit/debit card or via invoice.
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 

@@ -38,7 +38,7 @@ Students: £320
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 
-Registration will open soon. Please email james.wason@newcastle.ac.uk if you'd like to reserve a place.
+Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=9340482a-ceb7-ef11-a72f-7c1e522d88b4). Payment can be made with credit/debit card or via invoice.
 
 ### Description
 Adaptive designs are a way to improve the efficiency and participant benefit of clinical trials. With an adaptive design, information gathered during the trial can be used to change the design in a statistically robust way. There are many types of adaptive designs that are possible for different situations in all phases of trials.  In both adaptive and non-adaptive trials, there are often multiple hypotheses being tested. Examples include trials with multiple endpoints, multiple treatment arms and when a trial tests a treatment in different patient subgroups. Adaptive trials often mean that a particular hypothesis is tested several times during the trial. This creates issues with multiple testing, for which suitable procedures are needed to ensure the appropriate error rate is controlled.
