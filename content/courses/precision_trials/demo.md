@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Precision Medicine Clinical Trials
-subtitle: 10th July - 11th July 2025, Newcastle upon Tyne, UK
+subtitle: 7th July - 8th July 2027, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,7 +23,7 @@ design:
 
 
 ### Dates and times 
-Thurs 10th July (9.15am to 5.15pm) and Friday 11th July (9.00am to 4.00pm) 2024
+Wed 7th July (9.15am to 5.15pm) and Thurs 8th July (9.00am to 4.00pm) 2027
 
 ### Location
 Newcastle upon Tyne
@@ -38,7 +38,7 @@ Public sector: £425
 Students: £320 
 
 
-Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=9c1008df-d1b7-ef11-a72f-7c1e522d88b4). Payment can be made with credit/debit card or via invoice.
+Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=22392641-b4d2-f111-a05b-6045bd0e7807). Payment can be made with credit/debit card or via invoice.
 
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
@@ -53,7 +53,6 @@ In this course we introduce the concept of precision medicine and cover innovati
 ### Tutors
 
 - [Professor James Wason]({{< relref "/staff/james_wason" >}}), Newcastle University
-- [Dr Svetlana Cherlin]({{< relref "/staff/svetlana_cherlin" >}}), Newcastle University
 - [Dr Haiyan Zheng](https://researchportal.bath.ac.uk/en/persons/haiyan-zheng), University of Bath
 
 
@@ -66,15 +65,13 @@ In this course we introduce the concept of precision medicine and cover innovati
 
 3. Umbrella and platform trials
 
-4. Analysing high-dimensional biomarker data in trials (Part I)     
+4. Analysing high-dimensional biomarker data in trials  
 
 5. Adaptive enrichment and error rate control
 
 6. Adaptive interventions and chronic disease approaches (Crossover trials, N-of-1 trials, SMART designs)
 
-7. Analysing high-dimensional biomarker data in trials (Part II)
-
-8. Practical considerations for precision medicine trials
+7. Practical considerations for precision medicine trials
 
 
 

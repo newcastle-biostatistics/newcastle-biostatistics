@@ -54,13 +54,13 @@ main:
     parent: 'staff'
     url: '/staff/nan_lin/'
     weight: 32
-  - name: 'Helen Mossop'
-    parent: 'staff'
-    url: '/staff/helen_mossop/'
-    weight: 33
   - name: 'Ellen Moss'
     parent: 'staff'
     url: '/staff/ellen_moss/'
+    weight: 33
+  - name: 'Helen Mossop'
+    parent: 'staff'
+    url: '/staff/helen_mossop/'
     weight: 34
   - name: 'Aritra Mukherjee'
     parent: 'staff'

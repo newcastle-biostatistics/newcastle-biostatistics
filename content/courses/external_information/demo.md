@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: Leveraging External Information in Clinical Trials
-subtitle: 29th June - 30th June 2026, Newcastle upon Tyne, UK
+subtitle: 5th July - 6th July 2027, Newcastle upon Tyne, UK
 
 design:
   columns: "1"
@@ -23,7 +23,7 @@ design:
 
 
 ### Dates 
-Monday 29th June (9.30am - 5.15pm) - Tuesday 30th June 2026 (9.00am - 4.00pm) 2026
+Monday 5th July (9.30am - 5.15pm) - Tuesday 6th July (9.00am - 4.00pm) 2027
 
 ### Location
 Stephenson Building, Newcastle upon Tyne
@@ -37,7 +37,7 @@ Private sector: £640
 Public sector: £425
 Students: £320 
 
-Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=4e0c3098-24d1-f011-8544-7ced8d99a209). Payment can be made with credit/debit card or via invoice.
+Registration is open on the University's [storefront page](https://cpd.ncl.ac.uk/courses/course-detail/?id=f1f886f4-b5d2-f111-a05b-6045bd0e7807). Payment can be made with credit/debit card or via invoice.
 
 Registration includes lunch and refreshments over the two days and a course dinner on the evening of day 1.
 
@@ -69,13 +69,13 @@ As well as the necessary theory, we will cover computational approaches to imple
 
 2. Introduction to Bayesian inference
 
-3. Bayesian approaches to borrowing information
+3. Bayesian approaches to borrowing information (single-source methods)
 
-4. Bayesian and hybrid approaches to designing trials
+4. Bayesian approaches to borrowing information (multiple-source methods)
 
-5. Prior elicitation
+5. Bayesian and hybrid approaches to designing trials
 
-6. Bayesian adaptive designs
+6. Prior elicitation
 
 7. Synthetic control approaches
 
