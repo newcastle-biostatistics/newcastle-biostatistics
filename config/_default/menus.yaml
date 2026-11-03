@@ -82,26 +82,30 @@ main:
     parent: 'staff'
     url: '/staff/moha_shojaei/'
     weight: 39
+  - name: 'David Sinclair'
+    parent: 'staff'
+    url: '/staff/david_sinclair/'
+    weight: 40
   - name: 'Dawn Teare'
     parent: 'staff'
     url: '/staff/dawn_teare/'
-    weight: 40
+    weight: 41
   - name: 'James Wason'
     parent: 'staff'
     url: '/staff/james_wason/'
-    weight: 41
+    weight: 42
   - name: 'Faye Williamson'
     parent: 'staff'
     url: '/staff/faye_williamson/'
-    weight: 42
+    weight: 43
   - name: 'Nina Wilson'
     parent: 'staff'
     url: '/staff/nina_wilson/'
-    weight: 43
+    weight: 44
   - name: 'Sylvia Zhang'
     parent: 'staff'
     url: '/staff/sylvia_zhang/'
-    weight: 44
+    weight: 45
   - name: 'PhD students'
     identifier: 'phd_students'
     url: '/phd_students/'
