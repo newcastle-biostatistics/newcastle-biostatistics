@@ -7,7 +7,7 @@ name: Moha Shojaei
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/research/institutes/population-health/"
-role: Research Associate
+role: Senior Research Associate
 social:
 - icon: envelope
   icon_pack: fas
