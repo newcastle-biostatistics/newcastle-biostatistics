@@ -114,14 +114,34 @@ main:
     parent: 'phd_students'
     url: '/phd_students/nicole_cizauskas/'
     weight: 51
+  - name: 'Emily Clements'
+    parent: 'phd_students'
+    url: '/phd_students/emily_clements/'
+    weight: 52
   - name: 'Niamh Fitzgerald'
     parent: 'phd_students'
     url: '/phd_students/niamh_fitzgerald/'
-    weight: 52
+    weight: 53
   - name: 'Raiann Hamshaw'
     parent: 'phd_students'
     url: '/phd_students/raiann_hamshaw/'
-    weight: 53
+    weight: 54
+  - name: 'Prika Huang'
+    parent: 'phd_students'
+    url: '/phd_students/prika_huang/'
+    weight: 55
+  - name: 'Ben Keane'
+    parent: 'phd_students'
+    url: '/phd_students/ben_keane/'
+    weight: 56
+  - name: 'Sofiia Kravchenko'
+    parent: 'phd_students'
+    url: '/phd_students/sofiia_kravchenko/'
+    weight: 57
+  - name: 'Laura Morgan'
+    parent: 'phd_students'
+    url: '/phd_students/laura_morgan/'
+    weight: 58
   - name: 'Methodology research'
     identifier: 'methodology_research'
     url: '/methodology_research/'
