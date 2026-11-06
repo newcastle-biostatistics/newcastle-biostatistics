@@ -7,7 +7,7 @@ name: Nina Wilson
 organizations:
 - name: Population Health Sciences Institute
   url: "https://www.ncl.ac.uk/medical-sciences/people/profile/ninawilson.html"
-role: Senior Research Associate
+role: Principal Research Associate
 social:
 - icon: envelope
   icon_pack: fas
