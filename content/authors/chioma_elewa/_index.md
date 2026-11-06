@@ -15,6 +15,15 @@ social:
 superuser: false
 ---
 
+## Background
+
+
+After completing my Master's degree, I joined the PHSI Biostatistics Research Group in September 2024 as a Predoctoral Fellow. I subsequently progressed to the role of Assistant Statistician. I contribute to the design, analysis, and reporting of clinical trials.
+
+### Qualifications
+MSc Applied Data Science, Teesside University
+BSc Biochemistry, University of Port Harcourt
+
 ### Contact
 
 - __Email:__ [Chioma.Elewa@ncl.ac.uk](mailto:Chioma.Elewa@ncl.ac.uk)
